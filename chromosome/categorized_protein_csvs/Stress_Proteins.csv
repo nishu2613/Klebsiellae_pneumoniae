@@ -1,0 +1,22 @@
+Protein_Id,Reference_Def,Hit Def,Status,Number of Mutations,Length,Category
+YP_005226293.1,DUF1471 domain-containing protein,GCA_002156725.1 ARS93932.1 multiple stress resistance protein BhsA [Klebsiella pneumoniae],Mutated,1,85,Stress Proteins
+YP_005226800.1,putative universal stress protein G [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94467.1 universal stress protein UspG [Klebsiella pneumoniae],Mutated,3,143,Stress Proteins
+YP_005226736.1,universal stress protein UspE [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94405.1 universal stress protein UspE [Klebsiella pneumoniae],Mutated,4,316,Stress Proteins
+YP_005229314.1,universal stress protein UspB [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96948.1 universal stress protein UspB [Klebsiella pneumoniae],Mutated,39,73,Stress Proteins
+YP_005227107.1,general stress protein,GCA_002156725.1 ARS93859.1 stress-induced protein [Klebsiella pneumoniae],Mutated,14,61,Stress Proteins
+YP_005225243.1,outer membrane lipoprotein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92956.1 Rcs stress response system protein RcsF [Klebsiella pneumoniae],Mutated,17,118,Stress Proteins
+YP_005226650.1,universal stress protein UspF,GCA_002156725.1 ARS97218.1 universal stress protein F [Klebsiella pneumoniae],Mutated,3,144,Stress Proteins
+YP_005224318.1,serine/threonine protein kinase RdoA [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92084.1 stress response kinase A [Klebsiella pneumoniae],Mutated,3,328,Stress Proteins
+YP_005224574.1,phage shock protein G [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92338.1 envelope stress response protein PspG [Klebsiella pneumoniae],Mutated,3,80,Stress Proteins
+YP_005225016.1,peroxide stress protein YaaA,GCA_002156725.1 ARS92750.1 peroxide stress protein YaaA [Klebsiella pneumoniae],Mutated,3,257,Stress Proteins
+YP_005226850.1,multiple drug resistance protein MarC [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94509.1 stress protection protein MarC [Klebsiella pneumoniae],Mutated,5,222,Stress Proteins
+YP_005228716.1,oxidative stress defense protein,GCA_002156725.1 ARS96375.1 oxidative stress defense protein [Klebsiella pneumoniae],Mutated,1,255,Stress Proteins
+YP_005226486.1,stress response translation initiation inhibitor YciH,GCA_002156725.1 ARS94104.1 stress response translation initiation inhibitor YciH [Klebsiella pneumoniae],Mutated,2,108,Stress Proteins
+YP_005229223.1,Hsp33-like chaperonin [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS97329.1 molecular chaperone Hsp33 [Klebsiella pneumoniae],Mutated,3,294,Stress Proteins
+YP_005227712.1,universal stress protein C [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95279.1 universal stress protein UspC [Klebsiella pneumoniae],Mutated,4,142,Stress Proteins
+YP_005229074.1,serine endoprotease [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96714.1 outer membrane-stress sensor serine endopeptidase DegS [Klebsiella pneumoniae],Mutated,3,352,Stress Proteins
+YP_005229315.1,universal stress protein A [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96949.1 universal stress global response regulator UspA [Klebsiella pneumoniae],Mutated,1,145,Stress Proteins
+YP_005227447.1,GlsB/YeaQ/YmgE family stress response membrane protein,GCA_002156725.1 ARS95047.1 GlsB/YeaQ/YmgE family stress response membrane protein [Klebsiella pneumoniae],Mutated,2,82,Stress Proteins
+YP_005224373.1,periplasmic repressor of stress-related two-component regulatory system [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92140.1 stress adaptor protein CpxP [Klebsiella pneumoniae],Mutated,2,167,Stress Proteins
+YP_005226510.1,phage shock protein B [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94194.1 envelope stress response membrane protein PspB [Klebsiella pneumoniae],Mutated,1,74,Stress Proteins
+YP_005227913.1,universal stress protein A [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95549.1 universal stress protein A [Klebsiella pneumoniae],Mutated,6,140,Stress Proteins

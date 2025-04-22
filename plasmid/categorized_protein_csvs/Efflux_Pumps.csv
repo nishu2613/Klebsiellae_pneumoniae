@@ -1,0 +1,3 @@
+Protein_Id,Reference_Def,Hit Def,Status,Number of Mutations,Length,Category
+YP_005221014.1,putative chloramphenicol and florfenicol resistance protein (CmlA) (plasmid) [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_011045595.1 QIF54468.1 chloramphenicol/florfenicol efflux MFS transporter FloR [Klebsiella pneumoniae],Mutated,38,404,Efflux Pumps
+YP_005221016.1,Orf3/QacEdelta1 fusion protein (plasmid) [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94173.1 quaternary ammonium compound efflux SMR transporter QacE delta 1 [Klebsiella pneumoniae],Mutated,51,115,Efflux Pumps

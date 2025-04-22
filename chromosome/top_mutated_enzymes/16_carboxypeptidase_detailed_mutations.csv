@@ -1,0 +1,11 @@
+Protein_Id,Reference_Def,Hit Def,Status,Number of Mutations,Length,Enzyme_Type
+YP_005229218.1,peptidoglycan synthetase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96857.1 carboxypeptidase/penicillin-binding protein 1A [Klebsiella pneumoniae],Mutated,205,809,carboxypeptidase
+YP_005226782.1,thermostable carboxypeptidase 1 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94449.1 carboxypeptidase M32 [Klebsiella pneumoniae],Mutated,434,75,carboxypeptidase
+YP_005226803.1,dipeptidyl carboxypeptidase II [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94470.1 dipeptidyl carboxypeptidase II [Klebsiella pneumoniae],Mutated,19,681,carboxypeptidase
+YP_005229031.1,D-alanyl-D-alanine carboxypeptidase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96671.1 serine-type D-Ala-D-Ala carboxypeptidase [Klebsiella pneumoniae],Mutated,44,468,carboxypeptidase
+YP_005226781.1,putative Zn-dependent carboxypeptidase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94449.1 carboxypeptidase M32 [Klebsiella pneumoniae],Mutated,70,433,carboxypeptidase
+YP_005227829.1,D-alanyl-D-alanine carboxypeptidase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95471.1 serine-type D-Ala-D-Ala carboxypeptidase [Klebsiella pneumoniae],Mutated,46,349,carboxypeptidase
+YP_005227349.1,peptidase U61 LD-carboxypeptidase A [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94958.1 LD-carboxypeptidase [Klebsiella pneumoniae],Mutated,12,345,carboxypeptidase
+YP_005226006.1,D-alanyl-D-alanine carboxypeptidase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93668.1 serine-type D-Ala-D-Ala carboxypeptidase [Klebsiella pneumoniae],Mutated,24,400,carboxypeptidase
+YP_005225803.1,D-alanyl-D-alanine carboxypeptidase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93481.1 serine-type D-Ala-D-Ala carboxypeptidase [Klebsiella pneumoniae],Mutated,25,423,carboxypeptidase
+YP_005227617.1,"muramoyltetrapeptide carboxypeptidase, partial [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156725.1 ARS95193.1 muramoyltetrapeptide carboxypeptidase [Klebsiella pneumoniae],Mutated,200,126,carboxypeptidase

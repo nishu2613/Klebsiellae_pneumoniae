@@ -1,0 +1,56 @@
+Protein_Id,Reference_Def,Hit Def,Status,Number of Mutations,Length,Enzyme_Type
+YP_005225241.1,prolyl-tRNA synthetase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92954.1 proline--tRNA ligase [Klebsiella pneumoniae],Mutated,2,572,ligase
+YP_005227472.1,threonyl-tRNA synthetase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95067.1 threonine--tRNA ligase [Klebsiella pneumoniae],Mutated,1,642,ligase
+YP_005225871.1,succinyl-CoA synthetase subunit beta [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93545.1 succinyl-CoA ligase subunit beta [Klebsiella pneumoniae],Mutated,1,388,ligase
+YP_005225834.1,glutaminyl-tRNA synthetase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93511.1 glutamine--tRNA ligase [Klebsiella pneumoniae],Mutated,6,555,ligase
+YP_005227709.1,arginyl-tRNA synthetase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95276.1 arginine--tRNA ligase [Klebsiella pneumoniae],Mutated,6,577,ligase
+YP_005229207.1,tryptophanyl-tRNA synthetase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96844.1 tryptophan--tRNA ligase [Klebsiella pneumoniae],Mutated,4,334,ligase
+YP_005226060.1,ribosomal protein S6 modification protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93724.1 30S ribosomal protein S6--L-glutamate ligase [Klebsiella pneumoniae],Mutated,1,300,ligase
+YP_005227923.1,methionyl-tRNA synthetase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS97282.1 methionine--tRNA ligase [Klebsiella pneumoniae],Mutated,49,637,ligase
+YP_005225531.1,cysteinyl-tRNA synthetase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93222.1 cysteine--tRNA ligase [Klebsiella pneumoniae],Mutated,6,461,ligase
+YP_005227770.1,yersiniabactin siderophore biosynthetic protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],"GCA_002156725.1 ARS95367.1 2,3-dihydroxybenzoate-AMP ligase [Klebsiella pneumoniae]",Mutated,19,525,ligase
+YP_005225112.1,UDP-N-acetylmuramate--L-alanine ligase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92844.1 UDP-N-acetylmuramate--L-alanine ligase [Klebsiella pneumoniae],Mutated,8,486,ligase
+YP_005225108.1,UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92841.1 UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase [Klebsiella pneumoniae],Mutated,7,438,ligase
+YP_005228711.1,putative ligase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96371.1 5-formyltetrahydrofolate cyclo-ligase [Klebsiella pneumoniae],Mutated,2,198,ligase
+YP_005224701.1,lysyl-tRNA synthetase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92452.1 elongation factor P--(R)-beta-lysine ligase [Klebsiella pneumoniae],Mutated,3,325,ligase
+YP_005228025.1,O-succinylbenzoic acid--CoA ligase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95652.1 2-succinylbenzoate-CoA ligase [Klebsiella pneumoniae],Mutated,21,458,ligase
+YP_005225105.1,"UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase [Klebsiella pneumoniae subsp. pneumoniae HS11286]","GCA_002156725.1 ARS92838.1 UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase [Klebsiella pneumoniae]",Mutated,4,495,ligase
+YP_005224896.1,putative tryptophanyl-tRNA synthetase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92639.1 tryptophan--tRNA ligase [Klebsiella pneumoniae],Mutated,19,335,ligase
+YP_005226679.1,phenylacetate-CoA ligase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94354.1 phenylacetate-CoA ligase [Klebsiella pneumoniae],Mutated,5,438,ligase
+YP_005227635.1,long-chain-fatty-acid--CoA ligase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS97261.1 long-chain-fatty-acid--CoA ligase [Klebsiella pneumoniae],Mutated,25,579,ligase
+YP_005227469.1,phenylalanyl-tRNA synthetase subunit alpha [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95063.1 phenylalanine--tRNA ligase subunit alpha [Klebsiella pneumoniae],Mutated,1,327,ligase
+YP_005227818.1,hypothetical protein KPHS_35180 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95460.1 lipoate-protein ligase A [Klebsiella pneumoniae],Mutated,23,246,ligase
+YP_005228394.1,glutamate--cysteine ligase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96065.1 glutamate--cysteine ligase [Klebsiella pneumoniae],Mutated,4,518,ligase
+YP_005224770.1,UDP-N-acetylmuramate:L-alanyl-gamma-D-glutamyl-meso-diaminopimelate ligase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92521.1 UDP-N-acetylmuramate:L-alanyl-gamma-D-glutamyl-meso-diaminopimelate ligase [Klebsiella pneumoniae],Mutated,23,457,ligase
+YP_005228686.1,lysyl-tRNA synthetase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93308.1 lysine--tRNA ligase [Klebsiella pneumoniae],Mutated,32,505,ligase
+YP_005228216.1,histidyl-tRNA synthetase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95877.1 histidine--tRNA ligase [Klebsiella pneumoniae],Mutated,13,414,ligase
+YP_005225813.1,leucyl-tRNA synthetase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93491.1 leucine--tRNA ligase [Klebsiella pneumoniae],Mutated,9,860,ligase
+YP_005228197.1,phosphoribosylaminoimidazole synthetase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95808.1 phosphoribosylformylglycinamidine cyclo-ligase [Klebsiella pneumoniae],Mutated,4,345,ligase
+YP_005228400.1,alanyl-tRNA synthetase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96070.1 alanine--tRNA ligase [Klebsiella pneumoniae],Mutated,5,875,ligase
+YP_005225113.1,D-alanine--D-alanine ligase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92845.1 D-alanine--D-alanine ligase [Klebsiella pneumoniae],Mutated,6,306,ligase
+YP_005227701.1,aspartyl-tRNA synthetase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95268.1 aspartate--tRNA ligase [Klebsiella pneumoniae],Mutated,6,595,ligase
+YP_005226139.1,"asparaginyl-tRNA synthetase, partial [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156725.1 ARS93795.1 asparagine--tRNA ligase [Klebsiella pneumoniae],Mutated,182,291,ligase
+YP_005225174.1,2'-5' RNA ligase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92897.1 2'-5' RNA ligase [Klebsiella pneumoniae],Mutated,1,178,ligase
+YP_005225747.1,enterobactin synthase subunit E [Klebsiella pneumoniae subsp. pneumoniae HS11286],"GCA_002156725.1 ARS93428.1 2,3-dihydroxybenzoate-AMP ligase [Klebsiella pneumoniae]",Mutated,9,535,ligase
+YP_005228124.1,NAD-dependent DNA ligase LigA [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95742.1 DNA ligase (NAD(+)) LigA [Klebsiella pneumoniae],Mutated,7,671,ligase
+YP_005225031.1,isoleucine-tRNA ligase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS97140.1 isoleucine--tRNA ligase [Klebsiella pneumoniae],Mutated,21,950,ligase
+YP_005225361.1,D-alanyl-alanine synthetase A [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS97154.1 D-alanine--D-alanine ligase A [Klebsiella pneumoniae],Mutated,12,376,ligase
+YP_005229461.1,DNA ligase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS97078.1 DNA ligase B [Klebsiella pneumoniae],Mutated,26,558,ligase
+YP_005225611.1,lysyl-tRNA synthetase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93308.1 lysine--tRNA ligase [Klebsiella pneumoniae],Mutated,32,505,ligase
+YP_005225698.1,carboxylate-amine ligase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93382.1 carboxylate--amine ligase [Klebsiella pneumoniae],Mutated,10,371,ligase
+YP_005227468.1,phenylalanyl-tRNA synthetase subunit beta [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156745.1 ARS98581.1 phenylalanine--tRNA ligase subunit beta [Klebsiella pneumoniae],Mutated,11,795,ligase
+YP_005226303.1,"crotonobetaine/carnitine-CoA ligase, partial [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156725.1 ARS93940.1 long-chain fatty acid--CoA ligase [Klebsiella pneumoniae],Mutated,453,117,ligase
+YP_005226104.1,seryl-tRNA synthetase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93765.1 serine--tRNA ligase [Klebsiella pneumoniae],Mutated,2,430,ligase
+YP_005225106.1,UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92839.1 UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase [Klebsiella pneumoniae],Mutated,6,452,ligase
+YP_005225167.1,pantoate--beta-alanine ligase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92890.1 pantoate--beta-alanine ligase [Klebsiella pneumoniae],Mutated,2,284,ligase
+YP_005227007.1,putative cell envelope integrity inner membrane protein TolA [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94651.1 E3 ubiquitin--protein ligase [Klebsiella pneumoniae],Mutated,21,177,ligase
+YP_005226304.1,crotonobetaine/carnitine-CoA ligase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93940.1 long-chain fatty acid--CoA ligase [Klebsiella pneumoniae],Mutated,141,431,ligase
+YP_005225872.1,succinyl-CoA synthetase subunit alpha [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93546.1 succinate--CoA ligase subunit alpha [Klebsiella pneumoniae],Mutated,2,289,ligase
+YP_005224994.1,lipoate-protein ligase A [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92730.1 lipoate--protein ligase A [Klebsiella pneumoniae],Mutated,25,338,ligase
+YP_005224816.1,valyl-tRNA synthetase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92561.1 valine--tRNA ligase [Klebsiella pneumoniae],Mutated,20,951,ligase
+YP_005228120.1,glutamyl-tRNA synthetase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95738.1 glutamate--tRNA ligase [Klebsiella pneumoniae],Mutated,10,472,ligase
+YP_005229381.1,glycyl-tRNA synthetase subunit beta [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS97007.1 glycine--tRNA ligase subunit beta [Klebsiella pneumoniae],Mutated,7,689,ligase
+YP_005224525.1,phosphoribosylamine--glycine ligase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92290.1 phosphoribosylamine--glycine ligase [Klebsiella pneumoniae],Mutated,7,431,ligase
+YP_005227254.1,tyrosyl-tRNA synthetase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94873.1 tyrosine--tRNA ligase [Klebsiella pneumoniae],Mutated,9,428,ligase
+YP_005229382.1,glycyl-tRNA synthetase subunit alpha [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS97008.1 glycine--tRNA ligase subunit alpha [Klebsiella pneumoniae],Mutated,1,303,ligase
+YP_005226140.1,asparaginyl-tRNA synthetase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93795.1 asparagine--tRNA ligase [Klebsiella pneumoniae],Mutated,337,138,ligase

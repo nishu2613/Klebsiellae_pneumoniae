@@ -1,0 +1,11 @@
+Protein_Id,Reference_Def,Hit Def,Status,Number of Mutations,Length,Enzyme_Type
+YP_005226674.1,enoyl-CoA hydratase-isomerase [Klebsiella pneumoniae subsp. pneumoniae HS11286],"GCA_002156725.1 ARS94350.1 2,3-dehydroadipyl-CoA hydratase [Klebsiella pneumoniae]",Mutated,8,255,hydratase
+YP_005226720.1,"fumarase A (fumarate hydratase class I), aerobic isozyme [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156725.1 ARS94391.1 fumarate hydratase [Klebsiella pneumoniae],Mutated,57,548,hydratase
+YP_005226721.1,fumarate hydratase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94392.1 class II fumarate hydratase [Klebsiella pneumoniae],Mutated,6,466,hydratase
+YP_005224930.1,"2-oxo-hepta-3-ene-1,7-dioic acid hydratase [Klebsiella pneumoniae subsp. pneumoniae HS11286]","GCA_002156725.1 ARS92673.1 2-oxo-hepta-3-ene-1,7-dioic acid hydratase [Klebsiella pneumoniae]",Mutated,5,267,hydratase
+YP_005226479.1,aconitate hydratase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94098.1 aconitate hydratase 1 [Klebsiella pneumoniae],Mutated,20,890,hydratase
+YP_005225921.1,putative urocanase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93587.1 urocanate hydratase [Klebsiella pneumoniae],Mutated,335,250,hydratase
+YP_005227401.1,2-keto-4-pentenoate hydratase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95005.1 2-keto-4-pentenoate hydratase [Klebsiella pneumoniae],Mutated,9,268,hydratase
+YP_005225145.1,aconitate hydratase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92873.1 aconitate hydratase B [Klebsiella pneumoniae],Mutated,106,839,hydratase
+YP_005226753.1,"fumarase B (fumarate hydratase class I), anaerobic isozyme [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156725.1 ARS94391.1 fumarate hydratase [Klebsiella pneumoniae],Mutated,57,550,hydratase
+YP_005225922.1,"putative urocanase, partial [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156725.1 ARS93587.1 urocanate hydratase [Klebsiella pneumoniae],Mutated,259,312,hydratase

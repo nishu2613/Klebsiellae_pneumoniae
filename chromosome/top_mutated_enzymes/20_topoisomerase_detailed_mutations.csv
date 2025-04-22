@@ -1,0 +1,6 @@
+Protein_Id,Reference_Def,Hit Def,Status,Number of Mutations,Length,Enzyme_Type
+YP_005228864.1,DNA topoisomerase IV subunit A [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96515.1 DNA topoisomerase IV subunit A [Klebsiella pneumoniae],Mutated,5,752,topoisomerase
+YP_005228871.1,DNA topoisomerase IV subunit B [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96522.1 DNA topoisomerase IV subunit B [Klebsiella pneumoniae],Mutated,4,631,topoisomerase
+YP_005226475.1,DNA topoisomerase I [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94094.1 DNA topoisomerase I [Klebsiella pneumoniae],Mutated,178,865,topoisomerase
+YP_005226402.1,DNA topoisomerase III [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94028.1 DNA topoisomerase III [Klebsiella pneumoniae],Mutated,311,374,topoisomerase
+YP_005226403.1,"DNA topoisomerase III, partial [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156725.1 ARS94028.1 DNA topoisomerase III [Klebsiella pneumoniae],Mutated,373,285,topoisomerase

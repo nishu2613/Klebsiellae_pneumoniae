@@ -1,0 +1,7 @@
+Protein_Id,Reference_Def,Hit Def,Status,Number of Mutations,Length,Enzyme_Type
+YP_005227565.1,sulfatase modifying factor 1 -like protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95143.1 sulfatase modifying factor 1 [Klebsiella pneumoniae],Mutated,31,297,sulfatase
+YP_005227559.1,"hypothetical protein KPHS_32600, partial [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156725.1 ARS95141.1 sulfatase modifying factor 1 [Klebsiella pneumoniae],Mutated,277,85,sulfatase
+YP_005227558.1,sulfatase modifying factor 1 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95140.1 sulfatase modifying factor 1 [Klebsiella pneumoniae],Mutated,211,117,sulfatase
+YP_005227563.1,sulfatase modifying factor 1 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95142.1 sulfatase modifying factor 1 [Klebsiella pneumoniae],Mutated,14,297,sulfatase
+YP_005227557.1,"sulfatase modifying factor 1, partial [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156725.1 ARS95140.1 sulfatase modifying factor 1 [Klebsiella pneumoniae],Mutated,156,190,sulfatase
+YP_005227562.1,SUMF1/EgtB/PvdO family nonheme iron enzyme,GCA_002156725.1 ARS95141.1 sulfatase modifying factor 1 [Klebsiella pneumoniae],Mutated,348,70,sulfatase

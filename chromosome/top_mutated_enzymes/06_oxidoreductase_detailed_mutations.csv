@@ -1,0 +1,79 @@
+Protein_Id,Reference_Def,Hit Def,Status,Number of Mutations,Length,Enzyme_Type
+YP_005226645.1,putative oxidoreductase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94322.1 oxidoreductase [Klebsiella pneumoniae],Mutated,29,372,oxidoreductase
+YP_005226894.1,putative oxidoreductase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94552.1 oxidoreductase [Klebsiella pneumoniae],Mutated,28,324,oxidoreductase
+YP_005228846.1,putative S-transferase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96497.1 thiol:disulfide oxidoreductase [Klebsiella pneumoniae],Mutated,4,288,oxidoreductase
+YP_005226763.1,malate:quinone oxidoreductase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94433.1 malate:quinone oxidoreductase [Klebsiella pneumoniae],Mutated,26,536,oxidoreductase
+YP_005227006.1,"putative NADH:flavin oxidoreductase/NADH oxidase, partial [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156725.1 ARS94650.1 oxidoreductase [Klebsiella pneumoniae],Mutated,146,232,oxidoreductase
+YP_005228043.1,bifunctional NADH:ubiquinone oxidoreductase subunit C/D [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95670.1 NADH-quinone oxidoreductase subunit C/D [Klebsiella pneumoniae],Mutated,146,602,oxidoreductase
+YP_005228639.1,putative aldo/keto reductase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96299.1 oxidoreductase [Klebsiella pneumoniae],Mutated,8,292,oxidoreductase
+YP_005225615.1,putative oxidoreductase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93312.1 oxidoreductase [Klebsiella pneumoniae],Mutated,22,343,oxidoreductase
+YP_005225421.1,oxidoreductase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93121.1 oxidoreductase [Klebsiella pneumoniae],Mutated,9,392,oxidoreductase
+YP_005228733.1,putative ferredoxin reductase subunit [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96391.1 pyridine nucleotide-disulfide oxidoreductase [Klebsiella pneumoniae],Mutated,6,398,oxidoreductase
+YP_005224750.1,putative oxidoreductase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92501.1 NAD(P)-dependent oxidoreductase [Klebsiella pneumoniae],Mutated,8,282,oxidoreductase
+YP_005225289.1,putative oxidoreductase protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93001.1 oxidoreductase [Klebsiella pneumoniae],Mutated,6,331,oxidoreductase
+YP_005226059.1,"oxygen-insensitive NADPH nitroreductase, partial [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156745.1 ART02225.1 NADPH-dependent oxidoreductase [Klebsiella pneumoniae],Mutated,144,109,oxidoreductase
+YP_005229061.1,"putative dehydrogenase, NAD(P)-binding, starvation-sensing protein [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156725.1 ARS96701.1 Zn-dependent oxidoreductase [Klebsiella pneumoniae],Mutated,7,338,oxidoreductase
+YP_005226404.1,zinc-containing alcohol dehydrogenase superfamily protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94029.1 NAD(P)H-quinone oxidoreductase [Klebsiella pneumoniae],Mutated,12,326,oxidoreductase
+YP_005228059.1,glutathione S-transferase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95686.1 thiol:disulfide oxidoreductase [Klebsiella pneumoniae],Mutated,3,209,oxidoreductase
+YP_005226003.1,putative dehydrogenase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93666.1 oxidoreductase [Klebsiella pneumoniae],Mutated,8,369,oxidoreductase
+YP_005226368.1,oxidoreductase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93998.1 oxidoreductase [Klebsiella pneumoniae],Mutated,8,249,oxidoreductase
+YP_005225614.1,gfo/Idh/MocA family oxidoreductase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93311.1 oxidoreductase [Klebsiella pneumoniae],Mutated,15,390,oxidoreductase
+YP_005226799.1,putative mannitol dehydrogenase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94466.1 D-mannonate oxidoreductase [Klebsiella pneumoniae],Mutated,19,487,oxidoreductase
+YP_005226820.1,putative dehydrogenase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94487.1 oxidoreductase [Klebsiella pneumoniae],Mutated,12,300,oxidoreductase
+YP_005228525.1,FAD-dependent oxidoreductase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96192.1 FAD-dependent oxidoreductase [Klebsiella pneumoniae],Mutated,41,465,oxidoreductase
+YP_005229257.1,putative dehydrogenase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96896.1 oxidoreductase [Klebsiella pneumoniae],Mutated,8,345,oxidoreductase
+YP_005226470.1,short chain dehydrogenase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94088.1 NAD(P)-dependent oxidoreductase [Klebsiella pneumoniae],Mutated,18,253,oxidoreductase
+YP_005227049.1,oxidoreductase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94692.1 oxidoreductase [Klebsiella pneumoniae],Mutated,29,390,oxidoreductase
+YP_005224953.1,alcohol dehydrogenase GroES domain-containing protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92694.1 galactonate oxidoreductase [Klebsiella pneumoniae],Mutated,5,340,oxidoreductase
+YP_005227267.1,"putative oxidoreductase, NAD(P)-linked [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156725.1 ARS94882.1 oxidoreductase [Klebsiella pneumoniae],Mutated,4,298,oxidoreductase
+YP_005228418.1,nitric oxide reductase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96089.1 FAD-dependent oxidoreductase [Klebsiella pneumoniae],Mutated,14,377,oxidoreductase
+YP_005225755.1,putative short-chain alcohol dehydrogenase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93436.1 oxidoreductase [Klebsiella pneumoniae],Mutated,8,247,oxidoreductase
+YP_005227449.1,"putative oxidase, partial [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156725.1 ARS97251.1 FAD-binding oxidoreductase [Klebsiella pneumoniae],Mutated,534,502,oxidoreductase
+YP_005227185.1,putative NAD(P)-binding dehydrogenase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94809.1 NADP-dependent oxidoreductase [Klebsiella pneumoniae],Mutated,7,345,oxidoreductase
+YP_005226191.1,oxidoreductase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93845.1 oxidoreductase [Klebsiella pneumoniae],Mutated,6,426,oxidoreductase
+YP_005228034.1,NADH dehydrogenase subunit M [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95661.1 NADH-quinone oxidoreductase subunit M [Klebsiella pneumoniae],Mutated,5,509,oxidoreductase
+YP_005226020.1,"terminase, ATPase subunit [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156725.1 ARS93693.1 oxidoreductase [Klebsiella pneumoniae],Mutated,74,588,oxidoreductase
+YP_005224954.1,mannitol dehydrogenase domain-containing protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92695.1 altronate oxidoreductase [Klebsiella pneumoniae],Mutated,6,481,oxidoreductase
+YP_005225726.1,short-chain dehydrogenase/reductase SDR [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93408.1 SDR family oxidoreductase [Klebsiella pneumoniae],Mutated,4,265,oxidoreductase
+YP_005228037.1,NADH dehydrogenase subunit J [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95664.1 NADH:ubiquinone oxidoreductase subunit J [Klebsiella pneumoniae],Mutated,4,184,oxidoreductase
+YP_005227318.1,ferredoxin [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94929.1 oxidoreductase [Klebsiella pneumoniae],Mutated,41,322,oxidoreductase
+YP_005225756.1,putative alcohol dehydrogenase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93437.1 oxidoreductase [Klebsiella pneumoniae],Mutated,19,362,oxidoreductase
+YP_005227108.1,putative oxidoreductase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS97239.1 NAD(P)-dependent oxidoreductase [Klebsiella pneumoniae],Mutated,18,304,oxidoreductase
+YP_005228702.1,protein disulfide oxidoreductase,GCA_002156725.1 ARS96362.1 protein disulfide oxidoreductase [Klebsiella pneumoniae],Mutated,17,167,oxidoreductase
+YP_005228036.1,NADH dehydrogenase subunit K [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95663.1 NADH-quinone oxidoreductase subunit K [Klebsiella pneumoniae],Mutated,1,100,oxidoreductase
+YP_005224575.1,quinone oxidoreductase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92339.1 quinone oxidoreductase [Klebsiella pneumoniae],Mutated,14,327,oxidoreductase
+YP_005225616.1,putative oxidoreductase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93313.1 oxidoreductase [Klebsiella pneumoniae],Mutated,9,335,oxidoreductase
+YP_005227994.1,malate:quinone oxidoreductase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95622.1 malate:quinone oxidoreductase [Klebsiella pneumoniae],Mutated,6,544,oxidoreductase
+YP_005226204.1,TrpR binding protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93858.1 NAD(P)H:quinone oxidoreductase [Klebsiella pneumoniae],Mutated,4,198,oxidoreductase
+YP_005225653.1,FAD-binding oxidoreductase,GCA_002156725.1 ARS93343.1 FAD-dependent oxidoreductase [Klebsiella pneumoniae],Mutated,4,433,oxidoreductase
+YP_005229005.1,LLM class flavin-dependent oxidoreductase,GCA_002156725.1 ARS96648.1 LLM class flavin-dependent oxidoreductase [Klebsiella pneumoniae],Mutated,3,335,oxidoreductase
+YP_005224319.1,protein disulfide isomerase I [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92085.1 protein disulfide oxidoreductase DsbA [Klebsiella pneumoniae],Mutated,11,207,oxidoreductase
+YP_005228948.1,putative NAD(P)-binding dehydrogenase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96596.1 oxidoreductase [Klebsiella pneumoniae],Mutated,5,329,oxidoreductase
+YP_005227856.1,dTDP-4-dehydrorhamnose reductase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95504.1 NAD(P)-dependent oxidoreductase [Klebsiella pneumoniae],Mutated,22,296,oxidoreductase
+YP_005228173.1,glutamate synthase subunit small chain [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95785.1 oxidoreductase FeS-binding subunit [Klebsiella pneumoniae],Mutated,14,660,oxidoreductase
+YP_005226079.1,putative nucleoside-diphosphate-sugar epimerase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93742.1 NAD(P)-dependent oxidoreductase [Klebsiella pneumoniae],Mutated,12,480,oxidoreductase
+YP_005228035.1,NADH dehydrogenase subunit L [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95662.1 NADH-quinone oxidoreductase subunit L [Klebsiella pneumoniae],Mutated,3,613,oxidoreductase
+YP_005226853.1,short-chain dehydrogenase/reductase SDR [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94512.1 oxidoreductase [Klebsiella pneumoniae],Mutated,1,225,oxidoreductase
+YP_005228038.1,NADH dehydrogenase subunit I [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95665.1 NADH-quinone oxidoreductase subunit I [Klebsiella pneumoniae],Mutated,1,180,oxidoreductase
+YP_005226653.1,"putative oxidoreductase, Fe-S subunit [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156725.1 ARS94330.1 pyruvate:ferredoxin (flavodoxin) oxidoreductase [Klebsiella pneumoniae],Mutated,20,1175,oxidoreductase
+YP_005224940.1,putative dehydrogenase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92682.1 oxidoreductase [Klebsiella pneumoniae],Mutated,19,338,oxidoreductase
+YP_005225706.1,putative oxidoreductase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93390.1 NAD(P)-dependent oxidoreductase [Klebsiella pneumoniae],Mutated,8,254,oxidoreductase
+YP_005226870.1,altronate oxidoreductase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94527.1 altronate oxidoreductase [Klebsiella pneumoniae],Mutated,19,483,oxidoreductase
+YP_005227816.1,molybdopterin-dependent oxidoreductase,GCA_002156725.1 ARS95458.1 oxidoreductase [Klebsiella pneumoniae],Mutated,35,153,oxidoreductase
+YP_005228033.1,NADH dehydrogenase subunit N [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95660.1 NADH-quinone oxidoreductase subunit N [Klebsiella pneumoniae],Mutated,1,485,oxidoreductase
+YP_005228212.1,Gfo/Idh/MocA family oxidoreductase,GCA_002156725.1 ARS95873.1 oxidoreductase [Klebsiella pneumoniae],Mutated,22,359,oxidoreductase
+YP_005227835.1,SDR family oxidoreductase,GCA_002156725.1 ARS95477.1 NAD(P)-dependent oxidoreductase [Klebsiella pneumoniae],Mutated,3,274,oxidoreductase
+YP_005229326.1,oxidoreductase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96959.1 oxidoreductase [Klebsiella pneumoniae],Mutated,7,252,oxidoreductase
+YP_005226622.1,oxidoreductase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94300.1 oxidoreductase [Klebsiella pneumoniae],Mutated,12,237,oxidoreductase
+YP_005228703.1,putative oxidoreductase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96363.1 NAD(P)-dependent oxidoreductase [Klebsiella pneumoniae],Mutated,4,247,oxidoreductase
+YP_005227800.1,putative dehydrogenase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95416.1 quinone oxidoreductase [Klebsiella pneumoniae],Mutated,72,267,oxidoreductase
+YP_005227768.1,"irp3 protein, yersiniabactin siderophore biosynthetic protein [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156725.1 ARS95365.1 oxidoreductase [Klebsiella pneumoniae],Mutated,13,366,oxidoreductase
+YP_005228045.1,"NADH-quinone oxidoreductase, A subunit, partial [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156725.1 ARS95672.1 NADH-quinone oxidoreductase subunit A [Klebsiella pneumoniae],Mutated,30,119,oxidoreductase
+YP_005226083.1,NADH oxidoreductase for HCP [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93746.1 hybrid-cluster NAD(P)-dependent oxidoreductase [Klebsiella pneumoniae],Mutated,6,322,oxidoreductase
+YP_005224876.1,oxidoreductase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92619.1 oxidoreductase [Klebsiella pneumoniae],Mutated,8,239,oxidoreductase
+YP_005229587.1,"putative oxidoreductase, flavoprotein [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156725.1 ARS92042.1 NAD(P)H-dependent oxidoreductase [Klebsiella pneumoniae],Mutated,3,188,oxidoreductase
+YP_005227238.1,putative oxidoreductase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94859.1 oxidoreductase [Klebsiella pneumoniae],Mutated,12,346,oxidoreductase
+YP_005228040.1,NADH dehydrogenase subunit G [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95667.1 NADH-quinone oxidoreductase subunit G [Klebsiella pneumoniae],Mutated,55,859,oxidoreductase
+YP_005226200.1,putative short-chain dehydrogenase/reductase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93854.1 SDR family oxidoreductase [Klebsiella pneumoniae],Mutated,13,262,oxidoreductase
+YP_005227450.1,putative oxidase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS97251.1 FAD-binding oxidoreductase [Klebsiella pneumoniae],Mutated,541,531,oxidoreductase
+YP_005228041.1,NADH dehydrogenase I subunit F [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95668.1 NADH-quinone oxidoreductase subunit F [Klebsiella pneumoniae],Mutated,2,445,oxidoreductase

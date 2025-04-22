@@ -1,0 +1,65 @@
+Protein_Id,Reference_Def,Hit Def,Status,Number of Mutations,Length,Enzyme_Type
+YP_005225035.1,ribonucleoside hydrolase RihC [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92767.1 non-specific ribonucleoside hydrolase RihC [Klebsiella pneumoniae],Mutated,5,304,hydrolase
+YP_005226144.1,allantoate amidohydrolase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93798.1 Zn-dependent hydrolase [Klebsiella pneumoniae],Mutated,10,412,hydrolase
+YP_005226195.1,gamma-glutamyl-gamma-aminobutyrate hydrolase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93848.1 gamma-glutamyl-gamma-aminobutyrate hydrolase [Klebsiella pneumoniae],Mutated,7,250,hydrolase
+YP_005226631.1,MBL fold metallo-hydrolase,GCA_002156725.1 ARS94308.1 MBL fold metallo-hydrolase [Klebsiella pneumoniae],Mutated,14,289,hydrolase
+YP_005229190.1,putative enzyme with alpha/beta-hydrolase domain [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96828.1 hydrolase [Klebsiella pneumoniae],Mutated,24,319,hydrolase
+YP_005225841.1,esterase YbfF [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93518.1 alpha/beta hydrolase [Klebsiella pneumoniae],Mutated,23,238,hydrolase
+YP_005227289.1,beta-lactamase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94905.1 MBL fold metallo-hydrolase [Klebsiella pneumoniae],Mutated,8,278,hydrolase
+YP_005227161.1,putative sugar hydrolase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94788.1 sugar hydrolase [Klebsiella pneumoniae],Mutated,15,522,hydrolase
+YP_005228056.1,putative enzyme (Nudix hydrolase) [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95683.1 NUDIX hydrolase [Klebsiella pneumoniae],Mutated,2,183,hydrolase
+YP_005227900.1,HAD-superfamily hydrolase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95538.1 HAD family hydrolase [Klebsiella pneumoniae],Mutated,42,220,hydrolase
+YP_005225688.1,beta-lactamase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93374.1 MBL fold metallo-hydrolase [Klebsiella pneumoniae],Mutated,17,371,hydrolase
+YP_005225320.1,family IB HAD-hydrolase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93030.1 HAD family hydrolase [Klebsiella pneumoniae],Mutated,6,221,hydrolase
+YP_005226970.1,"alpha/beta hydrolase-like protein, partial [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156725.1 ARS94615.1 alpha/beta hydrolase [Klebsiella pneumoniae],Mutated,172,125,hydrolase
+YP_005225624.1,"beta-fructofuranosidase, sucrose-6-phosphate hydrolase [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156725.1 ARS93319.1 glycosyl hydrolase family 32 [Klebsiella pneumoniae],Mutated,20,466,hydrolase
+YP_005227010.1,allantoate amidohydrolase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94654.1 Zn-dependent hydrolase [Klebsiella pneumoniae],Mutated,24,419,hydrolase
+YP_005224864.1,"putative beta-1,4-xylosidase, XynB [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156725.1 ARS92608.1 glycoside hydrolase 43 family protein [Klebsiella pneumoniae],Mutated,21,559,hydrolase
+YP_005226983.1,N-acylhomoserine lactone degredation protein AhlK [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94627.1 MBL fold metallo-hydrolase [Klebsiella pneumoniae],Mutated,6,264,hydrolase
+YP_005227194.1,putative hydrolase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94816.1 alpha/beta hydrolase [Klebsiella pneumoniae],Mutated,16,249,hydrolase
+YP_005227710.1,putative cytoplasmic protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95277.1 glycoside hydrolase 105 family protein [Klebsiella pneumoniae],Mutated,7,379,hydrolase
+YP_005228848.1,dienelactone hydrolase family protein,GCA_002156725.1 ARS96499.1 dienelactone hydrolase [Klebsiella pneumoniae],Mutated,4,295,hydrolase
+YP_005229593.1,"putative xylanase, partial [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156725.1 ARS92047.1 glycoside hydrolase [Klebsiella pneumoniae],Mutated,294,103,hydrolase
+YP_005228952.1,altronate hydrolase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96600.1 altronate hydrolase [Klebsiella pneumoniae],Mutated,1,495,hydrolase
+YP_005224609.1,putative inner membrane protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92371.1 murein hydrolase effector protein LrgB [Klebsiella pneumoniae],Mutated,1,229,hydrolase
+YP_005227986.1,putative beta-lactamase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95615.1 serine hydrolase [Klebsiella pneumoniae],Mutated,18,428,hydrolase
+YP_005228325.1,"putative prophage endolysin, control of lysis [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_018128465.1 QUC47011.1 glycoside hydrolase family 104 protein [Klebsiella pneumoniae],Mutated,19,165,hydrolase
+YP_005227184.1,pyrimidine specific nucleoside hydrolase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94808.1 pyrimidine-specific ribonucleoside hydrolase RihA [Klebsiella pneumoniae],Mutated,9,311,hydrolase
+YP_005227172.1,putative peptidase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94799.1 hydrolase [Klebsiella pneumoniae],Mutated,18,373,hydrolase
+YP_005229592.1,"putative xylanase, partial [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156725.1 ARS92047.1 glycoside hydrolase [Klebsiella pneumoniae],Mutated,133,265,hydrolase
+YP_005225594.1,hydroxyisourate hydrolase,GCA_002156725.1 ARS93292.1 5-hydroxyisourate hydrolase [Klebsiella pneumoniae],Mutated,4,133,hydrolase
+YP_005227809.1,putative non-heme chloroperoxidase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95451.1 alpha/beta hydrolase [Klebsiella pneumoniae],Mutated,8,278,hydrolase
+YP_005226855.1,"putative glycosyl hydrolase, BNR repeat protein [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156725.1 ARS94514.1 glycosyl hydrolase [Klebsiella pneumoniae],Mutated,3,388,hydrolase
+YP_005227111.1,MBL fold metallo-hydrolase,GCA_002156725.1 ARS94744.1 MBL fold metallo-hydrolase [Klebsiella pneumoniae],Mutated,37,283,hydrolase
+YP_005227402.1,2-hydroxy-6-oxononadienedioate [Klebsiella pneumoniae subsp. pneumoniae HS11286],"GCA_002156725.1 ARS95006.1 2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoate hydrolase [Klebsiella pneumoniae]",Mutated,14,288,hydrolase
+YP_005227086.1,alpha-L-rhamnosidase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002967795.2 QKE12844.1 family 78 glycoside hydrolase catalytic domain [Klebsiella pneumoniae],Mutated,292,870,hydrolase
+YP_005226439.1,metal-dependent hydrolase,GCA_002156725.1 ARS94058.1 metal-dependent hydrolase [Klebsiella pneumoniae],Mutated,2,196,hydrolase
+YP_005229483.1,putative glycoside hydrolase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS91943.1 glycoside hydrolase [Klebsiella pneumoniae],Mutated,10,459,hydrolase
+YP_005227541.1,peptidyl-tRNA hydrolase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95127.1 aminoacyl-tRNA hydrolase [Klebsiella pneumoniae],Mutated,3,194,hydrolase
+YP_005225450.1,cof family hydrolase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93149.1 thiamin pyrimidine pyrophosphate hydrolase [Klebsiella pneumoniae],Mutated,2,272,hydrolase
+YP_005227702.1,hydrolase,GCA_002156725.1 ARS95269.1 hydrolase [Klebsiella pneumoniae],Mutated,5,188,hydrolase
+YP_005225254.1,hydroxyacylglutathione hydrolase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92966.1 hydroxyacylglutathione hydrolase [Klebsiella pneumoniae],Mutated,12,251,hydrolase
+YP_005228626.1,glycoside hydrolase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS97306.1 glycosyl hydrolase family 32 [Klebsiella pneumoniae],Mutated,16,477,hydrolase
+YP_005228850.1,putative glycoside hydrolase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96501.1 glycoside hydrolase [Klebsiella pneumoniae],Mutated,14,507,hydrolase
+YP_005227062.1,putative epoxide hydrolase protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94704.1 alpha/beta hydrolase [Klebsiella pneumoniae],Mutated,11,330,hydrolase
+YP_005228730.1,putative hydrolase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96388.1 alpha/beta hydrolase [Klebsiella pneumoniae],Mutated,7,256,hydrolase
+YP_005226530.1,"glycosyl hydrolase, family 2 [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156725.1 ARS94212.1 glycosyl hydrolase family 2 [Klebsiella pneumoniae],Mutated,719,45,hydrolase
+YP_005224480.1,deoxyribonuclease TatD [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92247.1 hydrolase TatD [Klebsiella pneumoniae],Mutated,11,267,hydrolase
+YP_005226277.1,putative hydrolase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93921.1 metal-dependent hydrolase [Klebsiella pneumoniae],Mutated,3,264,hydrolase
+YP_005226527.1,alpha/beta hydrolase,GCA_002156725.1 ARS94209.1 alpha/beta hydrolase [Klebsiella pneumoniae],Mutated,23,378,hydrolase
+YP_005224608.1,putative inner membrane protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92370.1 murein hydrolase regulator LrgA [Klebsiella pneumoniae],Mutated,1,135,hydrolase
+YP_005224988.1,putative hydrolase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92725.1 metal-dependent hydrolase [Klebsiella pneumoniae],Mutated,7,264,hydrolase
+YP_005229417.1,murein hydrolase activator EnvC,GCA_002156725.1 ARS97045.1 murein hydrolase activator EnvC [Klebsiella pneumoniae],Mutated,8,423,hydrolase
+YP_005226900.1,transthyretin-like protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94558.1 hydroxyisourate hydrolase [Klebsiella pneumoniae],Mutated,7,108,hydrolase
+YP_005229219.1,putative NUDIX hydrolase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96858.1 ADP compounds hydrolase NudE [Klebsiella pneumoniae],Mutated,2,188,hydrolase
+YP_005225238.1,aminoacyl-tRNA hydrolase,GCA_002156725.1 ARS92952.1 aminoacyl-tRNA hydrolase [Klebsiella pneumoniae],Mutated,2,137,hydrolase
+YP_005227955.1,putative esterase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95586.1 S-formylglutathione hydrolase [Klebsiella pneumoniae],Mutated,5,277,hydrolase
+YP_005228947.1,M48 family metallopeptidase,GCA_002156725.1 ARS96595.1 metal-dependent hydrolase [Klebsiella pneumoniae],Mutated,2,166,hydrolase
+YP_005229535.1,phosphonoacetaldehyde hydrolase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS91991.1 phosphonoacetaldehyde hydrolase [Klebsiella pneumoniae],Mutated,19,269,hydrolase
+YP_005226949.1,alpha/beta hydrolase,GCA_002156725.1 ARS94600.1 alpha/beta hydrolase [Klebsiella pneumoniae],Mutated,154,365,hydrolase
+YP_005227035.1,putative isochorismatase hydrolase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002903005.1 AUV41092.1 cysteine hydrolase [Klebsiella pneumoniae],Mutated,3,169,hydrolase
+YP_005224809.1,amidohydrolase family protein,GCA_002156725.1 ARS92555.1 metal-dependent hydrolase [Klebsiella pneumoniae],Mutated,10,521,hydrolase
+YP_005226135.1,MBL fold metallo-hydrolase,GCA_002156725.1 ARS93793.1 MBL fold metallo-hydrolase [Klebsiella pneumoniae],Mutated,2,215,hydrolase
+YP_005226319.1,putative Nudix hydrolase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93954.1 NUDIX hydrolase [Klebsiella pneumoniae],Mutated,26,152,hydrolase
+YP_005225797.1,putative NAD(P)-binding amidase-type enzyme [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93475.1 hydrolase [Klebsiella pneumoniae],Mutated,5,262,hydrolase
+YP_005226027.1,lysozyme,GCA_002156725.1 ARS93700.1 glycoside hydrolase [Klebsiella pneumoniae],Mutated,17,169,hydrolase

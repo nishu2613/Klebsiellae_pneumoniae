@@ -1,0 +1,22 @@
+Protein_Id,Reference_Def,Hit Def,Status,Number of Mutations,Length,Enzyme_Type
+YP_005227920.1,"putative ATP-binding protein, partial [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156725.1 ARS95555.1 Fe-S-binding ATPase [Klebsiella pneumoniae],Mutated,284,90,atpase
+YP_005227286.1,"type VI secretion ATPase, ClpV1 family [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002202195.1 ASC23592.1 ATPase [Klebsiella pneumoniae],Mutated,21,72,atpase
+YP_005227778.1,putative type IV secretory pathway VirB4 component [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95377.1 ATPase [Klebsiella pneumoniae],Mutated,20,912,atpase
+YP_005229289.1,heavy-metal transporting ATPase ZntA [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96925.1 zinc/cadmium/mercury/lead-transporting ATPase [Klebsiella pneumoniae],Mutated,36,736,atpase
+YP_005227929.1,ATPase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95560.1 ATPase [Klebsiella pneumoniae],Mutated,8,315,atpase
+YP_005224350.1,putative serine protease [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92117.1 AAA family ATPase [Klebsiella pneumoniae],Mutated,3,197,atpase
+YP_005227785.1,type IV secretory pathway VirB11 component [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95384.1 P-type DNA transfer ATPase VirB11 [Klebsiella pneumoniae],Mutated,29,341,atpase
+YP_005225512.1,copper exporting ATPase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS97158.1 Cu+ exporting ATPase [Klebsiella pneumoniae],Mutated,30,851,atpase
+YP_005227921.1,"putative ATP-binding protein, partial [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156725.1 ARS95555.1 Fe-S-binding ATPase [Klebsiella pneumoniae],Mutated,115,261,atpase
+YP_005228940.1,ATPase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96588.1 ATPase [Klebsiella pneumoniae],Mutated,23,495,atpase
+YP_005224801.1,magnesium-transporting ATPase MgtA [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92547.1 magnesium-translocating P-type ATPase [Klebsiella pneumoniae],Mutated,8,902,atpase
+YP_005226603.1,putative protease [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94282.1 ClpV1 family T6SS ATPase [Klebsiella pneumoniae],Mutated,45,884,atpase
+YP_005225850.1,K+-transporting ATPase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93526.1 potassium-transporting ATPase subunit KdpA [Klebsiella pneumoniae],Mutated,9,559,atpase
+YP_005228800.1,conjugative transfer ATPase,"GCA_002156725.1 ARS96456.1 conjugative transfer ATPase, PFL_4706 family [Klebsiella pneumoniae]",Mutated,19,925,atpase
+YP_005225848.1,potassium-transporting ATPase subunit C [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93524.1 potassium-transporting ATPase subunit C [Klebsiella pneumoniae],Mutated,8,191,atpase
+YP_005224821.1,ATPase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92567.1 ATPase [Klebsiella pneumoniae],Mutated,10,500,atpase
+YP_005226158.1,ABC transport system ATP-binding component [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93810.1 ABC transporter ATPase [Klebsiella pneumoniae],Mutated,182,635,atpase
+YP_005225985.1,putative transport system ATP-binding component [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93648.1 ABC-F family ATPase [Klebsiella pneumoniae],Mutated,14,522,atpase
+YP_005224305.1,regulatory ATPase RavA [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92071.1 ATPase RavA [Klebsiella pneumoniae],Mutated,7,499,atpase
+YP_005225849.1,potassium-transporting ATPase subunit B [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93525.1 potassium-transporting ATPase subunit B [Klebsiella pneumoniae],Mutated,16,682,atpase
+YP_005226410.1,ATPase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94033.1 ATPase [Klebsiella pneumoniae],Mutated,42,210,atpase

@@ -1,0 +1,34 @@
+Protein_Id,Reference_Def,Hit Def,Status,Number of Mutations,Length,Enzyme_Type
+YP_005228570.1,propanediol utilization dehydratase small subunit [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96235.1 propanediol dehydratase [Klebsiella pneumoniae],Mutated,4,174,dehydratase
+YP_005228917.1,glycerol dehydratase small subunit [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96565.1 glycerol dehydratase small subunit [Klebsiella pneumoniae],Mutated,5,141,dehydratase
+YP_005227685.1,"phosphogluconate dehydratase, partial [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156725.1 ARS95254.1 phosphogluconate dehydratase [Klebsiella pneumoniae],Mutated,556,66,dehydratase
+YP_005227970.1,mannonate dehydratase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95600.1 mannonate dehydratase [Klebsiella pneumoniae],Mutated,6,396,dehydratase
+YP_005228572.1,propanediol utilization diol dehydratase reactivation protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96237.1 propanediol dehydratase [Klebsiella pneumoniae],Mutated,3,116,dehydratase
+YP_005229059.1,mannonate dehydratase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96700.1 mannonate dehydratase [Klebsiella pneumoniae],Mutated,7,354,dehydratase
+YP_005225692.1,"Mg2+ transport ATPase, P-type 1 [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156725.1 ARS93378.1 carbonate dehydratase [Klebsiella pneumoniae],Mutated,19,907,dehydratase
+YP_005228508.1,putative (D)-glucarate dehydratase 2 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96174.1 glucarate dehydratase [Klebsiella pneumoniae],Mutated,9,446,dehydratase
+YP_005228919.1,glycerol dehydratase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96567.1 propanediol dehydratase [Klebsiella pneumoniae],Mutated,1,555,dehydratase
+YP_005225161.1,carbonate dehydratase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92884.1 carbonate dehydratase [Klebsiella pneumoniae],Mutated,17,204,dehydratase
+YP_005224831.1,putative sugar phosphate isomerase/epimerase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92580.1 myo-inosose-2 dehydratase [Klebsiella pneumoniae],Mutated,2,299,dehydratase
+YP_005226503.1,SDR family oxidoreductase,GCA_002156725.1 ARS94188.1 NAD-dependent dehydratase [Klebsiella pneumoniae],Mutated,20,302,dehydratase
+YP_005228569.1,"propanediol utilization: dehydratase, medium subunit [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156725.1 ARS96234.1 propanediol dehydratase [Klebsiella pneumoniae],Mutated,3,229,dehydratase
+YP_005227686.1,phosphogluconate dehydratase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95254.1 phosphogluconate dehydratase [Klebsiella pneumoniae],Mutated,306,360,dehydratase
+YP_005225093.1,isopropylmalate isomerase large subunit [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92824.1 3-isopropylmalate dehydratase large subunit [Klebsiella pneumoniae],Mutated,9,466,dehydratase
+YP_005225092.1,isopropylmalate isomerase small subunit [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92823.1 3-isopropylmalate dehydratase small subunit [Klebsiella pneumoniae],Mutated,3,201,dehydratase
+YP_005229554.1,D-serine deaminase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92009.1 D-serine dehydratase [Klebsiella pneumoniae],Mutated,15,442,dehydratase
+YP_005227858.1,"dTDP-D-glucose 4,6-dehydratase [Klebsiella pneumoniae subsp. pneumoniae HS11286]","GCA_002156725.1 ARS95506.1 dTDP-glucose 4,6-dehydratase [Klebsiella pneumoniae]",Mutated,43,354,dehydratase
+YP_005228507.1,(D)-glucarate dehydratase 1 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96173.1 glucarate dehydratase [Klebsiella pneumoniae],Mutated,8,446,dehydratase
+YP_005228568.1,"propanediol utilization dehydratase, large subunit [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156725.1 ARS96233.1 propanediol dehydratase [Klebsiella pneumoniae],Mutated,5,554,dehydratase
+YP_005227602.1,threonine dehydratase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95180.1 serine/threonine dehydratase [Klebsiella pneumoniae],Mutated,6,329,dehydratase
+YP_005224435.1,"dTDP-glucose 4,6-dehydratase [Klebsiella pneumoniae subsp. pneumoniae HS11286]","GCA_002156725.1 ARS92203.1 dTDP-glucose 4,6-dehydratase [Klebsiella pneumoniae]",Mutated,6,355,dehydratase
+YP_005225772.1,methylthioribulose 1-phosphate dehydratase,GCA_002156725.1 ARS93450.1 methylthioribulose 1-phosphate dehydratase [Klebsiella pneumoniae],Mutated,3,202,dehydratase
+YP_005224417.1,dihydroxy-acid dehydratase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92182.1 dihydroxy-acid dehydratase [Klebsiella pneumoniae],Mutated,3,616,dehydratase
+YP_005228018.1,putative dehydratase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156745.1 ARS99124.1 L-rhamnonate dehydratase [Klebsiella pneumoniae],Mutated,75,401,dehydratase
+YP_005224418.1,threonine dehydratase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92183.1 PLP-dependent threonine dehydratase [Klebsiella pneumoniae],Mutated,44,495,dehydratase
+YP_005227684.1,"phosphogluconate dehydratase, partial [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156725.1 ARS95254.1 phosphogluconate dehydratase [Klebsiella pneumoniae],Mutated,434,182,dehydratase
+YP_005229568.1,putative mandelate racemase/muconate lactonizing enzyme [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92023.1 D-galactonate dehydratase [Klebsiella pneumoniae],Mutated,4,382,dehydratase
+YP_005228918.1,glycerol dehydratase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96566.1 propanediol dehydratase [Klebsiella pneumoniae],Mutated,2,194,dehydratase
+YP_005225354.1,delta-aminolevulinic acid dehydratase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93059.1 delta-aminolevulinic acid dehydratase [Klebsiella pneumoniae],Mutated,2,324,dehydratase
+YP_005228976.1,(D)-galactarate dehydrogenase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96621.1 galactarate dehydratase [Klebsiella pneumoniae],Mutated,6,523,dehydratase
+YP_005225613.1,myo-inosose-2 dehydratase,GCA_002156725.1 ARS93310.1 myo-inosose-2 dehydratase [Klebsiella pneumoniae],Mutated,10,306,dehydratase
+YP_005229095.1,type II 3-dehydroquinate dehydratase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS97323.1 type II 3-dehydroquinate dehydratase [Klebsiella pneumoniae],Mutated,3,150,dehydratase

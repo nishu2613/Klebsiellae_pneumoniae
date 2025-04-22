@@ -1,0 +1,40 @@
+Protein_Id,Reference_Def,Hit Def,Status,Number of Mutations,Length,Category
+YP_005225127.1,type IV pilin biogenesis transmembrane protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92857.1 type IV pilin biogenesis protein [Klebsiella pneumoniae],Mutated,17,401,Fimbrial Proteins
+YP_005229217.1,hypothetical protein KPHS_49170 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96856.1 pilus assembly protein [Klebsiella pneumoniae],Mutated,6,266,Fimbrial Proteins
+YP_005228655.1,major type 1 subunit fimbrin (pilin) [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96318.1 type-1 fimbrial protein subunit A [Klebsiella pneumoniae],Mutated,23,182,Fimbrial Proteins
+YP_005228643.1,putative fimbrial-like protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96306.1 fimbrial protein [Klebsiella pneumoniae],Mutated,1,211,Fimbrial Proteins
+YP_005224689.1,type 1 fimbrial protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92438.1 type 1 fimbrial protein [Klebsiella pneumoniae],Mutated,72,187,Fimbrial Proteins
+YP_005225601.1,pilin chaperone [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93298.1 fimbrial chaperone [Klebsiella pneumoniae],Mutated,7,231,Fimbrial Proteins
+YP_005228661.1,fimbrial protein FimH [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS97309.1 fimbrial protein [Klebsiella pneumoniae],Mutated,10,302,Fimbrial Proteins
+YP_005228659.1,type 1 fimbrial minor component [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96321.1 fimbrial protein [Klebsiella pneumoniae],Mutated,9,175,Fimbrial Proteins
+YP_005225327.1,common pilus major fimbrillin subunit EcpA,GCA_002156725.1 ARS93036.1 common pilus major fimbrillin subunit EcpA [Klebsiella pneumoniae],Mutated,2,195,Fimbrial Proteins
+YP_005225665.1,hypothetical protein KPHS_13650 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93354.1 fimbrial protein [Klebsiella pneumoniae],Mutated,2,539,Fimbrial Proteins
+YP_005228645.1,putative fimbrial usher protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96308.1 fimbrial protein [Klebsiella pneumoniae],Mutated,8,828,Fimbrial Proteins
+YP_005224686.1,fimbrial protein,GCA_002156725.1 ARS92435.1 fimbrial protein [Klebsiella pneumoniae],Mutated,3,344,Fimbrial Proteins
+YP_005226907.1,putative fimbrial chaperone [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94564.1 fimbrial protein [Klebsiella pneumoniae],Mutated,14,231,Fimbrial Proteins
+YP_005228640.1,pilus assembly protein PilZ,GCA_002156745.1 ARS99733.1 pilus assembly protein PilZ [Klebsiella pneumoniae],Mutated,9,234,Fimbrial Proteins
+YP_005228662.1,putative fimbrial protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96323.1 fimbrial protein [Klebsiella pneumoniae],Mutated,54,440,Fimbrial Proteins
+YP_005225668.1,fimbrillin MatB,GCA_002156725.1 ARS93357.1 fimbrial protein [Klebsiella pneumoniae],Mutated,9,192,Fimbrial Proteins
+YP_005226905.1,"fimbrial protein, partial [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156725.1 ARS94562.1 fimbrial protein [Klebsiella pneumoniae],Mutated,186,180,Fimbrial Proteins
+YP_005226904.1,"fimbrial protein, partial [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156725.1 ARS94562.1 fimbrial protein [Klebsiella pneumoniae],Mutated,236,131,Fimbrial Proteins
+YP_005224590.1,prepilin peptidase dependent protein C [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92351.1 prepilin peptidase dependent protein C [Klebsiella pneumoniae],Mutated,12,76,Fimbrial Proteins
+YP_005226908.1,putative fimbrial-like protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94565.1 fimbrial protein [Klebsiella pneumoniae],Mutated,8,187,Fimbrial Proteins
+YP_005225603.1,putative fimbrial biogenesis outer membrane usher protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93300.1 fimbrial protein [Klebsiella pneumoniae],Mutated,38,341,Fimbrial Proteins
+YP_005224612.1,putative chaperone [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92373.1 fimbrial assembly protein [Klebsiella pneumoniae],Mutated,10,229,Fimbrial Proteins
+YP_005228656.1,fimbrial protein involved in type 1 pilus biosynthesis [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS97308.1 fimbrial protein [Klebsiella pneumoniae],Mutated,19,178,Fimbrial Proteins
+YP_005228598.1,prepilin peptidase-dependent protein A [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96263.1 prepilin-type cleavage/methylation domain-containing protein [Klebsiella pneumoniae],Mutated,18,183,Fimbrial Proteins
+YP_005224615.1,putative adhesin [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92376.1 fimbrial protein [Klebsiella pneumoniae],Mutated,4,365,Fimbrial Proteins
+YP_005228597.1,prepilin peptidase dependent protein B [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96262.1 prepilin peptidase dependent protein B [Klebsiella pneumoniae],Mutated,9,185,Fimbrial Proteins
+YP_005224611.1,putative fimbrial chaperone protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92372.1 fimbrial protein [Klebsiella pneumoniae],Mutated,12,185,Fimbrial Proteins
+YP_005228660.1,fimbrial morphology protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96322.1 fimbrial protein [Klebsiella pneumoniae],Mutated,8,161,Fimbrial Proteins
+YP_005224688.1,fimbrial biogenesis periplasmic chaperone [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92437.1 fimbrial protein [Klebsiella pneumoniae],Mutated,25,228,Fimbrial Proteins
+YP_005225600.1,fimbrial protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93297.1 fimbrial protein [Klebsiella pneumoniae],Mutated,16,186,Fimbrial Proteins
+YP_005225664.1,hypothetical protein KPHS_13640 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93353.1 fimbrial protein [Klebsiella pneumoniae],Mutated,6,227,Fimbrial Proteins
+YP_005226906.1,putative fimbrial biogenesis outer membrane usher protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94563.1 fimbrial protein [Klebsiella pneumoniae],Mutated,51,833,Fimbrial Proteins
+YP_005224687.1,putative fimbrial biogenesis outer membrane usher protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92436.1 fimbrial assembly protein [Klebsiella pneumoniae],Mutated,206,774,Fimbrial Proteins
+YP_005228595.1,prepilin-type N-terminal cleavage/methylation domain-containing protein,GCA_002156725.1 ARS96260.1 prepilin-type cleavage/methylation domain-containing protein [Klebsiella pneumoniae],Mutated,4,107,Fimbrial Proteins
+YP_005228644.1,putative fimbrial-like protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96307.1 fimbrial protein [Klebsiella pneumoniae],Mutated,2,331,Fimbrial Proteins
+YP_005224614.1,fimbrial morphology protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92375.1 fimbrial protein [Klebsiella pneumoniae],Mutated,28,170,Fimbrial Proteins
+YP_005229216.1,hypothetical protein KPHS_49160 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96855.1 pilus assembly protein PilN [Klebsiella pneumoniae],Mutated,3,177,Fimbrial Proteins
+YP_005229215.1,hypothetical protein KPHS_49150 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96854.1 pilus assembly protein PilO [Klebsiella pneumoniae],Mutated,9,142,Fimbrial Proteins
+YP_005225176.1,pullulanase Q protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92899.1 prepilin peptidase [Klebsiella pneumoniae],Mutated,7,266,Fimbrial Proteins

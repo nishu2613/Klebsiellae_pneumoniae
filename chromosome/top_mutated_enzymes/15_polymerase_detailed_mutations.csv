@@ -1,0 +1,27 @@
+Protein_Id,Reference_Def,Hit Def,Status,Number of Mutations,Length,Enzyme_Type
+YP_005225231.1,DNA polymerase III subunit alpha [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92946.1 DNA polymerase III subunit alpha [Klebsiella pneumoniae],Mutated,14,1160,polymerase
+YP_005224501.1,DNA-directed RNA polymerase subunit beta [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92269.1 DNA-directed RNA polymerase subunit beta [Klebsiella pneumoniae],Mutated,3,1342,polymerase
+YP_005225811.1,DNA polymerase III subunit delta [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93489.1 DNA polymerase III subunit delta [Klebsiella pneumoniae],Mutated,13,340,polymerase
+YP_005229426.1,O-antigen polymerase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS97337.1 polymerase [Klebsiella pneumoniae],Mutated,32,389,polymerase
+YP_005225072.1,DNA polymerase II [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92805.1 DNA polymerase II [Klebsiella pneumoniae],Mutated,20,785,polymerase
+YP_005225257.1,DNA polymerase III [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92969.1 DNA polymerase III subunit epsilon [Klebsiella pneumoniae],Mutated,6,243,polymerase
+YP_005225278.1,DNA-binding transcriptional regulator Crl [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92991.1 Crl family RNA polymerase assembly factor [Klebsiella pneumoniae],Mutated,3,132,polymerase
+YP_005227676.1,DNA polymerase III subunit theta [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95247.1 DNA polymerase III subunit theta [Klebsiella pneumoniae],Mutated,1,76,polymerase
+YP_005228478.1,RNA polymerase sigma factor [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96147.1 RNA polymerase sigma factor [Klebsiella pneumoniae],Mutated,1,330,polymerase
+YP_005228270.1,RNA polymerase sigma factor RpoE [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95927.1 RNA polymerase sigma factor RpoE [Klebsiella pneumoniae],Mutated,1,191,polymerase
+YP_005227677.1,exodeoxyribonuclease X [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95248.1 DNA polymerase III subunit epsilon [Klebsiella pneumoniae],Mutated,6,219,polymerase
+YP_005225498.1,"DNA polymerase III subunits gamma and tau, partial [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156725.1 ARS93192.1 DNA polymerase III subunit gamma/tau [Klebsiella pneumoniae],Mutated,445,202,polymerase
+YP_005226276.1,DNA polymerase III subunit delta' [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93920.1 DNA polymerase III subunit delta' [Klebsiella pneumoniae],Mutated,5,334,polymerase
+YP_005229577.1,DNA polymerase III subunit beta [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92032.1 DNA polymerase III subunit beta [Klebsiella pneumoniae],Mutated,3,366,polymerase
+YP_005224502.1,DNA-directed RNA polymerase subunit beta' [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92270.1 DNA-directed RNA polymerase subunit beta' [Klebsiella pneumoniae],Mutated,2,1407,polymerase
+YP_005224321.1,DNA polymerase I [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92087.1 DNA polymerase I [Klebsiella pneumoniae],Mutated,241,892,polymerase
+YP_005229281.1,RNA polymerase factor sigma-32 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96917.1 RNA polymerase sigma factor RpoH [Klebsiella pneumoniae],Mutated,1,284,polymerase
+YP_005224817.1,DNA polymerase III subunit chi [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92562.1 DNA polymerase III subunit chi [Klebsiella pneumoniae],Mutated,1,147,polymerase
+YP_005224981.1,DNA polymerase III subunit psi [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92718.1 DNA polymerase III subunit psi [Klebsiella pneumoniae],Mutated,6,137,polymerase
+YP_005228906.1,RNA polymerase sigma factor RpoD [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96555.1 RNA polymerase sigma factor RpoD [Klebsiella pneumoniae],Mutated,3,613,polymerase
+YP_005225497.1,"DNA polymerase III subunits gamma and tau, partial [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156725.1 ARS93192.1 DNA polymerase III subunit gamma/tau [Klebsiella pneumoniae],Mutated,248,400,polymerase
+YP_005225273.1,DNA polymerase IV [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92986.1 DNA polymerase IV [Klebsiella pneumoniae],Mutated,4,351,polymerase
+YP_005229051.1,DNA-directed RNA polymerase subunit N [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96692.1 RNA polymerase sigma-54 factor [Klebsiella pneumoniae],Mutated,3,477,polymerase
+YP_005225071.1,ATP-dependent helicase HepA [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92804.1 RNA polymerase-associated protein RapA [Klebsiella pneumoniae],Mutated,35,947,polymerase
+YP_005226366.1,DNA polymerase V subunit UmuC [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93996.1 DNA polymerase V subunit UmuC [Klebsiella pneumoniae],Mutated,6,421,polymerase
+YP_005224441.1,common antigen polymerase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92209.1 enterobacterial common antigen polymerase [Klebsiella pneumoniae],Mutated,9,448,polymerase

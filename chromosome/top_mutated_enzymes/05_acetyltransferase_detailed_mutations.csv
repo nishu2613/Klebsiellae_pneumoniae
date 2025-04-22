@@ -1,0 +1,62 @@
+Protein_Id,Reference_Def,Hit Def,Status,Number of Mutations,Length,Enzyme_Type
+YP_005225353.1,acyltransferase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93058.1 GNAT family N-acetyltransferase [Klebsiella pneumoniae],Mutated,18,572,acetyltransferase
+YP_005229325.1,putative acetyltransferase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96958.1 GNAT family N-acetyltransferase [Klebsiella pneumoniae],Mutated,7,177,acetyltransferase
+YP_005227334.1,"beta-ketothiolase, partial [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156725.1 ARS94942.1 acetyl-CoA acetyltransferase [Klebsiella pneumoniae],Mutated,269,133,acetyltransferase
+YP_005228279.1,putative NAD(P)-binding and ATP-binding acyl-CoA synthetase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95936.1 protein acetyltransferase [Klebsiella pneumoniae],Mutated,18,883,acetyltransferase
+YP_005229505.1,putative acetyltransferase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS91964.1 N-acetyltransferase [Klebsiella pneumoniae],Mutated,6,138,acetyltransferase
+YP_005229421.1,2-amino-3-ketobutyrate coenzyme A ligase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS97049.1 glycine C-acetyltransferase [Klebsiella pneumoniae],Mutated,1,397,acetyltransferase
+YP_005224549.1,GNAT family N-acetyltransferase,GCA_002156725.1 ARS92315.1 N-acetyltransferase [Klebsiella pneumoniae],Mutated,3,169,acetyltransferase
+YP_005227588.1,putative acetyltransferase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95170.1 N-acetyltransferase [Klebsiella pneumoniae],Mutated,7,158,acetyltransferase
+YP_005224889.1,putative GCN5-related N-acetyltransferase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92632.1 N-acetyltransferase [Klebsiella pneumoniae],Mutated,3,177,acetyltransferase
+YP_005224527.1,putative acyltransferase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92294.1 acetyltransferase [Klebsiella pneumoniae],Mutated,6,153,acetyltransferase
+YP_005227187.1,putative acetyltransferase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94811.1 N-acetyltransferase [Klebsiella pneumoniae],Mutated,2,172,acetyltransferase
+YP_005229453.1,putative acetyltransferase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS97072.1 GNAT family N-acetyltransferase [Klebsiella pneumoniae],Mutated,33,566,acetyltransferase
+YP_005227299.1,putative chloramphenicol acetyltransferase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94913.1 chloramphenicol acetyltransferase [Klebsiella pneumoniae],Mutated,14,227,acetyltransferase
+YP_005228834.1,GNAT family N-acetyltransferase,GCA_002156725.1 ARS96488.1 GNAT family N-acetyltransferase [Klebsiella pneumoniae],Mutated,27,138,acetyltransferase
+YP_005227919.1,GNAT family N-acetyltransferase,GCA_002156725.1 ARS95554.1 GNAT family N-acetyltransferase [Klebsiella pneumoniae],Mutated,10,154,acetyltransferase
+YP_005226863.1,putative acyl-CoA N-acyltransferase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94522.1 GNAT family N-acetyltransferase [Klebsiella pneumoniae],Mutated,3,160,acetyltransferase
+YP_005228055.1,phosphate acetyltransferase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95682.1 phosphate acetyltransferase [Klebsiella pneumoniae],Mutated,2,715,acetyltransferase
+YP_005227333.1,"acetyl-CoA acetyltransferase, partial [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156725.1 ARS94942.1 acetyl-CoA acetyltransferase [Klebsiella pneumoniae],Mutated,153,249,acetyltransferase
+YP_005229583.1,GNAT family N-acetyltransferase,GCA_002156725.1 ARS92039.1 N-acetyltransferase [Klebsiella pneumoniae],Mutated,3,139,acetyltransferase
+YP_005228162.1,phosphotransacetylase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95775.1 phosphate acetyltransferase [Klebsiella pneumoniae],Mutated,12,338,acetyltransferase
+YP_005228663.1,acyltransferase domain-containing protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96324.1 N-acetyltransferase [Klebsiella pneumoniae],Mutated,1,90,acetyltransferase
+YP_005229001.1,N-acetyltransferase,GCA_002156725.1 ARS96644.1 N-acetyltransferase [Klebsiella pneumoniae],Mutated,7,163,acetyltransferase
+YP_005224950.1,putative N-acetyltransferase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92691.1 N-acetyltransferase [Klebsiella pneumoniae],Mutated,29,278,acetyltransferase
+YP_005226998.1,putative acetyltransferase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94643.1 N-acetyltransferase [Klebsiella pneumoniae],Mutated,28,192,acetyltransferase
+YP_005226831.1,GNAT family N-acetyltransferase,GCA_002156725.1 ARS94495.1 N-acetyltransferase [Klebsiella pneumoniae],Mutated,7,146,acetyltransferase
+YP_005227155.1,"N-hydroxyarylamine O-acetyltransferase, partial [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156725.1 ARS94783.1 N-hydroxyarylamine O-acetyltransferase [Klebsiella pneumoniae],Mutated,104,188,acetyltransferase
+YP_005227170.1,putative acyltransferase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94796.1 N-acetyltransferase [Klebsiella pneumoniae],Mutated,7,169,acetyltransferase
+YP_005226795.1,spermidine N1-acetyltransferase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94462.1 spermidine acetyltransferase [Klebsiella pneumoniae],Mutated,2,186,acetyltransferase
+YP_005224437.1,TDP-fucosamine acetyltransferase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92205.1 TDP-fucosamine acetyltransferase [Klebsiella pneumoniae],Mutated,3,224,acetyltransferase
+YP_005224815.1,GNAT family acetyltransferase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92560.1 N-acetyltransferase [Klebsiella pneumoniae],Mutated,1,167,acetyltransferase
+YP_005228180.1,"putative acyl-CoA N-acyltransferase, partial [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156725.1 ARS95792.1 tRNA cytosine(34) acetyltransferase TmcA [Klebsiella pneumoniae],Mutated,293,419,acetyltransferase
+YP_005226111.1,formate acetyltransferase 1 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93772.1 formate acetyltransferase [Klebsiella pneumoniae],Mutated,3,760,acetyltransferase
+YP_005225481.1,acetyltransferase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93177.1 N-acetyltransferase [Klebsiella pneumoniae],Mutated,10,232,acetyltransferase
+YP_005228589.1,N-acetylglutamate synthase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96254.1 amino-acid N-acetyltransferase [Klebsiella pneumoniae],Mutated,2,443,acetyltransferase
+YP_005227221.1,ribosomal-protein-L7/L12-serine acetyltransferase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94842.1 50S ribosomal protein L7/L12-serine acetyltransferase [Klebsiella pneumoniae],Mutated,7,192,acetyltransferase
+YP_005228063.1,putative acetyltransferase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95689.1 N-acetyltransferase [Klebsiella pneumoniae],Mutated,18,175,acetyltransferase
+YP_005226255.1,ribosomal-protein-alanine acetyltransferase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93902.1 30S ribosomal protein S5 alanine N-acetyltransferase [Klebsiella pneumoniae],Mutated,13,207,acetyltransferase
+YP_005224949.1,putative N-acetyltransferase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS97131.1 N-acetyltransferase [Klebsiella pneumoniae],Mutated,3,178,acetyltransferase
+YP_005226934.1,putative acetyl-CoA acetyltransferase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94586.1 acetyl-CoA acetyltransferase [Klebsiella pneumoniae],Mutated,7,396,acetyltransferase
+YP_005225485.1,maltose O-acetyltransferase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93180.1 maltose O-acetyltransferase [Klebsiella pneumoniae],Mutated,2,188,acetyltransferase
+YP_005227022.1,acyltransferase domain-containing protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156745.1 ARS98178.1 GNAT family N-acetyltransferase [Klebsiella pneumoniae],Mutated,19,140,acetyltransferase
+YP_005228031.1,putative transferase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95658.1 GNAT family N-acetyltransferase [Klebsiella pneumoniae],Mutated,5,153,acetyltransferase
+YP_005224771.1,putative acyltransferase domain protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92522.1 GNAT family N-acetyltransferase [Klebsiella pneumoniae],Mutated,28,175,acetyltransferase
+YP_005227599.1,"formate C-acetyltransferase, partial [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156725.1 ARS97260.1 formate acetyltransferase [Klebsiella pneumoniae],Mutated,374,428,acetyltransferase
+YP_005229259.1,putative acyltransferase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96898.1 N-acetyltransferase [Klebsiella pneumoniae],Mutated,7,158,acetyltransferase
+YP_005227342.1,putative acetyl transferase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94951.1 N-acetyltransferase [Klebsiella pneumoniae],Mutated,17,178,acetyltransferase
+YP_005224333.1,putative acetyltransferase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92099.1 GNAT family N-acetyltransferase [Klebsiella pneumoniae],Mutated,21,333,acetyltransferase
+YP_005224982.1,ribosomal-protein-alanine N-acetyltransferase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92719.1 ribosomal-protein-alanine N-acetyltransferase [Klebsiella pneumoniae],Mutated,7,148,acetyltransferase
+YP_005228179.1,"putative acyl-CoA N-acyltransferase, partial [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156725.1 ARS95792.1 tRNA cytosine(34) acetyltransferase TmcA [Klebsiella pneumoniae],Mutated,515,194,acetyltransferase
+YP_005227598.1,"putative formate acetyltransferase, partial [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156725.1 ARS97260.1 formate acetyltransferase [Klebsiella pneumoniae],Mutated,444,337,acetyltransferase
+YP_005228612.1,GnaT-family acetyltransferase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96275.1 N-acetyltransferase [Klebsiella pneumoniae],Mutated,9,159,acetyltransferase
+YP_005227934.1,acetyltransferase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95565.1 acetyltransferase [Klebsiella pneumoniae],Mutated,1,184,acetyltransferase
+YP_005226871.1,GNAT family acetyltransferase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94528.1 N-acetyltransferase [Klebsiella pneumoniae],Mutated,5,148,acetyltransferase
+YP_005228860.1,GNAT family N-acetyltransferase,GCA_002156725.1 ARS96511.1 N-acetyltransferase [Klebsiella pneumoniae],Mutated,7,175,acetyltransferase
+YP_005225714.1,putative GCN5-related N-acetyltransferase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93398.1 N-acetyltransferase [Klebsiella pneumoniae],Mutated,5,231,acetyltransferase
+YP_005229384.1,inner membrane protein YiaH [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS97010.1 acetyltransferase [Klebsiella pneumoniae],Mutated,6,331,acetyltransferase
+YP_005226869.1,putative acyltransferase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94526.1 N-acetyltransferase [Klebsiella pneumoniae],Mutated,5,176,acetyltransferase
+YP_005229366.1,GNAT family acetyltransferase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96993.1 N-acetyltransferase [Klebsiella pneumoniae],Mutated,8,146,acetyltransferase
+YP_005225604.1,GNAT family acetyltransferase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93301.1 GNAT family N-acetyltransferase [Klebsiella pneumoniae],Mutated,13,288,acetyltransferase
+YP_005225274.1,GNAT family N-acetyltransferase,GCA_002156725.1 ARS92987.1 GNAT family N-acetyltransferase [Klebsiella pneumoniae],Mutated,8,150,acetyltransferase
+YP_005228635.1,acetyl-CoA acetyltransferase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96295.1 acetyl-CoA acetyltransferase [Klebsiella pneumoniae],Mutated,2,392,acetyltransferase

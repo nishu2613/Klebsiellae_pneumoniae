@@ -1,0 +1,7 @@
+Protein_Id,Reference_Def,Hit Def,Status,Number of Mutations,Length,Category
+YP_005220895.1,"putative ABC transporter ATP-binding protein, partial (plasmid) [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002202195.1 ASC26289.1 ABC transporter (plasmid) [Klebsiella pneumoniae],Mutated,153,72,Transporters
+YP_005229641.1,putative mercury transport protein MerC (plasmid) [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_009833945.1 QHB98822.1 organomercurial transporter MerC (plasmid) [Klebsiella pneumoniae],Mutated,14,153,Transporters
+YP_005220963.1,Fe3+-siderophore ABC transporter permease (plasmid) [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002967795.2 QKE17839.1 Fe3+-siderophore ABC transporter permease (plasmid) [Klebsiella pneumoniae],Mutated,3,148,Transporters
+YP_005229639.1,putative mercuric transport protein (plasmid) [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156745.1 ART02726.1 mercuric transporter [Klebsiella pneumoniae],Mutated,20,116,Transporters
+YP_005220894.1,"putative ABC transporter ATP-binding protein, partial (plasmid) [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002202195.1 ASC26289.1 ABC transporter (plasmid) [Klebsiella pneumoniae],Mutated,76,140,Transporters
+YP_005229645.1,putative mercury resistance protein (plasmid) [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_009833945.1 QHB98746.1 broad-spectrum mercury transporter MerE (plasmid) [Klebsiella pneumoniae],Mutated,1,78,Transporters

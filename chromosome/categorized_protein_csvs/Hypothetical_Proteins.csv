@@ -1,0 +1,753 @@
+Protein_Id,Reference_Def,Hit Def,Status,Number of Mutations,Length,Category
+YP_005226326.1,DUF1272 domain-containing protein,GCA_002156725.1 ARS93960.1 hypothetical protein B9G35_11160 [Klebsiella pneumoniae],Mutated,35,40,Hypothetical Proteins
+YP_005228648.1,DUF1471 domain-containing protein,GCA_002156725.1 ARS96311.1 hypothetical protein B9G35_23870 [Klebsiella pneumoniae],Mutated,1,69,Hypothetical Proteins
+YP_005226596.1,hypothetical protein KPHS_22960 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC24257.1 hypothetical protein AM386_21745 [Klebsiella pneumoniae],Mutated,5,40,Hypothetical Proteins
+YP_005228823.1,nucleotidyl transferase AbiEii/AbiGii toxin family protein,GCA_002156725.1 ARS96477.1 hypothetical protein B9G35_24755 [Klebsiella pneumoniae],Mutated,59,233,Hypothetical Proteins
+YP_005226961.1,GrpB family protein,GCA_002156725.1 ARS94609.1 hypothetical protein B9G35_14645 [Klebsiella pneumoniae],Mutated,13,172,Hypothetical Proteins
+YP_005228371.1,hypothetical protein KPHS_40710 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96044.1 hypothetical protein B9G35_22460 [Klebsiella pneumoniae],Mutated,5,61,Hypothetical Proteins
+YP_005225661.1,putative lipoprotein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93351.1 hypothetical protein B9G35_07775 [Klebsiella pneumoniae],Mutated,53,138,Hypothetical Proteins
+YP_005226560.1,IS66 family insertion sequence hypothetical protein,GCA_002752775.1 ATQ92486.1 IS66 family insertion sequence hypothetical protein [Klebsiella pneumoniae],Mutated,65,134,Hypothetical Proteins
+YP_005226830.1,hypothetical protein KPHS_25300 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC24024.1 hypothetical protein AM386_20485 [Klebsiella pneumoniae],Mutated,29,39,Hypothetical Proteins
+YP_005227328.1,DUF535 family protein,GCA_002156725.1 ARS94937.1 hypothetical protein B9G35_16395 [Klebsiella pneumoniae],Mutated,47,263,Hypothetical Proteins
+YP_005229185.1,putative cytoplasmic protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96824.1 hypothetical protein B9G35_26625 [Klebsiella pneumoniae],Mutated,1,66,Hypothetical Proteins
+YP_005228893.1,hypothetical protein KPHS_45930 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC21349.1 hypothetical protein AM386_05740 [Klebsiella pneumoniae],Mutated,4,39,Hypothetical Proteins
+YP_005229454.1,hypothetical protein KPHS_51540 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC21894.1 hypothetical protein AM386_08685 [Klebsiella pneumoniae],Mutated,3,37,Hypothetical Proteins
+YP_005227457.1,YdiU family protein,GCA_002156725.1 ARS95052.1 hypothetical protein B9G35_17020 [Klebsiella pneumoniae],Mutated,18,480,Hypothetical Proteins
+YP_005226474.1,hypothetical protein KPHS_21740 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94093.1 hypothetical protein B9G35_11855 [Klebsiella pneumoniae],Mutated,13,71,Hypothetical Proteins
+YP_005226156.1,putative Fe-S protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93808.1 hypothetical protein B9G35_10320 [Klebsiella pneumoniae],Mutated,86,369,Hypothetical Proteins
+YP_005226296.1,hypothetical protein KPHS_19960 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC26075.1 hypothetical protein AM386_23725 [Klebsiella pneumoniae],Mutated,18,43,Hypothetical Proteins
+YP_005226471.1,hypothetical protein KPHS_21710 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94089.1 hypothetical protein B9G35_11835 [Klebsiella pneumoniae],Mutated,8,66,Hypothetical Proteins
+YP_005226797.1,YnfA family protein,GCA_002156725.1 ARS94464.1 hypothetical protein B9G35_13860 [Klebsiella pneumoniae],Mutated,14,120,Hypothetical Proteins
+YP_005225342.1,hypothetical protein KPHS_10420 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC23073.1 hypothetical protein AM386_15195 [Klebsiella pneumoniae],Mutated,2,47,Hypothetical Proteins
+YP_005227051.1,hypothetical protein KPHS_27510 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002967795.2 QKE12813.1 hypothetical protein C5707_002395 [Klebsiella pneumoniae],Mutated,1,42,Hypothetical Proteins
+YP_005227502.1,SEC-C domain-containing protein,GCA_002156725.1 ARS95093.1 hypothetical protein B9G35_17235 [Klebsiella pneumoniae],Mutated,52,110,Hypothetical Proteins
+YP_005229383.1,putative outer membrane protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS97336.1 hypothetical protein B9G35_27630 [Klebsiella pneumoniae],Mutated,11,99,Hypothetical Proteins
+YP_005226216.1,DUF1311 domain-containing protein,GCA_002156725.1 ARS93869.1 hypothetical protein B9G35_10635 [Klebsiella pneumoniae],Mutated,2,131,Hypothetical Proteins
+YP_005228315.1,hypothetical protein KPHS_40150 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_022699325.1 UNS82188.1 hypothetical protein MOQ79_08110 [Klebsiella pneumoniae],Mutated,10,265,Hypothetical Proteins
+YP_005227752.1,hypothetical protein KPHS_34520 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC26137.1 hypothetical protein AM386_29085 [Klebsiella pneumoniae],Mutated,2,88,Hypothetical Proteins
+YP_005224645.1,"putative alkylphosphonate uptake protein in phosphonate metabolism, partial [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156725.1 ARS92403.1 hypothetical protein B9G35_02590 [Klebsiella pneumoniae],Mutated,43,77,Hypothetical Proteins
+YP_005226662.1,YdbL family protein,GCA_002156725.1 ARS94338.1 hypothetical protein B9G35_13195 [Klebsiella pneumoniae],Mutated,4,107,Hypothetical Proteins
+YP_005225851.1,DUF2517 family protein,GCA_002156725.1 ARS97173.1 hypothetical protein B9G35_08755 [Klebsiella pneumoniae],Mutated,1,69,Hypothetical Proteins
+YP_005229000.1,GIY-YIG nuclease family protein,GCA_002156725.1 ARS97320.1 hypothetical protein B9G35_25640 [Klebsiella pneumoniae],Mutated,15,96,Hypothetical Proteins
+YP_005228818.1,type IV B pilus protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96473.1 hypothetical protein B9G35_24735 [Klebsiella pneumoniae],Mutated,1,189,Hypothetical Proteins
+YP_005227775.1,hypothetical protein KPHS_34750 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95374.1 hypothetical protein B9G35_18815 [Klebsiella pneumoniae],Mutated,2,77,Hypothetical Proteins
+YP_005228215.1,YfgM family protein,GCA_002156725.1 ARS95876.1 hypothetical protein B9G35_21535 [Klebsiella pneumoniae],Mutated,25,206,Hypothetical Proteins
+YP_005226452.1,hypothetical protein KPHS_21520 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94070.1 hypothetical protein B9G35_11740 [Klebsiella pneumoniae],Mutated,61,66,Hypothetical Proteins
+YP_005225606.1,DUF1471 domain-containing protein,GCA_002156725.1 ARS93303.1 hypothetical protein B9G35_07510 [Klebsiella pneumoniae],Mutated,1,90,Hypothetical Proteins
+YP_005228877.1,DUF1190 family protein,GCA_002156725.1 ARS96528.1 hypothetical protein B9G35_25030 [Klebsiella pneumoniae],Mutated,4,223,Hypothetical Proteins
+YP_005224621.1,sel1 repeat family protein,GCA_002156725.1 ARS92382.1 hypothetical protein B9G35_02480 [Klebsiella pneumoniae],Mutated,1,228,Hypothetical Proteins
+YP_005227724.1,RpiB/LacA/LacB family sugar-phosphate isomerase,GCA_002156725.1 ARS95291.1 hypothetical protein B9G35_18330 [Klebsiella pneumoniae],Mutated,11,212,Hypothetical Proteins
+YP_005227571.1,hypothetical protein KPHS_32710 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95154.1 hypothetical protein B9G35_17600 [Klebsiella pneumoniae],Mutated,2,169,Hypothetical Proteins
+YP_005227973.1,putative permease [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS97285.1 hypothetical protein B9G35_20070 [Klebsiella pneumoniae],Mutated,13,237,Hypothetical Proteins
+YP_005228738.1,hypothetical protein KPHS_44380 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96396.1 hypothetical protein B9G35_24330 [Klebsiella pneumoniae],Mutated,4,102,Hypothetical Proteins
+YP_005227669.1,YebW family protein,GCA_002156725.1 ARS95242.1 hypothetical protein B9G35_18065 [Klebsiella pneumoniae],Mutated,1,63,Hypothetical Proteins
+YP_005226702.1,YdcF family protein,GCA_002156725.1 ARS94375.1 hypothetical protein B9G35_13390 [Klebsiella pneumoniae],Mutated,35,266,Hypothetical Proteins
+YP_005226345.1,hypothetical protein KPHS_20450 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC24560.1 hypothetical protein AM386_23430 [Klebsiella pneumoniae],Mutated,1,39,Hypothetical Proteins
+YP_005227746.1,DUF808 domain-containing protein,GCA_002156725.1 ARS95313.1 hypothetical protein B9G35_18455 [Klebsiella pneumoniae],Mutated,19,303,Hypothetical Proteins
+YP_005225155.1,hypothetical protein KPHS_08550 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92879.1 hypothetical protein B9G35_05205 [Klebsiella pneumoniae],Mutated,3,136,Hypothetical Proteins
+YP_005225015.1,hypothetical protein KPHS_07150 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92749.1 hypothetical protein B9G35_04525 [Klebsiella pneumoniae],Mutated,28,125,Hypothetical Proteins
+YP_005226569.1,hypothetical protein KPHS_22690 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94251.1 hypothetical protein B9G35_12725 [Klebsiella pneumoniae],Mutated,11,93,Hypothetical Proteins
+YP_005226372.1,hypothetical protein KPHS_20720 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94001.1 hypothetical protein B9G35_11375 [Klebsiella pneumoniae],Mutated,6,103,Hypothetical Proteins
+YP_005227083.1,hypothetical protein KPHS_27830 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_003574255.1 BBE61333.1 hypothetical protein TRKP064_2239 [Klebsiella pneumoniae],Mutated,330,103,Hypothetical Proteins
+YP_005228675.1,DUF1349 domain-containing protein,GCA_002156725.1 ARS96335.1 hypothetical protein B9G35_24010 [Klebsiella pneumoniae],Mutated,3,190,Hypothetical Proteins
+YP_005226581.1,putative bacteriophage protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94263.1 hypothetical protein B9G35_12795 [Klebsiella pneumoniae],Mutated,34,340,Hypothetical Proteins
+YP_005229092.1,hypothetical protein KPHS_47920 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96732.1 hypothetical protein B9G35_26115 [Klebsiella pneumoniae],Mutated,3,63,Hypothetical Proteins
+YP_005227231.1,metal/formaldehyde-sensitive transcriptional repressor,GCA_002156725.1 ARS94852.1 hypothetical protein B9G35_15930 [Klebsiella pneumoniae],Mutated,1,91,Hypothetical Proteins
+YP_005226026.1,hypothetical protein KPHS_17260 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93699.1 hypothetical protein B9G35_09705 [Klebsiella pneumoniae],Mutated,7,71,Hypothetical Proteins
+YP_005229406.1,YibL family ribosome-associated protein,GCA_002156725.1 ARS97034.1 hypothetical protein B9G35_27760 [Klebsiella pneumoniae],Mutated,3,120,Hypothetical Proteins
+YP_005227029.1,hypothetical protein KPHS_27290 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156745.1 ARS98182.1 hypothetical protein B8O09_02905 [Klebsiella pneumoniae],Mutated,50,55,Hypothetical Proteins
+YP_005228776.1,hypothetical protein KPHS_44760 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96434.1 hypothetical protein B9G35_24530 [Klebsiella pneumoniae],Mutated,1,92,Hypothetical Proteins
+YP_005228305.1,hypothetical protein KPHS_40050 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_018128465.1 QUC48422.1 hypothetical protein JY394_06620 [Klebsiella pneumoniae],Mutated,6,95,Hypothetical Proteins
+YP_005226912.1,hypothetical protein KPHS_26120 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94569.1 hypothetical protein B9G35_14430 [Klebsiella pneumoniae],Mutated,1,82,Hypothetical Proteins
+YP_005225483.1,YlaC family protein,GCA_002156725.1 ARS93179.1 hypothetical protein B9G35_06845 [Klebsiella pneumoniae],Mutated,2,156,Hypothetical Proteins
+YP_005226607.1,putative lipoprotein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94285.1 hypothetical protein B9G35_12920 [Klebsiella pneumoniae],Mutated,35,176,Hypothetical Proteins
+YP_005227871.1,hypothetical protein KPHS_35710 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC25685.1 hypothetical protein AM386_29800 [Klebsiella pneumoniae],Mutated,22,40,Hypothetical Proteins
+YP_005228844.1,hypothetical protein KPHS_45440 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC25911.1 hypothetical protein AM386_05495 [Klebsiella pneumoniae],Mutated,16,40,Hypothetical Proteins
+YP_005226654.1,putative lipoprotein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94332.1 hypothetical protein B9G35_13165 [Klebsiella pneumoniae],Mutated,37,54,Hypothetical Proteins
+YP_005228827.1,helix-turn-helix domain-containing protein,GCA_002156725.1 ARS96481.1 hypothetical protein B9G35_24775 [Klebsiella pneumoniae],Mutated,18,405,Hypothetical Proteins
+YP_005227782.1,type IV secretion system VirB8 component [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95381.1 hypothetical protein B9G35_18850 [Klebsiella pneumoniae],Mutated,17,227,Hypothetical Proteins
+YP_005225271.1,(Na+)-NQR maturation NqrM,GCA_002156725.1 ARS92984.1 hypothetical protein B9G35_05810 [Klebsiella pneumoniae],Mutated,2,71,Hypothetical Proteins
+YP_005226612.1,PaaR repeat-containing protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94291.1 hypothetical protein B9G35_12950 [Klebsiella pneumoniae],Mutated,20,85,Hypothetical Proteins
+YP_005225697.1,phosphodiester glycosidase family protein,GCA_002156725.1 ARS93381.1 hypothetical protein B9G35_07940 [Klebsiella pneumoniae],Mutated,2,239,Hypothetical Proteins
+YP_005227569.1,hypothetical protein KPHS_32690 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95147.1 hypothetical protein B9G35_17560 [Klebsiella pneumoniae],Mutated,31,174,Hypothetical Proteins
+YP_005227098.1,hypothetical protein KPHS_27980 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94732.1 hypothetical protein B9G35_15305 [Klebsiella pneumoniae],Mutated,12,167,Hypothetical Proteins
+YP_005227196.1,hypothetical protein KPHS_28960 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94819.1 hypothetical protein B9G35_15760 [Klebsiella pneumoniae],Mutated,7,83,Hypothetical Proteins
+YP_005228107.1,hypothetical protein KPHS_38070 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC20651.1 hypothetical protein AM386_01930 [Klebsiella pneumoniae],Mutated,5,37,Hypothetical Proteins
+YP_005226608.1,putative lipoprotein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94285.1 hypothetical protein B9G35_12920 [Klebsiella pneumoniae],Mutated,55,176,Hypothetical Proteins
+YP_005224969.1,hypothetical protein KPHS_06690 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92709.1 hypothetical protein B9G35_04270 [Klebsiella pneumoniae],Mutated,6,59,Hypothetical Proteins
+YP_005226525.1,hypothetical protein KPHS_22250 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94207.1 hypothetical protein B9G35_12505 [Klebsiella pneumoniae],Mutated,10,277,Hypothetical Proteins
+YP_005225544.1,regulatory protein CI bacteriophage origin [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94124.1 hypothetical protein B9G35_12025 [Klebsiella pneumoniae],Mutated,188,122,Hypothetical Proteins
+YP_005226356.1,CTP synthase domain protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93987.1 hypothetical protein B9G35_11300 [Klebsiella pneumoniae],Mutated,14,230,Hypothetical Proteins
+YP_005225023.1,DUF2541 family protein,GCA_002156725.1 ARS92757.1 hypothetical protein B9G35_04565 [Klebsiella pneumoniae],Mutated,2,134,Hypothetical Proteins
+YP_005227208.1,hypothetical protein KPHS_29080 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002967795.2 QKE12949.1 hypothetical protein C5707_003145 [Klebsiella pneumoniae],Mutated,29,107,Hypothetical Proteins
+YP_005228674.1,hypothetical protein KPHS_43740 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96334.1 hypothetical protein B9G35_24005 [Klebsiella pneumoniae],Mutated,9,97,Hypothetical Proteins
+YP_005225568.1,DUF2213 domain-containing protein,GCA_002903005.1 AUV39412.1 hypothetical protein C2U50_23055 [Klebsiella pneumoniae],Mutated,305,335,Hypothetical Proteins
+YP_005227873.1,acid phosphatase-like protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95515.1 hypothetical protein B9G35_19585 [Klebsiella pneumoniae],Mutated,68,209,Hypothetical Proteins
+YP_005225141.1,hypothetical protein KPHS_08410 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92869.1 hypothetical protein B9G35_05150 [Klebsiella pneumoniae],Mutated,4,94,Hypothetical Proteins
+YP_005228596.1,DUF2509 family protein,GCA_002156725.1 ARS96261.1 hypothetical protein B9G35_23610 [Klebsiella pneumoniae],Mutated,13,135,Hypothetical Proteins
+YP_005227644.1,hypothetical protein KPHS_33440 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC26131.1 hypothetical protein AM386_28520 [Klebsiella pneumoniae],Mutated,2,44,Hypothetical Proteins
+YP_005228211.1,zinc ribbon domain-containing protein,GCA_002156725.1 ARS95872.1 hypothetical protein B9G35_21515 [Klebsiella pneumoniae],Mutated,1,72,Hypothetical Proteins
+YP_005225760.1,hypothetical protein KPHS_14600 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93441.1 hypothetical protein B9G35_08260 [Klebsiella pneumoniae],Mutated,10,413,Hypothetical Proteins
+YP_005226017.1,hypothetical protein KPHS_17170 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93690.1 hypothetical protein B9G35_09660 [Klebsiella pneumoniae],Mutated,164,76,Hypothetical Proteins
+YP_005229604.1,hypothetical protein KPHS_53040 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC22039.1 hypothetical protein AM386_09455 [Klebsiella pneumoniae],Mutated,1,39,Hypothetical Proteins
+YP_005225524.1,putative outer membrane protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93214.1 hypothetical protein B9G35_07030 [Klebsiella pneumoniae],Mutated,6,381,Hypothetical Proteins
+YP_005229546.1,hypothetical protein KPHS_52460 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC21980.1 hypothetical protein AM386_09155 [Klebsiella pneumoniae],Mutated,2,55,Hypothetical Proteins
+YP_005226183.1,iron(III)-transport ATP-binding protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93838.1 hypothetical protein B9G35_10475 [Klebsiella pneumoniae],Mutated,30,62,Hypothetical Proteins
+YP_005227564.1,hypothetical protein KPHS_32640 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC23340.1 hypothetical protein AM386_16690 [Klebsiella pneumoniae],Mutated,13,38,Hypothetical Proteins
+YP_005227791.1,hypothetical protein KPHS_34910 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_003367555.1 AXK96319.1 hypothetical protein C2L60_09560 [Klebsiella pneumoniae],Mutated,5,362,Hypothetical Proteins
+YP_005226553.1,hypothetical protein KPHS_22530 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94238.1 hypothetical protein B9G35_12660 [Klebsiella pneumoniae],Mutated,2,158,Hypothetical Proteins
+YP_005228298.1,DUF2946 domain-containing protein,GCA_002156725.1 ARS95953.1 hypothetical protein B9G35_21960 [Klebsiella pneumoniae],Mutated,16,152,Hypothetical Proteins
+YP_005229566.1,DUF3748 domain-containing protein,GCA_002156725.1 ARS92021.1 hypothetical protein B9G35_00435 [Klebsiella pneumoniae],Mutated,9,406,Hypothetical Proteins
+YP_005226807.1,small membrane protein,GCA_002202195.1 ASC24044.1 hypothetical protein AM386_20605 [Klebsiella pneumoniae],Mutated,3,40,Hypothetical Proteins
+YP_005227991.1,putative phopshatase/sulfatase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95619.1 hypothetical protein B9G35_20160 [Klebsiella pneumoniae],Mutated,15,572,Hypothetical Proteins
+YP_005228809.1,hypothetical protein KPHS_45090 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS97313.1 hypothetical protein B9G35_24690 [Klebsiella pneumoniae],Mutated,6,224,Hypothetical Proteins
+YP_005229077.1,peroxide/acid stress response protein YhcN,GCA_002156725.1 ARS96717.1 hypothetical protein B9G35_26035 [Klebsiella pneumoniae],Mutated,2,87,Hypothetical Proteins
+YP_005228817.1,hypothetical protein KPHS_45170 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96472.1 hypothetical protein B9G35_24730 [Klebsiella pneumoniae],Mutated,3,246,Hypothetical Proteins
+YP_005228426.1,type I toxin-antitoxin system SymE family toxin,GCA_002156725.1 ARS96096.1 hypothetical protein B9G35_22750 [Klebsiella pneumoniae],Mutated,2,102,Hypothetical Proteins
+YP_005229261.1,DUF2756 family protein,GCA_002156725.1 ARS96900.1 hypothetical protein B9G35_27025 [Klebsiella pneumoniae],Mutated,2,106,Hypothetical Proteins
+YP_005225948.1,ABC transporter membrane protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93616.1 hypothetical protein B9G35_09275 [Klebsiella pneumoniae],Mutated,3,377,Hypothetical Proteins
+YP_005225596.1,hypothetical protein KPHS_12960 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC25303.1 hypothetical protein AM386_27630 [Klebsiella pneumoniae],Mutated,4,46,Hypothetical Proteins
+YP_005228922.1,glycerol dehydratase-reactivation factor [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96570.1 hypothetical protein B9G35_25255 [Klebsiella pneumoniae],Mutated,4,117,Hypothetical Proteins
+YP_005228286.1,polyphenol oxidase,GCA_002156725.1 ARS95941.1 hypothetical protein B9G35_21900 [Klebsiella pneumoniae],Mutated,27,233,Hypothetical Proteins
+YP_005229369.1,hypothetical protein KPHS_50690 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC21813.1 hypothetical protein AM386_08245 [Klebsiella pneumoniae],Mutated,2,38,Hypothetical Proteins
+YP_005226280.1,YcfL family protein,GCA_002156725.1 ARS93924.1 hypothetical protein B9G35_10960 [Klebsiella pneumoniae],Mutated,7,119,Hypothetical Proteins
+YP_005226582.1,hypothetical protein KPHS_22820 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94264.1 hypothetical protein B9G35_12800 [Klebsiella pneumoniae],Mutated,33,113,Hypothetical Proteins
+YP_005225555.1,hypothetical protein KPHS_12550 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93247.1 hypothetical protein B9G35_07205 [Klebsiella pneumoniae],Mutated,15,151,Hypothetical Proteins
+YP_005227476.1,type V toxin-antitoxin system endoribonuclease antitoxin GhoS,GCA_002156725.1 ARS95071.1 hypothetical protein B9G35_17125 [Klebsiella pneumoniae],Mutated,6,94,Hypothetical Proteins
+YP_005226544.1,hypothetical protein KPHS_22440 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94227.1 hypothetical protein B9G35_12605 [Klebsiella pneumoniae],Mutated,2,64,Hypothetical Proteins
+YP_005226182.1,hypothetical protein KPHS_18820 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93837.1 hypothetical protein B9G35_10470 [Klebsiella pneumoniae],Mutated,455,95,Hypothetical Proteins
+YP_005225333.1,polar amino acid ABC transporter inner membrane subunit [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS97153.1 hypothetical protein B9G35_06125 [Klebsiella pneumoniae],Mutated,13,250,Hypothetical Proteins
+YP_005226382.1,YeaC family protein,GCA_002156725.1 ARS94011.1 hypothetical protein B9G35_11425 [Klebsiella pneumoniae],Mutated,1,92,Hypothetical Proteins
+YP_005227350.1,hypothetical protein KPHS_30500 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94960.1 hypothetical protein B9G35_16515 [Klebsiella pneumoniae],Mutated,3,129,Hypothetical Proteins
+YP_005228281.1,YfiM family lipoprotein,GCA_002156725.1 ARS95938.1 hypothetical protein B9G35_21865 [Klebsiella pneumoniae],Mutated,3,107,Hypothetical Proteins
+YP_005227524.1,putative phosphatase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95110.1 hypothetical protein B9G35_17355 [Klebsiella pneumoniae],Mutated,2,117,Hypothetical Proteins
+YP_005225484.1,hypothetical protein KPHS_11840 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC23211.1 hypothetical protein AM386_15935 [Klebsiella pneumoniae],Mutated,1,46,Hypothetical Proteins
+YP_005225954.1,hypothetical protein KPHS_16540 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC26100.1 hypothetical protein AM386_25610 [Klebsiella pneumoniae],Mutated,2,45,Hypothetical Proteins
+YP_005228761.1,YggL family protein,GCA_002156725.1 ARS96419.1 hypothetical protein B9G35_24450 [Klebsiella pneumoniae],Mutated,2,108,Hypothetical Proteins
+YP_005224617.1,DUF485 domain-containing protein,GCA_002156725.1 ARS92377.1 hypothetical protein B9G35_02455 [Klebsiella pneumoniae],Mutated,1,103,Hypothetical Proteins
+YP_005227525.1,DUF1883 domain-containing protein,GCA_002156725.1 ARS95111.1 hypothetical protein B9G35_17360 [Klebsiella pneumoniae],Mutated,2,80,Hypothetical Proteins
+YP_005227211.1,hypothetical protein KPHS_29110 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94833.1 hypothetical protein B9G35_15835 [Klebsiella pneumoniae],Mutated,20,55,Hypothetical Proteins
+YP_005225142.1,DUF2950 family protein,GCA_002156725.1 ARS92870.1 hypothetical protein B9G35_05155 [Klebsiella pneumoniae],Mutated,19,268,Hypothetical Proteins
+YP_005226609.1,putative lipoprotein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94287.1 hypothetical protein B9G35_12930 [Klebsiella pneumoniae],Mutated,35,176,Hypothetical Proteins
+YP_005227793.1,AAA family ATPase,GCA_003367555.1 AXK96317.1 hypothetical protein C2L60_09550 [Klebsiella pneumoniae],Mutated,11,626,Hypothetical Proteins
+YP_005228367.1,putative phosphatase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96041.1 hypothetical protein B9G35_22440 [Klebsiella pneumoniae],Mutated,15,181,Hypothetical Proteins
+YP_005226137.1,outer membrane protein 1A/OmpK35 porin [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156745.1 ART02295.1 hypothetical protein B8O09_25630 [Klebsiella pneumoniae],Mutated,153,227,Hypothetical Proteins
+YP_005227727.1,YecH family protein,GCA_002156725.1 ARS95294.1 hypothetical protein B9G35_18345 [Klebsiella pneumoniae],Mutated,3,79,Hypothetical Proteins
+YP_005225022.1,acidic protein MsyB,GCA_002156725.1 ARS92756.1 hypothetical protein B9G35_04560 [Klebsiella pneumoniae],Mutated,16,241,Hypothetical Proteins
+YP_005224942.1,hypothetical protein KPHS_06420 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92684.1 hypothetical protein B9G35_04135 [Klebsiella pneumoniae],Mutated,17,59,Hypothetical Proteins
+YP_005227675.1,CopC domain-containing protein YobA,GCA_002156725.1 ARS95246.1 hypothetical protein B9G35_18095 [Klebsiella pneumoniae],Mutated,2,124,Hypothetical Proteins
+YP_005228532.1,hypothetical protein KPHS_42320 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC21060.1 hypothetical protein AM386_04175 [Klebsiella pneumoniae],Mutated,2,39,Hypothetical Proteins
+YP_005227480.1,hypothetical protein KPHS_31800 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC23409.1 hypothetical protein AM386_17130 [Klebsiella pneumoniae],Mutated,5,46,Hypothetical Proteins
+YP_005229142.1,DUF1992 domain-containing protein,GCA_002156725.1 ARS96782.1 hypothetical protein B9G35_26410 [Klebsiella pneumoniae],Mutated,4,122,Hypothetical Proteins
+YP_005229039.1,BolA family transcriptional regulator [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96679.1 hypothetical protein B9G35_25835 [Klebsiella pneumoniae],Mutated,1,84,Hypothetical Proteins
+YP_005224843.1,hypothetical protein KPHS_05430 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92591.1 hypothetical protein B9G35_03625 [Klebsiella pneumoniae],Mutated,77,359,Hypothetical Proteins
+YP_005229252.1,hypothetical protein KPHS_49520 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96891.1 hypothetical protein B9G35_26975 [Klebsiella pneumoniae],Mutated,7,120,Hypothetical Proteins
+YP_005227672.1,Ecr family regulatory small membrane protein,GCA_002202195.1 ASC25486.1 hypothetical protein AM386_28675 [Klebsiella pneumoniae],Mutated,2,47,Hypothetical Proteins
+YP_005224328.1,hypothetical protein KPHS_00280 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC25940.1 hypothetical protein AM386_09690 [Klebsiella pneumoniae],Mutated,1,53,Hypothetical Proteins
+YP_005226335.1,hypothetical protein KPHS_20350 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93968.1 hypothetical protein B9G35_11200 [Klebsiella pneumoniae],Mutated,3,65,Hypothetical Proteins
+YP_005226660.1,YdbH domain-containing protein,GCA_002156725.1 ARS94336.1 hypothetical protein B9G35_13185 [Klebsiella pneumoniae],Mutated,616,280,Hypothetical Proteins
+YP_005228793.1,hypothetical protein KPHS_44930 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96451.1 hypothetical protein B9G35_24615 [Klebsiella pneumoniae],Mutated,5,336,Hypothetical Proteins
+YP_005228771.1,TraI domain-containing protein,GCA_002156725.1 ARS96429.1 hypothetical protein B9G35_24505 [Klebsiella pneumoniae],Mutated,13,429,Hypothetical Proteins
+YP_005225144.1,hypothetical protein KPHS_08440 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92872.1 hypothetical protein B9G35_05165 [Klebsiella pneumoniae],Mutated,36,42,Hypothetical Proteins
+YP_005225159.1,hypothetical protein KPHS_08590 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC22902.1 hypothetical protein AM386_14235 [Klebsiella pneumoniae],Mutated,1,39,Hypothetical Proteins
+YP_005224626.1,type IV toxin-antitoxin system AbiEi family antitoxin,GCA_002156725.1 ARS92385.1 hypothetical protein B9G35_02495 [Klebsiella pneumoniae],Mutated,78,252,Hypothetical Proteins
+YP_005224678.1,hypothetical protein KPHS_03780 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC22422.1 hypothetical protein AM386_11610 [Klebsiella pneumoniae],Mutated,1,48,Hypothetical Proteins
+YP_005226613.1,hypothetical protein KPHS_23130 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94292.1 hypothetical protein B9G35_12955 [Klebsiella pneumoniae],Mutated,12,379,Hypothetical Proteins
+YP_005227567.1,hypothetical protein KPHS_32670 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95145.1 hypothetical protein B9G35_17550 [Klebsiella pneumoniae],Mutated,482,342,Hypothetical Proteins
+YP_005227189.1,DUF2526 family protein,GCA_002156725.1 ARS94813.1 hypothetical protein B9G35_15730 [Klebsiella pneumoniae],Mutated,2,77,Hypothetical Proteins
+YP_005227741.1,lipoprotein,GCA_002156725.1 ARS95308.1 hypothetical protein B9G35_18430 [Klebsiella pneumoniae],Mutated,4,144,Hypothetical Proteins
+YP_005227990.1,YejL family protein,GCA_002156725.1 ARS97286.1 hypothetical protein B9G35_20155 [Klebsiella pneumoniae],Mutated,29,103,Hypothetical Proteins
+YP_005226819.1,ygbK domain protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94486.1 hypothetical protein B9G35_13985 [Klebsiella pneumoniae],Mutated,49,421,Hypothetical Proteins
+YP_005226302.1,hypothetical protein KPHS_20020 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93939.1 hypothetical protein B9G35_11050 [Klebsiella pneumoniae],Mutated,22,114,Hypothetical Proteins
+YP_005224893.1,antibiotic transport system permease component [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92636.1 hypothetical protein B9G35_03880 [Klebsiella pneumoniae],Mutated,22,374,Hypothetical Proteins
+YP_005228296.1,iron-regulated membrane protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95951.1 hypothetical protein B9G35_21950 [Klebsiella pneumoniae],Mutated,4,160,Hypothetical Proteins
+YP_005227288.1,hypothetical protein KPHS_29880 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94904.1 hypothetical protein B9G35_16225 [Klebsiella pneumoniae],Mutated,10,171,Hypothetical Proteins
+YP_005226576.1,hypothetical protein KPHS_22760 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94258.1 hypothetical protein B9G35_12770 [Klebsiella pneumoniae],Mutated,22,141,Hypothetical Proteins
+YP_005227646.1,putative transmembrane protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95218.1 hypothetical protein B9G35_17935 [Klebsiella pneumoniae],Mutated,7,515,Hypothetical Proteins
+YP_005224871.1,hypothetical protein KPHS_05720 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92614.1 hypothetical protein B9G35_03750 [Klebsiella pneumoniae],Mutated,14,174,Hypothetical Proteins
+YP_005228021.1,putative porin [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95649.1 hypothetical protein B9G35_20320 [Klebsiella pneumoniae],Mutated,3,180,Hypothetical Proteins
+YP_005226199.1,hypothetical protein KPHS_18990 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93853.1 hypothetical protein B9G35_10555 [Klebsiella pneumoniae],Mutated,3,73,Hypothetical Proteins
+YP_005226849.1,hypothetical protein KPHS_25490 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC24009.1 hypothetical protein AM386_20400 [Klebsiella pneumoniae],Mutated,1,42,Hypothetical Proteins
+YP_005225212.1,DUF3461 family protein,GCA_002156725.1 ARS92926.1 hypothetical protein B9G35_05460 [Klebsiella pneumoniae],Mutated,1,128,Hypothetical Proteins
+YP_005225395.1,hypothetical protein KPHS_10950 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC23122.1 hypothetical protein AM386_15455 [Klebsiella pneumoniae],Mutated,1,38,Hypothetical Proteins
+YP_005228237.1,hypothetical protein KPHS_39370 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95898.1 hypothetical protein B9G35_21645 [Klebsiella pneumoniae],Mutated,14,278,Hypothetical Proteins
+YP_005225143.1,DUF3300 domain-containing protein,GCA_002156725.1 ARS92871.1 hypothetical protein B9G35_05160 [Klebsiella pneumoniae],Mutated,52,535,Hypothetical Proteins
+YP_005224518.1,YjaG family protein,GCA_002156725.1 ARS92285.1 hypothetical protein B9G35_01940 [Klebsiella pneumoniae],Mutated,1,196,Hypothetical Proteins
+YP_005228369.1,hypothetical protein KPHS_40690 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96043.1 hypothetical protein B9G35_22450 [Klebsiella pneumoniae],Mutated,1,59,Hypothetical Proteins
+YP_005229181.1,putative regulator [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96820.1 hypothetical protein B9G35_26605 [Klebsiella pneumoniae],Mutated,2,240,Hypothetical Proteins
+YP_005224600.1,YjcB family protein,GCA_002156725.1 ARS92361.1 hypothetical protein B9G35_02365 [Klebsiella pneumoniae],Mutated,1,93,Hypothetical Proteins
+YP_005225206.1,TRIC cation channel family protein,GCA_002156725.1 ARS92921.1 hypothetical protein B9G35_05430 [Klebsiella pneumoniae],Mutated,2,207,Hypothetical Proteins
+YP_005225359.1,DUF2755 family protein,GCA_002156725.1 ARS93064.1 hypothetical protein B9G35_06245 [Klebsiella pneumoniae],Mutated,1,100,Hypothetical Proteins
+YP_005225655.1,YncE family protein,GCA_002156725.1 ARS93345.1 hypothetical protein B9G35_07745 [Klebsiella pneumoniae],Mutated,6,360,Hypothetical Proteins
+YP_005226809.1,hypothetical protein KPHS_25090 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC24043.1 hypothetical protein AM386_20595 [Klebsiella pneumoniae],Mutated,5,40,Hypothetical Proteins
+YP_005227096.1,hypothetical protein KPHS_27960 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94729.1 hypothetical protein B9G35_15285 [Klebsiella pneumoniae],Mutated,1,48,Hypothetical Proteins
+YP_005227197.1,small membrane protein,GCA_002156725.1 ARS94821.1 hypothetical protein B9G35_15770 [Klebsiella pneumoniae],Mutated,1,40,Hypothetical Proteins
+YP_005228222.1,alpha-2-macroglobulin family protein,GCA_002156725.1 ARS95883.1 hypothetical protein B9G35_21570 [Klebsiella pneumoniae],Mutated,66,1649,Hypothetical Proteins
+YP_005228129.1,hypothetical protein KPHS_38290 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC25889.1 hypothetical protein AM386_02070 [Klebsiella pneumoniae],Mutated,11,41,Hypothetical Proteins
+YP_005226889.1,DUF2132 domain-containing protein,GCA_002156725.1 ARS94547.1 hypothetical protein B9G35_14315 [Klebsiella pneumoniae],Mutated,2,87,Hypothetical Proteins
+YP_005226874.1,hypothetical protein KPHS_25740 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94532.1 hypothetical protein B9G35_14235 [Klebsiella pneumoniae],Mutated,3,64,Hypothetical Proteins
+YP_005227292.1,hypothetical protein KPHS_29920 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94907.1 hypothetical protein B9G35_16240 [Klebsiella pneumoniae],Mutated,77,238,Hypothetical Proteins
+YP_005225565.1,DUF1073 domain-containing protein,GCA_002903005.1 AUV39410.1 hypothetical protein C2U50_23045 [Klebsiella pneumoniae],Mutated,18,506,Hypothetical Proteins
+YP_005225837.1,hypothetical protein KPHS_15370 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93514.1 hypothetical protein B9G35_08680 [Klebsiella pneumoniae],Mutated,1,110,Hypothetical Proteins
+YP_005225752.1,YbdD/YjiX family protein,GCA_002156725.1 ARS93433.1 hypothetical protein B9G35_08220 [Klebsiella pneumoniae],Mutated,1,65,Hypothetical Proteins
+YP_005225678.1,putative inner membrane protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93364.1 hypothetical protein B9G35_07850 [Klebsiella pneumoniae],Mutated,218,703,Hypothetical Proteins
+YP_005224657.1,hypothetical protein KPHS_03570 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002761315.1 ATU12271.1 hypothetical protein BMF28_16145 [Klebsiella pneumoniae],Mutated,3,37,Hypothetical Proteins
+YP_005225585.1,hypothetical protein KPHS_12850 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_018604345.1 QWA86217.1 hypothetical protein JKF56_10765 [Klebsiella pneumoniae],Mutated,3,280,Hypothetical Proteins
+YP_005226235.1,putative transport protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93885.1 hypothetical protein B9G35_10735 [Klebsiella pneumoniae],Mutated,24,140,Hypothetical Proteins
+YP_005226547.1,hypothetical protein KPHS_22470 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94230.1 hypothetical protein B9G35_12620 [Klebsiella pneumoniae],Mutated,75,53,Hypothetical Proteins
+YP_005227960.1,hypothetical protein KPHS_36600 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95590.1 hypothetical protein B9G35_20000 [Klebsiella pneumoniae],Mutated,4,65,Hypothetical Proteins
+YP_005226724.1,hypothetical protein KPHS_24240 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94395.1 hypothetical protein B9G35_13490 [Klebsiella pneumoniae],Mutated,6,120,Hypothetical Proteins
+YP_005227182.1,DUF406 domain-containing protein,GCA_002156725.1 ARS94807.1 hypothetical protein B9G35_15695 [Klebsiella pneumoniae],Mutated,3,99,Hypothetical Proteins
+YP_005227483.1,YciY family protein,GCA_002156725.1 ARS95076.1 hypothetical protein B9G35_17150 [Klebsiella pneumoniae],Mutated,49,45,Hypothetical Proteins
+YP_005228962.1,DoxX family protein,GCA_002156725.1 ARS96610.1 hypothetical protein B9G35_25465 [Klebsiella pneumoniae],Mutated,1,130,Hypothetical Proteins
+YP_005228997.1,putative NADH dehydrogenase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96641.1 hypothetical protein B9G35_25625 [Klebsiella pneumoniae],Mutated,4,215,Hypothetical Proteins
+YP_005227611.1,alpha-E domain-containing protein,GCA_002156725.1 ARS95188.1 hypothetical protein B9G35_17780 [Klebsiella pneumoniae],Mutated,3,309,Hypothetical Proteins
+YP_005224968.1,paral putative membrane protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92708.1 hypothetical protein B9G35_04265 [Klebsiella pneumoniae],Mutated,5,258,Hypothetical Proteins
+YP_005225859.1,DUF979 domain-containing protein,GCA_002156725.1 ARS93535.1 hypothetical protein B9G35_08795 [Klebsiella pneumoniae],Mutated,10,331,Hypothetical Proteins
+YP_005229353.1,hypothetical protein KPHS_50530 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96982.1 hypothetical protein B9G35_27465 [Klebsiella pneumoniae],Mutated,20,59,Hypothetical Proteins
+YP_005228908.1,hypothetical protein KPHS_46080 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96557.1 hypothetical protein B9G35_25185 [Klebsiella pneumoniae],Mutated,36,90,Hypothetical Proteins
+YP_005226545.1,hypothetical protein KPHS_22450 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94228.1 hypothetical protein B9G35_12610 [Klebsiella pneumoniae],Mutated,2,141,Hypothetical Proteins
+YP_005224923.1,hypothetical protein KPHS_06230 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92666.1 hypothetical protein B9G35_04035 [Klebsiella pneumoniae],Mutated,71,207,Hypothetical Proteins
+YP_005229342.1,hypothetical protein KPHS_50420 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96972.1 hypothetical protein B9G35_27410 [Klebsiella pneumoniae],Mutated,1,62,Hypothetical Proteins
+YP_005224939.1,hypothetical protein KPHS_06390 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC22702.1 hypothetical protein AM386_13160 [Klebsiella pneumoniae],Mutated,15,82,Hypothetical Proteins
+YP_005228251.1,putative alpha helix protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95911.1 hypothetical protein B9G35_21720 [Klebsiella pneumoniae],Mutated,10,228,Hypothetical Proteins
+YP_005228062.1,hypothetical protein KPHS_37620 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC25866.1 hypothetical protein AM386_30760 [Klebsiella pneumoniae],Mutated,4,38,Hypothetical Proteins
+YP_005226909.1,hypothetical protein KPHS_26090 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94566.1 hypothetical protein B9G35_14415 [Klebsiella pneumoniae],Mutated,4,95,Hypothetical Proteins
+YP_005227453.1,hypothetical protein KPHS_31530 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95051.1 hypothetical protein B9G35_17000 [Klebsiella pneumoniae],Mutated,3,39,Hypothetical Proteins
+YP_005224740.1,DUF1471 domain-containing protein,GCA_002156725.1 ARS92490.1 hypothetical protein B9G35_03080 [Klebsiella pneumoniae],Mutated,3,91,Hypothetical Proteins
+YP_005229385.1,YiaB family inner membrane protein,GCA_002156725.1 ARS97011.1 hypothetical protein B9G35_27640 [Klebsiella pneumoniae],Mutated,2,148,Hypothetical Proteins
+YP_005226253.1,YceB protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93900.1 hypothetical protein B9G35_10830 [Klebsiella pneumoniae],Mutated,1,186,Hypothetical Proteins
+YP_005225189.1,hypothetical protein KPHS_08890 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC25972.1 hypothetical protein AM386_14385 [Klebsiella pneumoniae],Mutated,11,45,Hypothetical Proteins
+YP_005227285.1,hypothetical protein KPHS_29850 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94901.1 hypothetical protein B9G35_16210 [Klebsiella pneumoniae],Mutated,44,56,Hypothetical Proteins
+YP_005226854.1,YhcH/YjgK/YiaL family protein,GCA_002156725.1 ARS94513.1 hypothetical protein B9G35_14130 [Klebsiella pneumoniae],Mutated,1,157,Hypothetical Proteins
+YP_005227133.1,hypothetical protein KPHS_28330 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94761.1 hypothetical protein B9G35_15455 [Klebsiella pneumoniae],Mutated,4,61,Hypothetical Proteins
+YP_005228094.1,YfcZ/YiiS family protein,GCA_002156725.1 ARS95717.1 hypothetical protein B9G35_20670 [Klebsiella pneumoniae],Mutated,2,94,Hypothetical Proteins
+YP_005228786.1,hypothetical protein KPHS_44860 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96444.1 hypothetical protein B9G35_24580 [Klebsiella pneumoniae],Mutated,4,99,Hypothetical Proteins
+YP_005228795.1,hypothetical protein KPHS_44950 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96452.1 hypothetical protein B9G35_24625 [Klebsiella pneumoniae],Mutated,234,371,Hypothetical Proteins
+YP_005228966.1,pirin family protein,GCA_002156725.1 ARS96614.1 hypothetical protein B9G35_25485 [Klebsiella pneumoniae],Mutated,4,233,Hypothetical Proteins
+YP_005225730.1,DUF2291 domain-containing protein,GCA_002156725.1 ARS93411.1 hypothetical protein B9G35_08100 [Klebsiella pneumoniae],Mutated,3,206,Hypothetical Proteins
+YP_005227430.1,hypothetical protein KPHS_31290 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC23457.1 hypothetical protein AM386_17395 [Klebsiella pneumoniae],Mutated,1,45,Hypothetical Proteins
+YP_005227050.1,DUF4056 domain-containing protein,GCA_002156725.1 ARS94693.1 hypothetical protein B9G35_15100 [Klebsiella pneumoniae],Mutated,18,370,Hypothetical Proteins
+YP_005224444.1,hypothetical protein KPHS_01440 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC22202.1 hypothetical protein AM386_10380 [Klebsiella pneumoniae],Mutated,2,57,Hypothetical Proteins
+YP_005226371.1,hypothetical protein KPHS_20710 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC24526.1 hypothetical protein AM386_23230 [Klebsiella pneumoniae],Mutated,5,39,Hypothetical Proteins
+YP_005228824.1,hypothetical protein KPHS_45240 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96478.1 hypothetical protein B9G35_24760 [Klebsiella pneumoniae],Mutated,120,161,Hypothetical Proteins
+YP_005225551.1,hypothetical protein KPHS_12510 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93243.1 hypothetical protein B9G35_07185 [Klebsiella pneumoniae],Mutated,1,168,Hypothetical Proteins
+YP_005227725.1,hypothetical protein KPHS_34250 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95292.1 hypothetical protein B9G35_18335 [Klebsiella pneumoniae],Mutated,11,59,Hypothetical Proteins
+YP_005226732.1,hypothetical protein KPHS_24320 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC26042.1 hypothetical protein AM386_20995 [Klebsiella pneumoniae],Mutated,1,47,Hypothetical Proteins
+YP_005224938.1,hypothetical protein KPHS_06380 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002761315.1 ATU12574.1 hypothetical protein BMF28_17835 [Klebsiella pneumoniae],Mutated,23,109,Hypothetical Proteins
+YP_005225541.1,host nuclease inhibitor GamL,GCA_002156725.1 ARS93234.1 hypothetical protein B9G35_07140 [Klebsiella pneumoniae],Mutated,14,94,Hypothetical Proteins
+YP_005228958.1,DUF1090 domain-containing protein,GCA_002156725.1 ARS96606.1 hypothetical protein B9G35_25445 [Klebsiella pneumoniae],Mutated,1,122,Hypothetical Proteins
+YP_005225720.1,small-conductance mechanosensitive ion channel MscS [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93404.1 hypothetical protein B9G35_08065 [Klebsiella pneumoniae],Mutated,314,139,Hypothetical Proteins
+YP_005227116.1,hypothetical protein KPHS_28160 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156745.1 ARS98258.1 hypothetical protein B8O09_03305 [Klebsiella pneumoniae],Mutated,14,228,Hypothetical Proteins
+YP_005225579.1,DUF3383 domain-containing protein,GCA_002903005.1 AUV39420.1 hypothetical protein C2U50_23100 [Klebsiella pneumoniae],Mutated,18,493,Hypothetical Proteins
+YP_005226804.1,"hypothetical protein KPHS_25040, partial [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156725.1 ARS94471.1 hypothetical protein B9G35_13895 [Klebsiella pneumoniae],Mutated,96,38,Hypothetical Proteins
+YP_005225580.1,hypothetical protein KPHS_12800 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002903005.1 AUV39421.1 hypothetical protein C2U50_23105 [Klebsiella pneumoniae],Mutated,5,147,Hypothetical Proteins
+YP_005226916.1,hypothetical protein KPHS_26160 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC23945.1 hypothetical protein AM386_20060 [Klebsiella pneumoniae],Mutated,1,46,Hypothetical Proteins
+YP_005225670.1,hypothetical protein KPHS_13700 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC25220.1 hypothetical protein AM386_27170 [Klebsiella pneumoniae],Mutated,8,46,Hypothetical Proteins
+YP_005225575.1,hypothetical protein KPHS_12750 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002903005.1 AUV39416.1 hypothetical protein C2U50_23075 [Klebsiella pneumoniae],Mutated,9,108,Hypothetical Proteins
+YP_005225346.1,hypothetical protein KPHS_10460 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC23077.1 hypothetical protein AM386_15215 [Klebsiella pneumoniae],Mutated,13,42,Hypothetical Proteins
+YP_005225436.1,lipoprotein,GCA_002156725.1 ARS93136.1 hypothetical protein B9G35_06620 [Klebsiella pneumoniae],Mutated,1,192,Hypothetical Proteins
+YP_005227772.1,hypothetical protein KPHS_34720 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC25587.1 hypothetical protein AM386_29260 [Klebsiella pneumoniae],Mutated,91,308,Hypothetical Proteins
+YP_005225621.1,hypothetical protein KPHS_13210 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC25278.1 hypothetical protein AM386_27505 [Klebsiella pneumoniae],Mutated,2,45,Hypothetical Proteins
+YP_005227883.1,small membrane protein,GCA_002202195.1 ASC25694.1 hypothetical protein AM386_29855 [Klebsiella pneumoniae],Mutated,12,46,Hypothetical Proteins
+YP_005225240.1,YaeF family permuted papain-like enzyme,GCA_002156725.1 ARS92953.1 hypothetical protein B9G35_05610 [Klebsiella pneumoniae],Mutated,36,258,Hypothetical Proteins
+YP_005226658.1,hypothetical protein KPHS_23580 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94336.1 hypothetical protein B9G35_13185 [Klebsiella pneumoniae],Mutated,451,465,Hypothetical Proteins
+YP_005224633.1,membrane protein,GCA_002156725.1 ARS92392.1 hypothetical protein B9G35_02530 [Klebsiella pneumoniae],Mutated,7,117,Hypothetical Proteins
+YP_005227018.1,oxalurate catabolism protein HpxX,GCA_002156745.1 ARS98175.1 hypothetical protein B8O09_02870 [Klebsiella pneumoniae],Mutated,6,61,Hypothetical Proteins
+YP_005225303.1,P4 phage protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92598.1 hypothetical protein B9G35_03660 [Klebsiella pneumoniae],Mutated,11,106,Hypothetical Proteins
+YP_005225582.1,hypothetical protein KPHS_12820 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002903005.1 AUV39424.1 hypothetical protein C2U50_23120 [Klebsiella pneumoniae],Mutated,9,158,Hypothetical Proteins
+YP_005228603.1,hypothetical protein KPHS_43030 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC25901.1 hypothetical protein AM386_04545 [Klebsiella pneumoniae],Mutated,31,47,Hypothetical Proteins
+YP_005227381.1,hypothetical protein KPHS_30810 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC23500.1 hypothetical protein AM386_17625 [Klebsiella pneumoniae],Mutated,1,42,Hypothetical Proteins
+YP_005227530.1,putative transcriptional regulator [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95116.1 hypothetical protein B9G35_17385 [Klebsiella pneumoniae],Mutated,2,270,Hypothetical Proteins
+YP_005226057.1,YbjC family protein,GCA_002156725.1 ARS93723.1 hypothetical protein B9G35_09835 [Klebsiella pneumoniae],Mutated,9,95,Hypothetical Proteins
+YP_005228457.1,nitrous oxide-stimulated promoter family protein,GCA_002156725.1 ARS96126.1 hypothetical protein B9G35_22905 [Klebsiella pneumoniae],Mutated,27,113,Hypothetical Proteins
+YP_005229605.1,hypothetical protein KPHS_53050 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC22040.1 hypothetical protein AM386_09460 [Klebsiella pneumoniae],Mutated,7,40,Hypothetical Proteins
+YP_005229452.1,hypothetical protein KPHS_51520 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC21892.1 hypothetical protein AM386_08670 [Klebsiella pneumoniae],Mutated,7,43,Hypothetical Proteins
+YP_005224424.1,putative transport protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92189.1 hypothetical protein B9G35_01375 [Klebsiella pneumoniae],Mutated,2,240,Hypothetical Proteins
+YP_005227980.1,hypothetical protein KPHS_36800 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95609.1 hypothetical protein B9G35_20105 [Klebsiella pneumoniae],Mutated,1,114,Hypothetical Proteins
+YP_005227497.1,hypothetical protein KPHS_31970 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC23392.1 hypothetical protein AM386_17045 [Klebsiella pneumoniae],Mutated,12,43,Hypothetical Proteins
+YP_005226446.1,UPF0259 family protein,GCA_002156725.1 ARS94064.1 hypothetical protein B9G35_11710 [Klebsiella pneumoniae],Mutated,5,247,Hypothetical Proteins
+YP_005225051.1,hypothetical protein KPHS_07510 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC22798.1 hypothetical protein AM386_13705 [Klebsiella pneumoniae],Mutated,1,51,Hypothetical Proteins
+YP_005226568.1,putative bacteriophage protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94250.1 hypothetical protein B9G35_12720 [Klebsiella pneumoniae],Mutated,9,313,Hypothetical Proteins
+YP_005227703.1,DUF72 domain-containing protein,GCA_002156725.1 ARS95270.1 hypothetical protein B9G35_18225 [Klebsiella pneumoniae],Mutated,37,272,Hypothetical Proteins
+YP_005227545.1,type VI secretion system ImpA family N-terminal domain-containing protein,GCA_002156725.1 ARS95131.1 hypothetical protein B9G35_17465 [Klebsiella pneumoniae],Mutated,39,471,Hypothetical Proteins
+YP_005225989.1,DUF1479 domain-containing protein,GCA_002156725.1 ARS93651.1 hypothetical protein B9G35_09460 [Klebsiella pneumoniae],Mutated,12,421,Hypothetical Proteins
+YP_005229487.1,DUF3237 domain-containing protein,GCA_002156725.1 ARS91947.1 hypothetical protein B9G35_00050 [Klebsiella pneumoniae],Mutated,1,155,Hypothetical Proteins
+YP_005226584.1,hypothetical protein KPHS_22840 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94266.1 hypothetical protein B9G35_12810 [Klebsiella pneumoniae],Mutated,73,116,Hypothetical Proteins
+YP_005225285.1,YjhX family toxin,GCA_002156725.1 ARS92997.1 hypothetical protein B9G35_05885 [Klebsiella pneumoniae],Mutated,8,85,Hypothetical Proteins
+YP_005226567.1,Putative bacteriophage protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94249.1 hypothetical protein B9G35_12715 [Klebsiella pneumoniae],Mutated,4,164,Hypothetical Proteins
+YP_005228710.1,YecA family protein,GCA_002156725.1 ARS97311.1 hypothetical protein B9G35_24190 [Klebsiella pneumoniae],Mutated,32,164,Hypothetical Proteins
+YP_005226169.1,"hypothetical protein KPHS_18690, partial [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156725.1 ARS93824.1 hypothetical protein B9G35_10400 [Klebsiella pneumoniae],Mutated,95,56,Hypothetical Proteins
+YP_005226286.1,glycine zipper 2TM domain-containing protein,GCA_002156725.1 ARS97197.1 hypothetical protein B9G35_10995 [Klebsiella pneumoniae],Mutated,5,179,Hypothetical Proteins
+YP_005227729.1,YecA family protein,GCA_002156725.1 ARS95296.1 hypothetical protein B9G35_18355 [Klebsiella pneumoniae],Mutated,14,217,Hypothetical Proteins
+YP_005229386.1,hypothetical protein KPHS_50860 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS97012.1 hypothetical protein B9G35_27645 [Klebsiella pneumoniae],Mutated,10,123,Hypothetical Proteins
+YP_005224891.1,hypothetical protein KPHS_05910 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC22656.1 hypothetical protein AM386_12915 [Klebsiella pneumoniae],Mutated,11,55,Hypothetical Proteins
+YP_005228437.1,hypothetical protein KPHS_41380 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_003574255.1 BBE59859.1 hypothetical protein TRKP064_0765 [Klebsiella pneumoniae],Mutated,1,52,Hypothetical Proteins
+YP_005224658.1,putative transmembrane protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92413.1 hypothetical protein B9G35_02650 [Klebsiella pneumoniae],Mutated,36,227,Hypothetical Proteins
+YP_005224554.1,serine dehydratase subunit alpha family protein,GCA_002156725.1 ARS92319.1 hypothetical protein B9G35_02145 [Klebsiella pneumoniae],Mutated,14,425,Hypothetical Proteins
+YP_005226429.1,hypothetical protein KPHS_21290 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC24371.1 hypothetical protein AM386_22350 [Klebsiella pneumoniae],Mutated,2,38,Hypothetical Proteins
+YP_005227554.1,hypothetical protein KPHS_32540 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC23344.1 hypothetical protein AM386_16730 [Klebsiella pneumoniae],Mutated,20,37,Hypothetical Proteins
+YP_005224895.1,membrane fusion protein family auxiliary transport protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92638.1 hypothetical protein B9G35_03890 [Klebsiella pneumoniae],Mutated,7,355,Hypothetical Proteins
+YP_005226126.1,chromosome partition protein MukF [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93786.1 hypothetical protein B9G35_10185 [Klebsiella pneumoniae],Mutated,3,297,Hypothetical Proteins
+YP_005225096.1,hypothetical protein KPHS_07960 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC22846.1 hypothetical protein AM386_13945 [Klebsiella pneumoniae],Mutated,1,39,Hypothetical Proteins
+YP_005226583.1,hypothetical protein KPHS_22830 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94265.1 hypothetical protein B9G35_12805 [Klebsiella pneumoniae],Mutated,1,61,Hypothetical Proteins
+YP_005226953.1,hypothetical protein KPHS_26530 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC23911.1 hypothetical protein AM386_19885 [Klebsiella pneumoniae],Mutated,16,54,Hypothetical Proteins
+YP_005227220.1,putative LpxA-like enzyme [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94841.1 hypothetical protein B9G35_15875 [Klebsiella pneumoniae],Mutated,13,326,Hypothetical Proteins
+YP_005226360.1,YbaK/prolyl-tRNA synthetase associated domain-containing protein,GCA_002156725.1 ARS93990.1 hypothetical protein B9G35_11320 [Klebsiella pneumoniae],Mutated,3,166,Hypothetical Proteins
+YP_005229134.1,DUF494 domain-containing protein,GCA_002156725.1 ARS96773.1 hypothetical protein B9G35_26365 [Klebsiella pneumoniae],Mutated,1,157,Hypothetical Proteins
+YP_005225330.1,putative receptor [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS97152.1 hypothetical protein B9G35_06110 [Klebsiella pneumoniae],Mutated,11,547,Hypothetical Proteins
+YP_005227109.1,YmjA family protein,GCA_002156725.1 ARS94742.1 hypothetical protein B9G35_15360 [Klebsiella pneumoniae],Mutated,5,81,Hypothetical Proteins
+YP_005226710.1,paral putative membrane component of transport system [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94381.1 hypothetical protein B9G35_13420 [Klebsiella pneumoniae],Mutated,11,402,Hypothetical Proteins
+YP_005224794.1,hypothetical protein KPHS_04940 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC22538.1 hypothetical protein AM386_12235 [Klebsiella pneumoniae],Mutated,7,57,Hypothetical Proteins
+YP_005225677.1,"putative inner membrane protein, partial [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156725.1 ARS93364.1 hypothetical protein B9G35_07850 [Klebsiella pneumoniae],Mutated,780,141,Hypothetical Proteins
+YP_005226806.1,hypothetical protein KPHS_25060 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC24045.1 hypothetical protein AM386_20610 [Klebsiella pneumoniae],Mutated,1,42,Hypothetical Proteins
+YP_005227621.1,hypothetical protein KPHS_33210 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC26129.1 hypothetical protein AM386_28405 [Klebsiella pneumoniae],Mutated,4,48,Hypothetical Proteins
+YP_005227704.1,MAPEG family protein,GCA_002156725.1 ARS95271.1 hypothetical protein B9G35_18230 [Klebsiella pneumoniae],Mutated,1,131,Hypothetical Proteins
+YP_005229603.1,hypothetical protein KPHS_53030 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC22038.1 hypothetical protein AM386_09450 [Klebsiella pneumoniae],Mutated,16,53,Hypothetical Proteins
+YP_005228949.1,putative transmembrane protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96597.1 hypothetical protein B9G35_25400 [Klebsiella pneumoniae],Mutated,8,323,Hypothetical Proteins
+YP_005224754.1,YtfJ family protein,GCA_002156725.1 ARS92505.1 hypothetical protein B9G35_03155 [Klebsiella pneumoniae],Mutated,3,185,Hypothetical Proteins
+YP_005226610.1,DUF2235 domain-containing protein,GCA_002156725.1 ARS94290.1 hypothetical protein B9G35_12945 [Klebsiella pneumoniae],Mutated,585,344,Hypothetical Proteins
+YP_005225404.1,DUF3251 domain-containing protein,GCA_002156725.1 ARS93104.1 hypothetical protein B9G35_06460 [Klebsiella pneumoniae],Mutated,3,179,Hypothetical Proteins
+YP_005224650.1,hypothetical protein KPHS_03500 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC22405.1 hypothetical protein AM386_11500 [Klebsiella pneumoniae],Mutated,5,40,Hypothetical Proteins
+YP_005225005.1,protein CreA,GCA_002156725.1 ARS92740.1 hypothetical protein B9G35_04470 [Klebsiella pneumoniae],Mutated,2,157,Hypothetical Proteins
+YP_005227188.1,putative transport protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94812.1 hypothetical protein B9G35_15725 [Klebsiella pneumoniae],Mutated,12,149,Hypothetical Proteins
+YP_005227556.1,hypothetical protein KPHS_32560 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002903005.1 AUV40629.1 hypothetical protein C2U50_29995 [Klebsiella pneumoniae],Mutated,66,75,Hypothetical Proteins
+YP_005229572.1,putative outer membrane protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92027.1 hypothetical protein B9G35_00465 [Klebsiella pneumoniae],Mutated,13,377,Hypothetical Proteins
+YP_005228527.1,hypothetical protein KPHS_42270 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC21055.1 hypothetical protein AM386_04150 [Klebsiella pneumoniae],Mutated,9,38,Hypothetical Proteins
+YP_005228774.1,hypothetical protein KPHS_44740 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96432.1 hypothetical protein B9G35_24520 [Klebsiella pneumoniae],Mutated,3,115,Hypothetical Proteins
+YP_005225561.1,hypothetical protein KPHS_12610 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002967795.2 QKE16530.1 hypothetical protein C5707_022825 [Klebsiella pneumoniae],Mutated,1,40,Hypothetical Proteins
+YP_005227492.1,hypothetical protein KPHS_31920 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC23397.1 hypothetical protein AM386_17070 [Klebsiella pneumoniae],Mutated,2,38,Hypothetical Proteins
+YP_005224978.1,hypothetical protein KPHS_06780 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC22736.1 hypothetical protein AM386_13335 [Klebsiella pneumoniae],Mutated,11,56,Hypothetical Proteins
+YP_005228654.1,hypothetical protein KPHS_43540 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC21178.1 hypothetical protein AM386_04825 [Klebsiella pneumoniae],Mutated,13,37,Hypothetical Proteins
+YP_005227073.1,DMT family transporter,GCA_002156725.1 ARS94714.1 hypothetical protein B9G35_15210 [Klebsiella pneumoniae],Mutated,8,144,Hypothetical Proteins
+YP_005225371.1,"hypothetical protein KPHS_10710, partial [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156725.1 ARS93073.1 hypothetical protein B9G35_06305 [Klebsiella pneumoniae],Mutated,15,51,Hypothetical Proteins
+YP_005228294.1,YfiR family protein,GCA_002156725.1 ARS95949.1 hypothetical protein B9G35_21940 [Klebsiella pneumoniae],Mutated,20,169,Hypothetical Proteins
+YP_005224666.1,hypothetical protein KPHS_03660 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002967795.2 QKE15700.1 hypothetical protein C5707_018275 [Klebsiella pneumoniae],Mutated,1,40,Hypothetical Proteins
+YP_005229123.1,hypothetical protein KPHS_48230 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96763.1 hypothetical protein B9G35_26285 [Klebsiella pneumoniae],Mutated,81,313,Hypothetical Proteins
+YP_005224669.1,DUF1176 domain-containing protein,GCA_002156725.1 ARS92420.1 hypothetical protein B9G35_02705 [Klebsiella pneumoniae],Mutated,21,695,Hypothetical Proteins
+YP_005224685.1,hypothetical protein KPHS_03850 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92434.1 hypothetical protein B9G35_02785 [Klebsiella pneumoniae],Mutated,1,121,Hypothetical Proteins
+YP_005228170.1,DUF1176 domain-containing protein,GCA_002156725.1 ARS95783.1 hypothetical protein B9G35_21055 [Klebsiella pneumoniae],Mutated,197,164,Hypothetical Proteins
+YP_005228884.1,hypothetical protein KPHS_45840 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC21340.1 hypothetical protein AM386_05695 [Klebsiella pneumoniae],Mutated,1,49,Hypothetical Proteins
+YP_005227209.1,DUF2554 family protein,GCA_002202195.1 ASC23666.1 hypothetical protein AM386_18540 [Klebsiella pneumoniae],Mutated,3,76,Hypothetical Proteins
+YP_005227939.1,hypothetical protein KPHS_36390 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC25745.1 hypothetical protein AM386_30125 [Klebsiella pneumoniae],Mutated,16,61,Hypothetical Proteins
+YP_005225237.1,YaeQ family protein,GCA_002156725.1 ARS92951.1 hypothetical protein B9G35_05595 [Klebsiella pneumoniae],Mutated,3,181,Hypothetical Proteins
+YP_005224964.1,putative outer membrane protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92704.1 hypothetical protein B9G35_04245 [Klebsiella pneumoniae],Mutated,5,163,Hypothetical Proteins
+YP_005228498.1,hypothetical protein KPHS_41980 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC21025.1 hypothetical protein AM386_04000 [Klebsiella pneumoniae],Mutated,1,42,Hypothetical Proteins
+YP_005226620.1,hypothetical protein KPHS_23200 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC24235.1 hypothetical protein AM386_21620 [Klebsiella pneumoniae],Mutated,1,42,Hypothetical Proteins
+YP_005229375.1,DUF3053 domain-containing protein,GCA_002156725.1 ARS97001.1 hypothetical protein B9G35_27585 [Klebsiella pneumoniae],Mutated,1,236,Hypothetical Proteins
+YP_005224331.1,ribonuclease BN [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92097.1 hypothetical protein B9G35_00860 [Klebsiella pneumoniae],Mutated,4,286,Hypothetical Proteins
+YP_005227650.1,DUF986 domain-containing protein,GCA_002156725.1 ARS95222.1 hypothetical protein B9G35_17955 [Klebsiella pneumoniae],Mutated,5,152,Hypothetical Proteins
+YP_005227113.1,hypothetical protein KPHS_28130 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC23757.1 hypothetical protein AM386_19030 [Klebsiella pneumoniae],Mutated,8,42,Hypothetical Proteins
+YP_005225943.1,putative negative regulator [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93611.1 hypothetical protein B9G35_09250 [Klebsiella pneumoniae],Mutated,2,321,Hypothetical Proteins
+YP_005226711.1,DUF1304 domain-containing protein,GCA_002156725.1 ARS94382.1 hypothetical protein B9G35_13425 [Klebsiella pneumoniae],Mutated,4,117,Hypothetical Proteins
+YP_005227192.1,hypothetical protein KPHS_28920 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC26015.1 hypothetical protein AM386_18630 [Klebsiella pneumoniae],Mutated,14,41,Hypothetical Proteins
+YP_005224728.1,DUF1471 domain-containing protein,GCA_002156725.1 ARS92478.1 hypothetical protein B9G35_03020 [Klebsiella pneumoniae],Mutated,4,91,Hypothetical Proteins
+YP_005225556.1,putative ninG protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94135.1 hypothetical protein B9G35_12080 [Klebsiella pneumoniae],Mutated,27,212,Hypothetical Proteins
+YP_005227718.1,hypothetical protein KPHS_34180 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002967795.2 QKE13407.1 hypothetical protein C5707_005685 [Klebsiella pneumoniae],Mutated,3,47,Hypothetical Proteins
+YP_005229393.1,mannosyl-glycoprotein endo-beta-N-acetylglucosamidase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS97019.1 hypothetical protein B9G35_27685 [Klebsiella pneumoniae],Mutated,86,187,Hypothetical Proteins
+YP_005225165.1,polysaccharide deacetylase family protein,GCA_002156725.1 ARS92888.1 hypothetical protein B9G35_05250 [Klebsiella pneumoniae],Mutated,10,417,Hypothetical Proteins
+YP_005228882.1,accessory factor UbiK family protein,GCA_002156725.1 ARS96533.1 hypothetical protein B9G35_25055 [Klebsiella pneumoniae],Mutated,2,90,Hypothetical Proteins
+YP_005225021.1,inner membrane protein YaaH [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92755.1 hypothetical protein B9G35_04555 [Klebsiella pneumoniae],Mutated,2,188,Hypothetical Proteins
+YP_005225331.1,fimbria/pilus periplasmic chaperone,GCA_002156725.1 ARS93039.1 hypothetical protein B9G35_06115 [Klebsiella pneumoniae],Mutated,23,221,Hypothetical Proteins
+YP_005228683.1,putative lipoprotein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96343.1 hypothetical protein B9G35_24055 [Klebsiella pneumoniae],Mutated,1,237,Hypothetical Proteins
+YP_005229589.1,hypothetical protein KPHS_52890 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92044.1 hypothetical protein B9G35_00560 [Klebsiella pneumoniae],Mutated,1,68,Hypothetical Proteins
+YP_005225309.1,"phage transcriptional activator, Ogr/delta [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156725.1 ARS92593.1 hypothetical protein B9G35_03635 [Klebsiella pneumoniae],Mutated,3,81,Hypothetical Proteins
+YP_005228101.1,hypothetical protein KPHS_38010 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95722.1 hypothetical protein B9G35_20700 [Klebsiella pneumoniae],Mutated,35,293,Hypothetical Proteins
+YP_005229586.1,hypothetical protein KPHS_52860 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS97107.1 hypothetical protein B9G35_00545 [Klebsiella pneumoniae],Mutated,102,191,Hypothetical Proteins
+YP_005225817.1,hypothetical protein KPHS_15170 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC25080.1 hypothetical protein AM386_26420 [Klebsiella pneumoniae],Mutated,2,38,Hypothetical Proteins
+YP_005226018.1,AIPR family protein,GCA_002156725.1 ARS93691.1 hypothetical protein B9G35_09665 [Klebsiella pneumoniae],Mutated,1,580,Hypothetical Proteins
+YP_005227466.1,putative translation initiation inhibitor [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95061.1 hypothetical protein B9G35_17065 [Klebsiella pneumoniae],Mutated,10,117,Hypothetical Proteins
+YP_005227415.1,fumarate hydratase FumD,GCA_002156725.1 ARS95018.1 hypothetical protein B9G35_16825 [Klebsiella pneumoniae],Mutated,1,70,Hypothetical Proteins
+YP_005226917.1,hypothetical protein KPHS_26170 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94572.1 hypothetical protein B9G35_14445 [Klebsiella pneumoniae],Mutated,21,79,Hypothetical Proteins
+YP_005224568.1,hypothetical protein KPHS_02680 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC22321.1 hypothetical protein AM386_11065 [Klebsiella pneumoniae],Mutated,7,49,Hypothetical Proteins
+YP_005227179.1,putative receptor [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94805.1 hypothetical protein B9G35_15680 [Klebsiella pneumoniae],Mutated,6,353,Hypothetical Proteins
+YP_005228100.1,WbuC family cupin fold metalloprotein,GCA_002156725.1 ARS95721.1 hypothetical protein B9G35_20695 [Klebsiella pneumoniae],Mutated,4,160,Hypothetical Proteins
+YP_005224870.1,putative lipoprotein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92613.1 hypothetical protein B9G35_03745 [Klebsiella pneumoniae],Mutated,13,183,Hypothetical Proteins
+YP_005226580.1,putative bacteriophage protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94262.1 hypothetical protein B9G35_12790 [Klebsiella pneumoniae],Mutated,27,75,Hypothetical Proteins
+YP_005226570.1,putative bacteriophage protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94252.1 hypothetical protein B9G35_12730 [Klebsiella pneumoniae],Mutated,10,139,Hypothetical Proteins
+YP_005228632.1,hypothetical protein KPHS_43320 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC21154.1 hypothetical protein AM386_04695 [Klebsiella pneumoniae],Mutated,3,43,Hypothetical Proteins
+YP_005228878.1,putative glutathione-like synthetase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96529.1 hypothetical protein B9G35_25035 [Klebsiella pneumoniae],Mutated,9,386,Hypothetical Proteins
+YP_005225583.1,hypothetical protein KPHS_12830 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002967795.2 QKE16547.1 hypothetical protein C5707_022915 [Klebsiella pneumoniae],Mutated,16,47,Hypothetical Proteins
+YP_005228312.1,TumA [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_018128465.1 QUC47020.1 hypothetical protein JY394_06590 [Klebsiella pneumoniae],Mutated,4,60,Hypothetical Proteins
+YP_005225914.1,hypothetical protein KPHS_16140 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93581.1 hypothetical protein B9G35_09085 [Klebsiella pneumoniae],Mutated,5,168,Hypothetical Proteins
+YP_005227802.1,putative lysophospholipase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95418.1 hypothetical protein B9G35_19055 [Klebsiella pneumoniae],Mutated,27,540,Hypothetical Proteins
+YP_005227344.1,membrane protein,GCA_002156725.1 ARS94953.1 hypothetical protein B9G35_16475 [Klebsiella pneumoniae],Mutated,160,142,Hypothetical Proteins
+YP_005228825.1,WG repeat-containing protein,GCA_002156725.1 ARS96479.1 hypothetical protein B9G35_24765 [Klebsiella pneumoniae],Mutated,6,442,Hypothetical Proteins
+YP_005226823.1,"putative K+ transporting ATPase, KdpC subunit [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156725.1 ARS94490.1 hypothetical protein B9G35_14005 [Klebsiella pneumoniae],Mutated,30,68,Hypothetical Proteins
+YP_005227967.1,hypothetical protein KPHS_36670 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95598.1 hypothetical protein B9G35_20040 [Klebsiella pneumoniae],Mutated,33,228,Hypothetical Proteins
+YP_005225392.1,hypothetical protein KPHS_10920 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002761315.1 ATU12963.1 hypothetical protein BMF28_20030 [Klebsiella pneumoniae],Mutated,7,55,Hypothetical Proteins
+YP_005227038.1,hypothetical protein KPHS_27380 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156745.1 ARS98189.1 hypothetical protein B8O09_02940 [Klebsiella pneumoniae],Mutated,11,74,Hypothetical Proteins
+YP_005227474.1,YdiY family protein,GCA_002156725.1 ARS95069.1 hypothetical protein B9G35_17115 [Klebsiella pneumoniae],Mutated,26,241,Hypothetical Proteins
+YP_005226023.1,"terminase, endonuclease subunit [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156725.1 ARS93696.1 hypothetical protein B9G35_09690 [Klebsiella pneumoniae],Mutated,3,216,Hypothetical Proteins
+YP_005228171.1,DUF1176 domain-containing protein,GCA_002156725.1 ARS95783.1 hypothetical protein B9G35_21055 [Klebsiella pneumoniae],Mutated,205,158,Hypothetical Proteins
+YP_005226566.1,DUF2213 domain-containing protein,GCA_002156725.1 ARS94248.1 hypothetical protein B9G35_12710 [Klebsiella pneumoniae],Mutated,109,344,Hypothetical Proteins
+YP_005227104.1,hypothetical protein KPHS_28040 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94736.1 hypothetical protein B9G35_15325 [Klebsiella pneumoniae],Mutated,21,60,Hypothetical Proteins
+YP_005227743.1,protein DsrB,GCA_002156725.1 ARS95310.1 hypothetical protein B9G35_18440 [Klebsiella pneumoniae],Mutated,3,63,Hypothetical Proteins
+YP_005226078.1,"putative dehydrogenase, NAD(P)-binding protein [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156725.1 ARS93741.1 hypothetical protein B9G35_09940 [Klebsiella pneumoniae],Mutated,5,337,Hypothetical Proteins
+YP_005227656.1,YebO family protein,GCA_002156725.1 ARS95229.1 hypothetical protein B9G35_18000 [Klebsiella pneumoniae],Mutated,2,96,Hypothetical Proteins
+YP_005225885.1,hypothetical protein KPHS_15850 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC25011.1 hypothetical protein AM386_25980 [Klebsiella pneumoniae],Mutated,9,49,Hypothetical Proteins
+YP_005226374.1,hypothetical protein KPHS_20740 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94003.1 hypothetical protein B9G35_11385 [Klebsiella pneumoniae],Mutated,5,187,Hypothetical Proteins
+YP_005229287.1,putative receptor [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96923.1 hypothetical protein B9G35_27145 [Klebsiella pneumoniae],Mutated,4,116,Hypothetical Proteins
+YP_005224936.1,hypothetical protein KPHS_06360 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92679.1 hypothetical protein B9G35_04100 [Klebsiella pneumoniae],Mutated,38,54,Hypothetical Proteins
+YP_005229113.1,hypothetical protein KPHS_48130 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96753.1 hypothetical protein B9G35_26230 [Klebsiella pneumoniae],Mutated,4,170,Hypothetical Proteins
+YP_005224507.1,hypothetical protein KPHS_02070 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92274.1 hypothetical protein B9G35_01885 [Klebsiella pneumoniae],Mutated,31,40,Hypothetical Proteins
+YP_005224681.1,putative lipoprotein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92429.1 hypothetical protein B9G35_02760 [Klebsiella pneumoniae],Mutated,2,117,Hypothetical Proteins
+YP_005228142.1,hypothetical protein KPHS_38420 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC20683.1 hypothetical protein AM386_02135 [Klebsiella pneumoniae],Mutated,1,45,Hypothetical Proteins
+YP_005226005.1,hypothetical protein KPHS_17050 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC24899.1 hypothetical protein AM386_25365 [Klebsiella pneumoniae],Mutated,8,42,Hypothetical Proteins
+YP_005228283.1,hypothetical protein KPHS_39830 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC20836.1 hypothetical protein AM386_02935 [Klebsiella pneumoniae],Mutated,3,37,Hypothetical Proteins
+YP_005226033.1,hypothetical protein KPHS_17340 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93705.1 hypothetical protein B9G35_09735 [Klebsiella pneumoniae],Mutated,70,169,Hypothetical Proteins
+YP_005224765.1,hypothetical protein KPHS_04660 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC25954.1 hypothetical protein AM386_12075 [Klebsiella pneumoniae],Mutated,3,42,Hypothetical Proteins
+YP_005226205.1,hypothetical protein KPHS_19050 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC24698.1 hypothetical protein AM386_24230 [Klebsiella pneumoniae],Mutated,6,43,Hypothetical Proteins
+YP_005225464.1,membrane protein,GCA_002156725.1 ARS93163.1 hypothetical protein B9G35_06760 [Klebsiella pneumoniae],Mutated,11,204,Hypothetical Proteins
+YP_005226161.1,membrane integrity-associated transporter subunit PqiC,GCA_002156725.1 ARS93813.1 hypothetical protein B9G35_10345 [Klebsiella pneumoniae],Mutated,2,187,Hypothetical Proteins
+YP_005229418.1,divergent polysaccharide deacetylase family protein,GCA_002156725.1 ARS97046.1 hypothetical protein B9G35_27820 [Klebsiella pneumoniae],Mutated,9,315,Hypothetical Proteins
+YP_005226778.1,hypothetical protein KPHS_24780 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC24072.1 hypothetical protein AM386_20745 [Klebsiella pneumoniae],Mutated,1,47,Hypothetical Proteins
+YP_005227673.1,YebY family protein,GCA_002156725.1 ARS97265.1 hypothetical protein B9G35_18085 [Klebsiella pneumoniae],Mutated,3,112,Hypothetical Proteins
+YP_005227122.1,hypothetical protein KPHS_28220 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC23750.1 hypothetical protein AM386_18995 [Klebsiella pneumoniae],Mutated,2,43,Hypothetical Proteins
+YP_005229292.1,DcrB family lipoprotein,GCA_002156725.1 ARS96928.1 hypothetical protein B9G35_27170 [Klebsiella pneumoniae],Mutated,3,185,Hypothetical Proteins
+YP_005228403.1,competence damage-inducible protein A [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96073.1 hypothetical protein B9G35_22635 [Klebsiella pneumoniae],Mutated,3,165,Hypothetical Proteins
+YP_005229018.1,hypothetical protein KPHS_47180 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC25917.1 hypothetical protein AM386_06400 [Klebsiella pneumoniae],Mutated,1,51,Hypothetical Proteins
+YP_005224708.1,hypothetical protein KPHS_04080 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92460.1 hypothetical protein B9G35_02915 [Klebsiella pneumoniae],Mutated,1,66,Hypothetical Proteins
+YP_005226538.1,hypothetical protein KPHS_22380 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94221.1 hypothetical protein B9G35_12575 [Klebsiella pneumoniae],Mutated,82,77,Hypothetical Proteins
+YP_005227417.1,hypothetical protein KPHS_31170 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC23468.1 hypothetical protein AM386_17450 [Klebsiella pneumoniae],Mutated,1,43,Hypothetical Proteins
+YP_005226903.1,glycoside hydrolase family 10 protein,GCA_002156725.1 ARS94561.1 hypothetical protein B9G35_14385 [Klebsiella pneumoniae],Mutated,15,430,Hypothetical Proteins
+YP_005227853.1,small membrane protein,GCA_002202195.1 ASC25664.1 hypothetical protein AM386_29690 [Klebsiella pneumoniae],Mutated,18,40,Hypothetical Proteins
+YP_005228374.1,DUF883 domain-containing protein,GCA_002156725.1 ARS96047.1 hypothetical protein B9G35_22475 [Klebsiella pneumoniae],Mutated,3,115,Hypothetical Proteins
+YP_005228177.1,YpfN family protein,GCA_002156725.1 ARS95790.1 hypothetical protein B9G35_21090 [Klebsiella pneumoniae],Mutated,2,67,Hypothetical Proteins
+YP_005229595.1,hypothetical protein KPHS_52950 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC22030.1 hypothetical protein AM386_09410 [Klebsiella pneumoniae],Mutated,1,44,Hypothetical Proteins
+YP_005224304.1,ATPase RavA stimulator ViaA,GCA_002156725.1 ARS92070.1 hypothetical protein B9G35_00695 [Klebsiella pneumoniae],Mutated,4,482,Hypothetical Proteins
+YP_005226950.1,DUF2255 family protein,GCA_002156725.1 ARS97232.1 hypothetical protein B9G35_14590 [Klebsiella pneumoniae],Mutated,3,123,Hypothetical Proteins
+YP_005225573.1,hypothetical protein KPHS_12730 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002903005.1 AUV39414.1 hypothetical protein C2U50_23065 [Klebsiella pneumoniae],Mutated,6,160,Hypothetical Proteins
+YP_005224792.1,hypothetical protein KPHS_04920 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC22536.1 hypothetical protein AM386_12225 [Klebsiella pneumoniae],Mutated,22,42,Hypothetical Proteins
+YP_005227781.1,hypothetical protein KPHS_34810 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC25600.1 hypothetical protein AM386_29325 [Klebsiella pneumoniae],Mutated,2,39,Hypothetical Proteins
+YP_005227092.1,hypothetical protein KPHS_27920 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94725.1 hypothetical protein B9G35_15265 [Klebsiella pneumoniae],Mutated,1,60,Hypothetical Proteins
+YP_005224967.1,threonine/serine exporter,GCA_002156725.1 ARS92707.1 hypothetical protein B9G35_04260 [Klebsiella pneumoniae],Mutated,1,157,Hypothetical Proteins
+YP_005228718.1,hypothetical protein KPHS_44180 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC21241.1 hypothetical protein AM386_05160 [Klebsiella pneumoniae],Mutated,7,44,Hypothetical Proteins
+YP_005224461.1,thioesterase family protein,GCA_002156725.1 ARS92227.1 hypothetical protein B9G35_01590 [Klebsiella pneumoniae],Mutated,1,154,Hypothetical Proteins
+YP_005225936.1,putative phosphatase/sulfatase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93603.1 hypothetical protein B9G35_09210 [Klebsiella pneumoniae],Mutated,4,301,Hypothetical Proteins
+YP_005226872.1,tautomerase family protein,GCA_002156725.1 ARS94530.1 hypothetical protein B9G35_14225 [Klebsiella pneumoniae],Mutated,93,73,Hypothetical Proteins
+YP_005227870.1,capsule assembly Wzi family protein,GCA_002156725.1 ARS95514.1 hypothetical protein B9G35_19580 [Klebsiella pneumoniae],Mutated,108,477,Hypothetical Proteins
+YP_005226796.1,DUF1283 family protein,GCA_002156725.1 ARS94463.1 hypothetical protein B9G35_13855 [Klebsiella pneumoniae],Mutated,23,113,Hypothetical Proteins
+YP_005228726.1,thiamine pyrophosphate enzyme [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96384.1 hypothetical protein B9G35_24270 [Klebsiella pneumoniae],Mutated,11,546,Hypothetical Proteins
+YP_005228395.1,DedA family protein,GCA_002156725.1 ARS96066.1 hypothetical protein B9G35_22570 [Klebsiella pneumoniae],Mutated,3,142,Hypothetical Proteins
+YP_005228812.1,hypothetical protein KPHS_45120 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96467.1 hypothetical protein B9G35_24705 [Klebsiella pneumoniae],Mutated,5,87,Hypothetical Proteins
+YP_005224581.1,MmcQ/YjbR family DNA-binding protein,GCA_002156725.1 ARS92345.1 hypothetical protein B9G35_02275 [Klebsiella pneumoniae],Mutated,1,118,Hypothetical Proteins
+YP_005227294.1,hypothetical protein KPHS_29940 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC23584.1 hypothetical protein AM386_18100 [Klebsiella pneumoniae],Mutated,2,40,Hypothetical Proteins
+YP_005227734.1,DUF2594 family protein,GCA_002156725.1 ARS95301.1 hypothetical protein B9G35_18395 [Klebsiella pneumoniae],Mutated,3,74,Hypothetical Proteins
+YP_005227825.1,DUF496 family protein,GCA_002156725.1 ARS95466.1 hypothetical protein B9G35_19325 [Klebsiella pneumoniae],Mutated,14,96,Hypothetical Proteins
+YP_005227806.1,hypothetical protein KPHS_35050 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC25575.1 hypothetical protein AM386_29190 [Klebsiella pneumoniae],Mutated,1,50,Hypothetical Proteins
+YP_005224720.1,hypothetical protein KPHS_04200 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92471.1 hypothetical protein B9G35_02985 [Klebsiella pneumoniae],Mutated,5,96,Hypothetical Proteins
+YP_005227084.1,carbohydrate porin,GCA_003574255.1 BBE61333.1 hypothetical protein TRKP064_2239 [Klebsiella pneumoniae],Mutated,108,331,Hypothetical Proteins
+YP_005224779.1,putative cytoplasmic protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92528.1 hypothetical protein B9G35_03270 [Klebsiella pneumoniae],Mutated,2,120,Hypothetical Proteins
+YP_005226585.1,putative bacteriophage protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94267.1 hypothetical protein B9G35_12815 [Klebsiella pneumoniae],Mutated,14,217,Hypothetical Proteins
+YP_005228828.1,DUF2857 domain-containing protein,GCA_002156725.1 ARS96482.1 hypothetical protein B9G35_24780 [Klebsiella pneumoniae],Mutated,5,194,Hypothetical Proteins
+YP_005226029.1,LysB family phage lysis regulatory protein,GCA_002156725.1 ARS93702.1 hypothetical protein B9G35_09720 [Klebsiella pneumoniae],Mutated,9,142,Hypothetical Proteins
+YP_005228297.1,putative iron-regulated membrane protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95952.1 hypothetical protein B9G35_21955 [Klebsiella pneumoniae],Mutated,21,456,Hypothetical Proteins
+YP_005225358.1,DUF1615 domain-containing protein,GCA_002156725.1 ARS93063.1 hypothetical protein B9G35_06240 [Klebsiella pneumoniae],Mutated,7,368,Hypothetical Proteins
+YP_005229573.1,hypothetical protein KPHS_52730 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92028.1 hypothetical protein B9G35_00470 [Klebsiella pneumoniae],Mutated,24,360,Hypothetical Proteins
+YP_005226378.1,putative an aldehyde reductase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94007.1 hypothetical protein B9G35_11405 [Klebsiella pneumoniae],Mutated,26,271,Hypothetical Proteins
+YP_005228314.1,phage protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_030490655.1 WKI52379.1 hypothetical protein QYQ70_24065 [Klebsiella pneumoniae],Mutated,22,243,Hypothetical Proteins
+YP_005226579.1,hypothetical protein KPHS_22790 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94261.1 hypothetical protein B9G35_12785 [Klebsiella pneumoniae],Mutated,68,137,Hypothetical Proteins
+YP_005225631.1,"auxiliary transport protein, membrane fusion protein (MFP) family [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156725.1 ARS93324.1 hypothetical protein B9G35_07630 [Klebsiella pneumoniae],Mutated,14,380,Hypothetical Proteins
+YP_005227597.1,hypothetical protein KPHS_32970 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC25376.1 hypothetical protein AM386_28070 [Klebsiella pneumoniae],Mutated,3,48,Hypothetical Proteins
+YP_005228590.1,hypothetical protein KPHS_42900 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96255.1 hypothetical protein B9G35_23580 [Klebsiella pneumoniae],Mutated,10,106,Hypothetical Proteins
+YP_005227604.1,hypothetical protein KPHS_33040 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC25382.1 hypothetical protein AM386_28100 [Klebsiella pneumoniae],Mutated,11,47,Hypothetical Proteins
+YP_005226039.1,hypothetical protein KPHS_17390 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93709.1 hypothetical protein B9G35_09760 [Klebsiella pneumoniae],Mutated,482,983,Hypothetical Proteins
+YP_005228398.1,hypothetical protein KPHS_40980 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002761315.1 ATU10869.1 hypothetical protein BMF28_08560 [Klebsiella pneumoniae],Mutated,15,46,Hypothetical Proteins
+YP_005224845.1,hypothetical protein KPHS_05450 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002967795.2 QKE16285.1 hypothetical protein C5707_021535 [Klebsiella pneumoniae],Mutated,3,49,Hypothetical Proteins
+YP_005227629.1,YcgL domain-containing protein,GCA_002156725.1 ARS95204.1 hypothetical protein B9G35_17860 [Klebsiella pneumoniae],Mutated,32,62,Hypothetical Proteins
+YP_005227305.1,membrane protein,GCA_002156725.1 ARS94919.1 hypothetical protein B9G35_16300 [Klebsiella pneumoniae],Mutated,3,175,Hypothetical Proteins
+YP_005229515.1,hypothetical protein KPHS_52150 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS91972.1 hypothetical protein B9G35_00185 [Klebsiella pneumoniae],Mutated,6,91,Hypothetical Proteins
+YP_005226539.1,hypothetical protein KPHS_22390 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94222.1 hypothetical protein B9G35_12580 [Klebsiella pneumoniae],Mutated,33,37,Hypothetical Proteins
+YP_005227953.1,DUF418 family protein,GCA_002156725.1 ARS95584.1 hypothetical protein B9G35_19965 [Klebsiella pneumoniae],Mutated,19,385,Hypothetical Proteins
+YP_005224774.1,ribosome-associated protein,GCA_002156725.1 ARS92524.1 hypothetical protein B9G35_03250 [Klebsiella pneumoniae],Mutated,3,183,Hypothetical Proteins
+YP_005228098.1,hypothetical protein KPHS_37980 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95720.1 hypothetical protein B9G35_20685 [Klebsiella pneumoniae],Mutated,210,117,Hypothetical Proteins
+YP_005227674.1,putative resistance protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95245.1 hypothetical protein B9G35_18090 [Klebsiella pneumoniae],Mutated,13,289,Hypothetical Proteins
+YP_005229193.1,OsmC family protein,GCA_002156725.1 ARS96831.1 hypothetical protein B9G35_26665 [Klebsiella pneumoniae],Mutated,36,98,Hypothetical Proteins
+YP_005229286.1,DUF1145 family protein,GCA_002156725.1 ARS96922.1 hypothetical protein B9G35_27140 [Klebsiella pneumoniae],Mutated,1,91,Hypothetical Proteins
+YP_005225602.1,putative outer membrane protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93299.1 hypothetical protein B9G35_07490 [Klebsiella pneumoniae],Mutated,25,811,Hypothetical Proteins
+YP_005229023.1,hypothetical protein KPHS_47230 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96663.1 hypothetical protein B9G35_25745 [Klebsiella pneumoniae],Mutated,55,82,Hypothetical Proteins
+YP_005224860.1,hypothetical protein KPHS_05600 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92602.1 hypothetical protein B9G35_03690 [Klebsiella pneumoniae],Mutated,35,224,Hypothetical Proteins
+YP_005226996.1,hypothetical protein KPHS_26960 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94641.1 hypothetical protein B9G35_14810 [Klebsiella pneumoniae],Mutated,13,72,Hypothetical Proteins
+YP_005226085.1,putative surface protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93747.1 hypothetical protein B9G35_09980 [Klebsiella pneumoniae],Mutated,4,299,Hypothetical Proteins
+YP_005228810.1,hypothetical protein KPHS_45100 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96465.1 hypothetical protein B9G35_24695 [Klebsiella pneumoniae],Mutated,3,158,Hypothetical Proteins
+YP_005228792.1,hypothetical protein KPHS_44920 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96450.1 hypothetical protein B9G35_24610 [Klebsiella pneumoniae],Mutated,212,532,Hypothetical Proteins
+YP_005229401.1,DUF3302 domain-containing protein,GCA_002156725.1 ARS97029.1 hypothetical protein B9G35_27735 [Klebsiella pneumoniae],Mutated,1,122,Hypothetical Proteins
+YP_005226587.1,putative bacteriophage protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94269.1 hypothetical protein B9G35_12825 [Klebsiella pneumoniae],Mutated,33,398,Hypothetical Proteins
+YP_005224585.1,hypothetical protein KPHS_02850 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC25947.1 hypothetical protein AM386_11150 [Klebsiella pneumoniae],Mutated,3,54,Hypothetical Proteins
+YP_005229539.1,DUF1198 family protein,GCA_002156725.1 ARS91995.1 hypothetical protein B9G35_00305 [Klebsiella pneumoniae],Mutated,5,150,Hypothetical Proteins
+YP_005225856.1,putative carboxylase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93532.1 hypothetical protein B9G35_08780 [Klebsiella pneumoniae],Mutated,8,310,Hypothetical Proteins
+YP_005225523.1,hypothetical protein KPHS_12230 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC23249.1 hypothetical protein AM386_16125 [Klebsiella pneumoniae],Mutated,2,37,Hypothetical Proteins
+YP_005226718.1,YdgA family protein,GCA_002156725.1 ARS94389.1 hypothetical protein B9G35_13460 [Klebsiella pneumoniae],Mutated,32,519,Hypothetical Proteins
+YP_005224861.1,hypothetical protein KPHS_05610 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92603.1 hypothetical protein B9G35_03695 [Klebsiella pneumoniae],Mutated,1,60,Hypothetical Proteins
+YP_005227451.1,inner membrane protein YdiK [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95049.1 hypothetical protein B9G35_16985 [Klebsiella pneumoniae],Mutated,5,370,Hypothetical Proteins
+YP_005226621.1,hypothetical protein KPHS_23210 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94299.1 hypothetical protein B9G35_12990 [Klebsiella pneumoniae],Mutated,11,164,Hypothetical Proteins
+YP_005224892.1,hypothetical protein KPHS_05920 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92635.1 hypothetical protein B9G35_03875 [Klebsiella pneumoniae],Mutated,6,105,Hypothetical Proteins
+YP_005226779.1,hypothetical protein KPHS_24790 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC24071.1 hypothetical protein AM386_20740 [Klebsiella pneumoniae],Mutated,1,39,Hypothetical Proteins
+YP_005224534.1,putative alpha helix protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92300.1 hypothetical protein B9G35_02045 [Klebsiella pneumoniae],Mutated,3,543,Hypothetical Proteins
+YP_005224761.1,hypothetical protein KPHS_04610 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92513.1 hypothetical protein B9G35_03195 [Klebsiella pneumoniae],Mutated,125,388,Hypothetical Proteins
+YP_005225469.1,hypothetical protein KPHS_11690 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC23197.1 hypothetical protein AM386_15865 [Klebsiella pneumoniae],Mutated,4,47,Hypothetical Proteins
+YP_005227795.1,ATP-binding protein,GCA_003367555.1 AXK96314.1 hypothetical protein C2L60_09530 [Klebsiella pneumoniae],Mutated,182,748,Hypothetical Proteins
+YP_005228512.1,YqcC family protein,GCA_002156725.1 ARS96178.1 hypothetical protein B9G35_23175 [Klebsiella pneumoniae],Mutated,1,109,Hypothetical Proteins
+YP_005226563.1,putative bacteriophage protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94244.1 hypothetical protein B9G35_12690 [Klebsiella pneumoniae],Mutated,121,162,Hypothetical Proteins
+YP_005225084.1,hypothetical protein KPHS_07840 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC22833.1 hypothetical protein AM386_13880 [Klebsiella pneumoniae],Mutated,2,56,Hypothetical Proteins
+YP_005228099.1,putative transport protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95720.1 hypothetical protein B9G35_20685 [Klebsiella pneumoniae],Mutated,113,200,Hypothetical Proteins
+YP_005226644.1,hypothetical protein KPHS_23440 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94321.1 hypothetical protein B9G35_13100 [Klebsiella pneumoniae],Mutated,2,64,Hypothetical Proteins
+YP_005224852.1,P4 phage protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92598.1 hypothetical protein B9G35_03660 [Klebsiella pneumoniae],Mutated,11,106,Hypothetical Proteins
+YP_005226592.1,hypothetical protein KPHS_22920 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002967795.2 QKE12407.1 hypothetical protein C5707_000160 [Klebsiella pneumoniae],Mutated,469,1007,Hypothetical Proteins
+YP_005225866.1,hypothetical protein KPHS_15670 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_003574275.1 BBE68136.1 hypothetical protein TRKP067_3451 [Klebsiella pneumoniae],Mutated,1,54,Hypothetical Proteins
+YP_005227924.1,DUF1456 family protein,GCA_002156725.1 ARS95556.1 hypothetical protein B9G35_19820 [Klebsiella pneumoniae],Mutated,2,156,Hypothetical Proteins
+YP_005227773.1,DUF2857 domain-containing protein,GCA_002156725.1 ARS95371.1 hypothetical protein B9G35_18800 [Klebsiella pneumoniae],Mutated,3,193,Hypothetical Proteins
+YP_005227553.1,hypothetical protein KPHS_32530 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95138.1 hypothetical protein B9G35_17505 [Klebsiella pneumoniae],Mutated,67,80,Hypothetical Proteins
+YP_005229117.1,hypothetical protein KPHS_48170 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96757.1 hypothetical protein B9G35_26250 [Klebsiella pneumoniae],Mutated,1,122,Hypothetical Proteins
+YP_005228224.1,hypothetical protein KPHS_39240 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95885.1 hypothetical protein B9G35_21580 [Klebsiella pneumoniae],Mutated,11,280,Hypothetical Proteins
+YP_005226606.1,putative lipoprotein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94285.1 hypothetical protein B9G35_12920 [Klebsiella pneumoniae],Mutated,35,176,Hypothetical Proteins
+YP_005226593.1,hypothetical protein KPHS_22930 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93286.1 hypothetical protein B9G35_07420 [Klebsiella pneumoniae],Mutated,3,69,Hypothetical Proteins
+YP_005227852.1,hypothetical protein KPHS_35520 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95496.1 hypothetical protein B9G35_19485 [Klebsiella pneumoniae],Mutated,33,46,Hypothetical Proteins
+YP_005226626.1,DUF1471 domain-containing protein,GCA_002156725.1 ARS94304.1 hypothetical protein B9G35_13015 [Klebsiella pneumoniae],Mutated,5,68,Hypothetical Proteins
+YP_005225336.1,hypothetical protein KPHS_10360 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93043.1 hypothetical protein B9G35_06140 [Klebsiella pneumoniae],Mutated,14,43,Hypothetical Proteins
+YP_005226350.1,hypothetical protein KPHS_20500 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93981.1 hypothetical protein B9G35_11265 [Klebsiella pneumoniae],Mutated,2,41,Hypothetical Proteins
+YP_005225306.1,AlpA family transcriptional regulator,GCA_002156725.1 ARS92595.1 hypothetical protein B9G35_03645 [Klebsiella pneumoniae],Mutated,6,88,Hypothetical Proteins
+YP_005225366.1,phosphate starvation-inducible protein PsiF,GCA_002156725.1 ARS93069.1 hypothetical protein B9G35_06280 [Klebsiella pneumoniae],Mutated,5,105,Hypothetical Proteins
+YP_005227961.1,YeiH family protein,GCA_002156725.1 ARS95591.1 hypothetical protein B9G35_20005 [Klebsiella pneumoniae],Mutated,3,349,Hypothetical Proteins
+YP_005227183.1,hypothetical protein KPHS_28830 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS97242.1 hypothetical protein B9G35_15700 [Klebsiella pneumoniae],Mutated,31,76,Hypothetical Proteins
+YP_005226640.1,YitT family protein,GCA_002156725.1 ARS94317.1 hypothetical protein B9G35_13080 [Klebsiella pneumoniae],Mutated,9,204,Hypothetical Proteins
+YP_005227812.1,DUF1869 domain-containing protein,GCA_002156725.1 ARS95454.1 hypothetical protein B9G35_19255 [Klebsiella pneumoniae],Mutated,22,111,Hypothetical Proteins
+YP_005225294.1,hypothetical protein KPHS_09940 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93006.1 hypothetical protein B9G35_05935 [Klebsiella pneumoniae],Mutated,17,69,Hypothetical Proteins
+YP_005226948.1,hypothetical protein KPHS_26480 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94599.1 hypothetical protein B9G35_14580 [Klebsiella pneumoniae],Mutated,2,79,Hypothetical Proteins
+YP_005225304.1,hypothetical protein KPHS_10040 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93015.1 hypothetical protein B9G35_05980 [Klebsiella pneumoniae],Mutated,17,59,Hypothetical Proteins
+YP_005227241.1,putative oxidoreductase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94862.1 hypothetical protein B9G35_15985 [Klebsiella pneumoniae],Mutated,1,146,Hypothetical Proteins
+YP_005227912.1,hypothetical protein KPHS_36120 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC25722.1 hypothetical protein AM386_30000 [Klebsiella pneumoniae],Mutated,2,39,Hypothetical Proteins
+YP_005229060.1,hypothetical protein KPHS_47600 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC25918.1 hypothetical protein AM386_06615 [Klebsiella pneumoniae],Mutated,1,54,Hypothetical Proteins
+YP_005225514.1,NfeD family protein,GCA_002156725.1 ARS93205.1 hypothetical protein B9G35_06980 [Klebsiella pneumoniae],Mutated,17,152,Hypothetical Proteins
+YP_005228920.1,DhaG protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96568.1 hypothetical protein B9G35_25245 [Klebsiella pneumoniae],Mutated,48,182,Hypothetical Proteins
+YP_005228840.1,hypothetical protein KPHS_45400 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS97316.1 hypothetical protein B9G35_24850 [Klebsiella pneumoniae],Mutated,14,114,Hypothetical Proteins
+YP_005224580.1,YjbQ family protein,GCA_002156725.1 ARS92344.1 hypothetical protein B9G35_02270 [Klebsiella pneumoniae],Mutated,3,138,Hypothetical Proteins
+YP_005226342.1,putative sensor kinase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93974.1 hypothetical protein B9G35_11230 [Klebsiella pneumoniae],Mutated,28,594,Hypothetical Proteins
+YP_005227510.1,hypothetical protein KPHS_32100 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC26003.1 hypothetical protein AM386_16950 [Klebsiella pneumoniae],Mutated,12,37,Hypothetical Proteins
+YP_005226325.1,hypothetical protein KPHS_20250 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC26070.1 hypothetical protein AM386_23535 [Klebsiella pneumoniae],Mutated,5,58,Hypothetical Proteins
+YP_005227072.1,DMT family transporter,GCA_002156725.1 ARS94713.1 hypothetical protein B9G35_15205 [Klebsiella pneumoniae],Mutated,15,158,Hypothetical Proteins
+YP_005227446.1,hypothetical protein KPHS_31460 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95046.1 hypothetical protein B9G35_16965 [Klebsiella pneumoniae],Mutated,10,106,Hypothetical Proteins
+YP_005226246.1,rhodanese-related sulfurtransferase,GCA_002156725.1 ARS93893.1 hypothetical protein B9G35_10795 [Klebsiella pneumoniae],Mutated,4,354,Hypothetical Proteins
+YP_005226643.1,hypothetical protein KPHS_23430 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94320.1 hypothetical protein B9G35_13095 [Klebsiella pneumoniae],Mutated,14,248,Hypothetical Proteins
+YP_005224872.1,DUF2878 domain-containing protein,GCA_002156725.1 ARS92615.1 hypothetical protein B9G35_03755 [Klebsiella pneumoniae],Mutated,16,161,Hypothetical Proteins
+YP_005226575.1,Putative bacteriophage protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156745.1 ARS97912.1 hypothetical protein B8O09_01450 [Klebsiella pneumoniae],Mutated,20,146,Hypothetical Proteins
+YP_005226726.1,GlpM family protein,GCA_002156725.1 ARS94397.1 hypothetical protein B9G35_13500 [Klebsiella pneumoniae],Mutated,1,111,Hypothetical Proteins
+YP_005228996.1,permease,GCA_002156725.1 ARS96640.1 hypothetical protein B9G35_25620 [Klebsiella pneumoniae],Mutated,14,346,Hypothetical Proteins
+YP_005228423.1,hypothetical protein KPHS_41220 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC20953.1 hypothetical protein AM386_03620 [Klebsiella pneumoniae],Mutated,4,49,Hypothetical Proteins
+YP_005226045.1,phage tail protein E [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93715.1 hypothetical protein B9G35_09790 [Klebsiella pneumoniae],Mutated,6,99,Hypothetical Proteins
+YP_005226351.1,YoaK family small membrane protein,GCA_002156725.1 ARS93982.1 hypothetical protein B9G35_11275 [Klebsiella pneumoniae],Mutated,13,45,Hypothetical Proteins
+YP_005228669.1,DUF1889 family protein,GCA_002156725.1 ARS96329.1 hypothetical protein B9G35_23980 [Klebsiella pneumoniae],Mutated,6,99,Hypothetical Proteins
+YP_005224847.1,"phage transcriptional activator, Ogr/delta [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156725.1 ARS92593.1 hypothetical protein B9G35_03635 [Klebsiella pneumoniae],Mutated,3,81,Hypothetical Proteins
+YP_005228874.1,DUF1249 family protein,GCA_002156725.1 ARS96525.1 hypothetical protein B9G35_25015 [Klebsiella pneumoniae],Mutated,1,140,Hypothetical Proteins
+YP_005224551.1,hypothetical protein KPHS_02510 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156745.1 ART00861.1 hypothetical protein B8O09_17590 [Klebsiella pneumoniae],Mutated,63,43,Hypothetical Proteins
+YP_005225784.1,ParB-like nuclease domain-containing protein,GCA_002156725.1 ARS93462.1 hypothetical protein B9G35_08370 [Klebsiella pneumoniae],Mutated,7,208,Hypothetical Proteins
+YP_005225913.1,hypothetical protein KPHS_16130 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC24987.1 hypothetical protein AM386_25845 [Klebsiella pneumoniae],Mutated,5,48,Hypothetical Proteins
+YP_005227566.1,hypothetical protein KPHS_32660 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95144.1 hypothetical protein B9G35_17545 [Klebsiella pneumoniae],Mutated,381,103,Hypothetical Proteins
+YP_005227945.1,CidA/LrgA family protein,GCA_002156725.1 ARS95575.1 hypothetical protein B9G35_19920 [Klebsiella pneumoniae],Mutated,1,132,Hypothetical Proteins
+YP_005224762.1,hypothetical protein KPHS_04620 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92514.1 hypothetical protein B9G35_03200 [Klebsiella pneumoniae],Mutated,16,395,Hypothetical Proteins
+YP_005226292.1,hypothetical protein KPHS_19920 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC24616.1 hypothetical protein AM386_23745 [Klebsiella pneumoniae],Mutated,3,51,Hypothetical Proteins
+YP_005225547.1,hypothetical protein KPHS_12470 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002967795.2 QKE16515.1 hypothetical protein C5707_022725 [Klebsiella pneumoniae],Mutated,4,48,Hypothetical Proteins
+YP_005228053.1,DUF412 domain-containing protein,GCA_002156725.1 ARS95680.1 hypothetical protein B9G35_20475 [Klebsiella pneumoniae],Mutated,2,151,Hypothetical Proteins
+YP_005224744.1,putative cell envelope opacity-associated protein A [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92495.1 hypothetical protein B9G35_03105 [Klebsiella pneumoniae],Mutated,10,224,Hypothetical Proteins
+YP_005227445.1,DUF1852 domain-containing protein,GCA_002156725.1 ARS95043.1 hypothetical protein B9G35_16950 [Klebsiella pneumoniae],Mutated,3,326,Hypothetical Proteins
+YP_005225947.1,putative ABC-type transport system inner membrane component [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93615.1 hypothetical protein B9G35_09270 [Klebsiella pneumoniae],Mutated,9,368,Hypothetical Proteins
+YP_005225721.1,"small-conductance mechanosensitive ion channel MscS, partial [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156725.1 ARS93404.1 hypothetical protein B9G35_08065 [Klebsiella pneumoniae],Mutated,203,267,Hypothetical Proteins
+YP_005228495.1,hypothetical protein KPHS_41950 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC21022.1 hypothetical protein AM386_03985 [Klebsiella pneumoniae],Mutated,3,57,Hypothetical Proteins
+YP_005227494.1,hypothetical protein KPHS_31940 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95086.1 hypothetical protein B9G35_17200 [Klebsiella pneumoniae],Mutated,11,71,Hypothetical Proteins
+YP_005226859.1,four-carbon acid sugar kinase family protein,GCA_002156725.1 ARS94518.1 hypothetical protein B9G35_14155 [Klebsiella pneumoniae],Mutated,30,411,Hypothetical Proteins
+YP_005227024.1,hypothetical protein KPHS_27240 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC23834.1 hypothetical protein AM386_19445 [Klebsiella pneumoniae],Mutated,41,40,Hypothetical Proteins
+YP_005228756.1,YggT family protein,GCA_002156725.1 ARS96414.1 hypothetical protein B9G35_24425 [Klebsiella pneumoniae],Mutated,16,172,Hypothetical Proteins
+YP_005227473.1,hypothetical protein KPHS_31730 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95068.1 hypothetical protein B9G35_17110 [Klebsiella pneumoniae],Mutated,5,77,Hypothetical Proteins
+YP_005226730.1,hypothetical protein KPHS_24300 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94402.1 hypothetical protein B9G35_13525 [Klebsiella pneumoniae],Mutated,3,60,Hypothetical Proteins
+YP_005225050.1,hypothetical protein KPHS_07500 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC22797.1 hypothetical protein AM386_13700 [Klebsiella pneumoniae],Mutated,1,44,Hypothetical Proteins
+YP_005225328.1,hypothetical protein KPHS_10280 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93037.1 hypothetical protein B9G35_06100 [Klebsiella pneumoniae],Mutated,6,222,Hypothetical Proteins
+YP_005226810.1,hypothetical protein KPHS_25100 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156745.1 ARS97991.1 hypothetical protein B8O09_01890 [Klebsiella pneumoniae],Mutated,93,44,Hypothetical Proteins
+YP_005224571.1,hypothetical protein KPHS_02710 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC22324.1 hypothetical protein AM386_11080 [Klebsiella pneumoniae],Mutated,7,52,Hypothetical Proteins
+YP_005226918.1,hypothetical protein KPHS_26180 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC23943.1 hypothetical protein AM386_20050 [Klebsiella pneumoniae],Mutated,17,52,Hypothetical Proteins
+YP_005228455.1,"iron ABC superfamily ATP binding cassette transporter, membrane protein [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156725.1 ARS96124.1 hypothetical protein B9G35_22895 [Klebsiella pneumoniae],Mutated,7,282,Hypothetical Proteins
+YP_005227159.1,"hypothetical protein KPHS_28590, partial [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156725.1 ARS94786.1 hypothetical protein B9G35_15585 [Klebsiella pneumoniae],Mutated,131,65,Hypothetical Proteins
+YP_005225858.1,DUF969 domain-containing protein,GCA_002156725.1 ARS93534.1 hypothetical protein B9G35_08790 [Klebsiella pneumoniae],Mutated,6,241,Hypothetical Proteins
+YP_005226492.1,putative oxidoreductase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94109.1 hypothetical protein B9G35_11935 [Klebsiella pneumoniae],Mutated,14,385,Hypothetical Proteins
+YP_005226030.1,hypothetical protein KPHS_17300 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002812665.1 AUA49886.1 hypothetical protein CWQ24_06530 [Klebsiella pneumoniae],Mutated,50,48,Hypothetical Proteins
+YP_005228970.1,OB-fold putative lipoprotein,GCA_002156725.1 ARS96616.1 hypothetical protein B9G35_25495 [Klebsiella pneumoniae],Mutated,2,154,Hypothetical Proteins
+YP_005227552.1,PAAR domain-containing protein,GCA_002156725.1 ARS95137.1 hypothetical protein B9G35_17500 [Klebsiella pneumoniae],Mutated,4,88,Hypothetical Proteins
+YP_005226375.1,YeaH/YhbH family protein,GCA_002156725.1 ARS94004.1 hypothetical protein B9G35_11390 [Klebsiella pneumoniae],Mutated,7,427,Hypothetical Proteins
+YP_005224627.1,nucleotidyl transferase AbiEii/AbiGii toxin family protein,GCA_002156725.1 ARS92386.1 hypothetical protein B9G35_02500 [Klebsiella pneumoniae],Mutated,18,305,Hypothetical Proteins
+YP_005228052.1,YfbU family protein,GCA_002156725.1 ARS95679.1 hypothetical protein B9G35_20470 [Klebsiella pneumoniae],Mutated,2,164,Hypothetical Proteins
+YP_005225889.1,putative homeobox protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93561.1 hypothetical protein B9G35_08975 [Klebsiella pneumoniae],Mutated,4,121,Hypothetical Proteins
+YP_005227250.1,hypothetical protein KPHS_29500 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94869.1 hypothetical protein B9G35_16025 [Klebsiella pneumoniae],Mutated,9,85,Hypothetical Proteins
+YP_005225495.1,DUF454 family protein,GCA_002156725.1 ARS93190.1 hypothetical protein B9G35_06900 [Klebsiella pneumoniae],Mutated,1,125,Hypothetical Proteins
+YP_005226040.1,hypothetical protein KPHS_17400 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93710.1 hypothetical protein B9G35_09765 [Klebsiella pneumoniae],Mutated,1,243,Hypothetical Proteins
+YP_005226134.1,YcbK family protein,GCA_002156725.1 ARS97189.1 hypothetical protein B9G35_10225 [Klebsiella pneumoniae],Mutated,28,211,Hypothetical Proteins
+YP_005225329.1,fimbrial biogenesis outer membrane usher protein,GCA_002156725.1 ARS93038.1 hypothetical protein B9G35_06105 [Klebsiella pneumoniae],Mutated,26,841,Hypothetical Proteins
+YP_005226565.1,"phage-associated protein, family [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156725.1 ARS94246.1 hypothetical protein B9G35_12700 [Klebsiella pneumoniae],Mutated,12,483,Hypothetical Proteins
+YP_005227814.1,hypothetical protein KPHS_35140 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95456.1 hypothetical protein B9G35_19265 [Klebsiella pneumoniae],Mutated,58,42,Hypothetical Proteins
+YP_005225576.1,hypothetical protein KPHS_12760 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002903005.1 AUV39418.1 hypothetical protein C2U50_23085 [Klebsiella pneumoniae],Mutated,11,187,Hypothetical Proteins
+YP_005229507.1,hypothetical protein KPHS_52070 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC25936.1 hypothetical protein AM386_08950 [Klebsiella pneumoniae],Mutated,1,40,Hypothetical Proteins
+YP_005226954.1,hypothetical protein KPHS_26540 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC23894.1 hypothetical protein AM386_19785 [Klebsiella pneumoniae],Mutated,14,49,Hypothetical Proteins
+YP_005224827.1,hypothetical protein KPHS_05270 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC22572.1 hypothetical protein AM386_12425 [Klebsiella pneumoniae],Mutated,3,53,Hypothetical Proteins
+YP_005228945.1,B3/4 domain-containing protein,GCA_002156725.1 ARS96593.1 hypothetical protein B9G35_25380 [Klebsiella pneumoniae],Mutated,9,235,Hypothetical Proteins
+YP_005226712.1,hypothetical protein KPHS_24120 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94383.1 hypothetical protein B9G35_13430 [Klebsiella pneumoniae],Mutated,19,159,Hypothetical Proteins
+YP_005227786.1,hypothetical protein KPHS_34860 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC25607.1 hypothetical protein AM386_29360 [Klebsiella pneumoniae],Mutated,70,51,Hypothetical Proteins
+YP_005228788.1,hypothetical protein KPHS_44880 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96446.1 hypothetical protein B9G35_24590 [Klebsiella pneumoniae],Mutated,6,113,Hypothetical Proteins
+YP_005228769.1,putative transport protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96427.1 hypothetical protein B9G35_24490 [Klebsiella pneumoniae],Mutated,1,237,Hypothetical Proteins
+YP_005225686.1,MmcQ/YjbR family DNA-binding protein,GCA_002156725.1 ARS93372.1 hypothetical protein B9G35_07890 [Klebsiella pneumoniae],Mutated,5,122,Hypothetical Proteins
+YP_005226389.1,putative aldolase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94017.1 hypothetical protein B9G35_11455 [Klebsiella pneumoniae],Mutated,1,278,Hypothetical Proteins
+YP_005226735.1,hypothetical protein KPHS_24350 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS97221.1 hypothetical protein B9G35_13540 [Klebsiella pneumoniae],Mutated,14,62,Hypothetical Proteins
+YP_005227377.1,DUF1062 domain-containing protein,GCA_002156725.1 ARS94985.1 hypothetical protein B9G35_16645 [Klebsiella pneumoniae],Mutated,25,195,Hypothetical Proteins
+YP_005226408.1,putative cytochrome oxidase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94031.1 hypothetical protein B9G35_11540 [Klebsiella pneumoniae],Mutated,21,207,Hypothetical Proteins
+YP_005228773.1,DUF3085 domain-containing protein,GCA_002156725.1 ARS96431.1 hypothetical protein B9G35_24515 [Klebsiella pneumoniae],Mutated,5,201,Hypothetical Proteins
+YP_005226542.1,hypothetical protein KPHS_22420 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94225.1 hypothetical protein B9G35_12595 [Klebsiella pneumoniae],Mutated,37,172,Hypothetical Proteins
+YP_005225068.1,hypothetical protein KPHS_07680 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92801.1 hypothetical protein B9G35_04805 [Klebsiella pneumoniae],Mutated,1,62,Hypothetical Proteins
+YP_005225666.1,TcfC E-set like domain-containing protein,GCA_002156725.1 ARS93355.1 hypothetical protein B9G35_07795 [Klebsiella pneumoniae],Mutated,3,845,Hypothetical Proteins
+YP_005225578.1,hypothetical protein KPHS_12780 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002903005.1 AUV39419.1 hypothetical protein C2U50_23095 [Klebsiella pneumoniae],Mutated,14,183,Hypothetical Proteins
+YP_005225076.1,hypothetical protein KPHS_07770 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC22825.1 hypothetical protein AM386_13840 [Klebsiella pneumoniae],Mutated,1,56,Hypothetical Proteins
+YP_005227397.1,polyphenol oxidase family protein,GCA_002156725.1 ARS95001.1 hypothetical protein B9G35_16740 [Klebsiella pneumoniae],Mutated,10,241,Hypothetical Proteins
+YP_005226588.1,putative bacteriophage protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94270.1 hypothetical protein B9G35_12830 [Klebsiella pneumoniae],Mutated,44,222,Hypothetical Proteins
+YP_005224910.1,hypothetical protein KPHS_06100 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92653.1 hypothetical protein B9G35_03965 [Klebsiella pneumoniae],Mutated,6,255,Hypothetical Proteins
+YP_005228665.1,hypothetical protein KPHS_43650 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96325.1 hypothetical protein B9G35_23960 [Klebsiella pneumoniae],Mutated,1,90,Hypothetical Proteins
+YP_005228610.1,hypothetical protein KPHS_43100 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96273.1 hypothetical protein B9G35_23675 [Klebsiella pneumoniae],Mutated,21,87,Hypothetical Proteins
+YP_005228076.1,DedA family protein,GCA_002156725.1 ARS95701.1 hypothetical protein B9G35_20580 [Klebsiella pneumoniae],Mutated,2,219,Hypothetical Proteins
+YP_005224911.1,putative 2-hydroxyglutaryl-CoA dehydratase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92654.1 hypothetical protein B9G35_03970 [Klebsiella pneumoniae],Mutated,7,383,Hypothetical Proteins
+YP_005225360.1,DUF2754 domain-containing protein,GCA_002156725.1 ARS93065.1 hypothetical protein B9G35_06250 [Klebsiella pneumoniae],Mutated,1,67,Hypothetical Proteins
+YP_005224682.1,hypothetical protein KPHS_03820 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92430.1 hypothetical protein B9G35_02765 [Klebsiella pneumoniae],Mutated,60,287,Hypothetical Proteins
+YP_005228999.1,YhbP family protein,GCA_002156725.1 ARS96643.1 hypothetical protein B9G35_25635 [Klebsiella pneumoniae],Mutated,3,147,Hypothetical Proteins
+YP_005225963.1,DUF1471 domain-containing protein,GCA_002156725.1 ARS93628.1 hypothetical protein B9G35_09335 [Klebsiella pneumoniae],Mutated,1,86,Hypothetical Proteins
+YP_005226349.1,DUF2534 family protein,GCA_002156725.1 ARS93980.1 hypothetical protein B9G35_11260 [Klebsiella pneumoniae],Mutated,1,87,Hypothetical Proteins
+YP_005228114.1,DUF2502 domain-containing protein,GCA_002156725.1 ARS95732.1 hypothetical protein B9G35_20760 [Klebsiella pneumoniae],Mutated,2,119,Hypothetical Proteins
+YP_005228486.1,YgbE [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96155.1 hypothetical protein B9G35_23055 [Klebsiella pneumoniae],Mutated,2,108,Hypothetical Proteins
+YP_005229361.1,ankyrin repeat domain-containing protein,GCA_002156725.1 ARS96989.1 hypothetical protein B9G35_27520 [Klebsiella pneumoniae],Mutated,12,464,Hypothetical Proteins
+YP_005224613.1,putative outer membrane usher protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92374.1 hypothetical protein B9G35_02435 [Klebsiella pneumoniae],Mutated,145,741,Hypothetical Proteins
+YP_005225814.1,zinc ribbon-containing protein,GCA_002156725.1 ARS97171.1 hypothetical protein B9G35_08525 [Klebsiella pneumoniae],Mutated,6,161,Hypothetical Proteins
+YP_005226041.1,hypothetical protein KPHS_17410 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93711.1 hypothetical protein B9G35_09770 [Klebsiella pneumoniae],Mutated,14,53,Hypothetical Proteins
+YP_005227105.1,ferritin-like domain-containing protein,GCA_002156725.1 ARS94737.1 hypothetical protein B9G35_15330 [Klebsiella pneumoniae],Mutated,4,168,Hypothetical Proteins
+YP_005228820.1,hypothetical protein KPHS_45200 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002967795.2 QKE14621.1 hypothetical protein C5707_012340 [Klebsiella pneumoniae],Mutated,1,45,Hypothetical Proteins
+YP_005226571.1,putative bacteriophage protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94253.1 hypothetical protein B9G35_12735 [Klebsiella pneumoniae],Mutated,8,168,Hypothetical Proteins
+YP_005225542.1,hypothetical protein KPHS_12420 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC20633.1 hypothetical protein AM386_01830 [Klebsiella pneumoniae],Mutated,25,41,Hypothetical Proteins
+YP_005229245.1,type II toxin-antitoxin system RelE/ParE family toxin,GCA_002156725.1 ARS96884.1 hypothetical protein B9G35_26940 [Klebsiella pneumoniae],Mutated,37,87,Hypothetical Proteins
+YP_005225907.1,hypothetical protein KPHS_16070 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS97176.1 hypothetical protein B9G35_09055 [Klebsiella pneumoniae],Mutated,41,62,Hypothetical Proteins
+YP_005228969.1,hypothetical protein KPHS_46690 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC25914.1 hypothetical protein AM386_06150 [Klebsiella pneumoniae],Mutated,10,47,Hypothetical Proteins
+YP_005226793.1,DUF1161 domain-containing protein,GCA_002156725.1 ARS94460.1 hypothetical protein B9G35_13840 [Klebsiella pneumoniae],Mutated,1,89,Hypothetical Proteins
+YP_005225429.1,hypothetical protein KPHS_11290 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93129.1 hypothetical protein B9G35_06585 [Klebsiella pneumoniae],Mutated,1,110,Hypothetical Proteins
+YP_005225300.1,hypothetical protein KPHS_10010 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93012.1 hypothetical protein B9G35_05965 [Klebsiella pneumoniae],Mutated,218,54,Hypothetical Proteins
+YP_005226600.1,DotU family type IV/VI secretion system protein,GCA_002156725.1 ARS94279.1 hypothetical protein B9G35_12890 [Klebsiella pneumoniae],Mutated,8,229,Hypothetical Proteins
+YP_005226573.1,putative bacteriophage protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94255.1 hypothetical protein B9G35_12745 [Klebsiella pneumoniae],Mutated,45,146,Hypothetical Proteins
+YP_005228628.1,hypothetical protein KPHS_43280 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC21151.1 hypothetical protein AM386_04675 [Klebsiella pneumoniae],Mutated,3,44,Hypothetical Proteins
+YP_005228912.1,YfdX like protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96560.1 hypothetical protein B9G35_25205 [Klebsiella pneumoniae],Mutated,16,223,Hypothetical Proteins
+YP_005224869.1,DUF523 and DUF1722 domain-containing protein,GCA_002156725.1 ARS92612.1 hypothetical protein B9G35_03740 [Klebsiella pneumoniae],Mutated,38,293,Hypothetical Proteins
+YP_005226703.1,hypothetical protein KPHS_24030 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC24148.1 hypothetical protein AM386_21150 [Klebsiella pneumoniae],Mutated,5,45,Hypothetical Proteins
+YP_005226221.1,choline dehydrogenase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93872.1 hypothetical protein B9G35_10650 [Klebsiella pneumoniae],Mutated,47,104,Hypothetical Proteins
+YP_005228760.1,DUF2884 domain-containing protein,GCA_002156725.1 ARS96418.1 hypothetical protein B9G35_24445 [Klebsiella pneumoniae],Mutated,3,239,Hypothetical Proteins
+YP_005225562.1,hypothetical protein KPHS_12620 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002903005.1 AUV40475.1 hypothetical protein C2U50_29135 [Klebsiella pneumoniae],Mutated,22,211,Hypothetical Proteins
+YP_005229195.1,putative dienelactone hydrolase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96833.1 hypothetical protein B9G35_26680 [Klebsiella pneumoniae],Mutated,9,692,Hypothetical Proteins
+YP_005228143.1,hypothetical protein KPHS_38430 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002761315.1 ATU14374.1 hypothetical protein BMF28_07275 [Klebsiella pneumoniae],Mutated,5,50,Hypothetical Proteins
+YP_005224413.1,hypothetical protein KPHS_01130 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC22168.1 hypothetical protein AM386_10190 [Klebsiella pneumoniae],Mutated,2,43,Hypothetical Proteins
+YP_005229078.1,"YcfR family protein, partial [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156725.1 ARS96718.1 hypothetical protein B9G35_26040 [Klebsiella pneumoniae],Mutated,51,38,Hypothetical Proteins
+YP_005224520.1,DUF1481 domain-containing protein,GCA_002156725.1 ARS97115.1 hypothetical protein B9G35_01950 [Klebsiella pneumoniae],Mutated,3,231,Hypothetical Proteins
+YP_005225598.1,hypothetical protein KPHS_12980 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93295.1 hypothetical protein B9G35_07470 [Klebsiella pneumoniae],Mutated,6,101,Hypothetical Proteins
+YP_005224782.1,putative inner membrane protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92531.1 hypothetical protein B9G35_03285 [Klebsiella pneumoniae],Mutated,4,214,Hypothetical Proteins
+YP_005226694.1,hypothetical protein KPHS_23940 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC24157.1 hypothetical protein AM386_21195 [Klebsiella pneumoniae],Mutated,15,48,Hypothetical Proteins
+YP_005224696.1,outer membrane lipoprotein Blc [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92447.1 hypothetical protein B9G35_02850 [Klebsiella pneumoniae],Mutated,6,177,Hypothetical Proteins
+YP_005224452.1,lipoprotein,GCA_002156725.1 ARS92218.1 hypothetical protein B9G35_01545 [Klebsiella pneumoniae],Mutated,7,67,Hypothetical Proteins
+YP_005225777.1,ABC transporter permease,GCA_002156725.1 ARS93455.1 hypothetical protein B9G35_08335 [Klebsiella pneumoniae],Mutated,50,282,Hypothetical Proteins
+YP_005228684.1,hypothetical protein KPHS_43840 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96344.1 hypothetical protein B9G35_24060 [Klebsiella pneumoniae],Mutated,24,41,Hypothetical Proteins
+YP_005225946.1,membrane protein,GCA_002156725.1 ARS93614.1 hypothetical protein B9G35_09265 [Klebsiella pneumoniae],Mutated,19,127,Hypothetical Proteins
+YP_005228146.1,DUF2919 domain-containing protein,GCA_002156725.1 ARS95759.1 hypothetical protein B9G35_20935 [Klebsiella pneumoniae],Mutated,2,149,Hypothetical Proteins
+YP_005227612.1,circularly permuted type 2 ATP-grasp protein,GCA_002156725.1 ARS95189.1 hypothetical protein B9G35_17785 [Klebsiella pneumoniae],Mutated,6,479,Hypothetical Proteins
+YP_005224773.1,hypothetical protein KPHS_04730 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002967795.2 QKE15798.1 hypothetical protein C5707_018820 [Klebsiella pneumoniae],Mutated,2,38,Hypothetical Proteins
+YP_005225539.1,hypothetical protein KPHS_12390 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156745.1 ART01778.1 hypothetical protein B8O09_22680 [Klebsiella pneumoniae],Mutated,69,111,Hypothetical Proteins
+YP_005225156.1,YacC family pilotin-like protein,GCA_002156725.1 ARS92880.1 hypothetical protein B9G35_05210 [Klebsiella pneumoniae],Mutated,4,119,Hypothetical Proteins
+YP_005225855.1,putative carboxylase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93531.1 hypothetical protein B9G35_08775 [Klebsiella pneumoniae],Mutated,6,218,Hypothetical Proteins
+YP_005226605.1,DUF4123 domain-containing protein,GCA_002156725.1 ARS94284.1 hypothetical protein B9G35_12915 [Klebsiella pneumoniae],Mutated,4,259,Hypothetical Proteins
+YP_005228961.1,YqjK-like family protein,GCA_002156725.1 ARS96609.1 hypothetical protein B9G35_25460 [Klebsiella pneumoniae],Mutated,16,98,Hypothetical Proteins
+YP_005224781.1,putative inner membrane protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92530.1 hypothetical protein B9G35_03280 [Klebsiella pneumoniae],Mutated,1,258,Hypothetical Proteins
+YP_005226601.1,OmpA/MotB domain-containing protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94280.1 hypothetical protein B9G35_12895 [Klebsiella pneumoniae],Mutated,44,568,Hypothetical Proteins
+YP_005225612.1,hypothetical protein KPHS_13120 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93309.1 hypothetical protein B9G35_07545 [Klebsiella pneumoniae],Mutated,57,141,Hypothetical Proteins
+YP_005224849.1,phage DNA binding protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92595.1 hypothetical protein B9G35_03645 [Klebsiella pneumoniae],Mutated,6,88,Hypothetical Proteins
+YP_005224544.1,DUF3811 domain-containing protein,GCA_002156725.1 ARS92310.1 hypothetical protein B9G35_02095 [Klebsiella pneumoniae],Mutated,1,90,Hypothetical Proteins
+YP_005227326.1,chromate ion transporter (CHR) family chromate transporter [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002761315.1 ATU09643.1 hypothetical protein BMF28_01640 [Klebsiella pneumoniae],Mutated,90,139,Hypothetical Proteins
+YP_005229499.1,50S ribosomal protein L21 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS91959.1 hypothetical protein B9G35_00110 [Klebsiella pneumoniae],Mutated,4,156,Hypothetical Proteins
+YP_005229493.1,MBL fold metallo-hydrolase,GCA_002156725.1 ARS91953.1 hypothetical protein B9G35_00080 [Klebsiella pneumoniae],Mutated,11,259,Hypothetical Proteins
+YP_005228664.1,(4Fe-4S)-binding protein,GCA_002156725.1 ARS97310.1 hypothetical protein B9G35_23955 [Klebsiella pneumoniae],Mutated,13,89,Hypothetical Proteins
+YP_005227627.1,YcgN family cysteine cluster protein,GCA_002156725.1 ARS95202.1 hypothetical protein B9G35_17850 [Klebsiella pneumoniae],Mutated,2,148,Hypothetical Proteins
+YP_005226337.1,hypothetical protein KPHS_20370 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93970.1 hypothetical protein B9G35_11210 [Klebsiella pneumoniae],Mutated,24,59,Hypothetical Proteins
+YP_005225964.1,DksA/TraR family C4-type zinc finger protein,GCA_002156725.1 ARS93629.1 hypothetical protein B9G35_09340 [Klebsiella pneumoniae],Mutated,3,88,Hypothetical Proteins
+YP_005228123.1,putative negative regulator [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95741.1 hypothetical protein B9G35_20835 [Klebsiella pneumoniae],Mutated,18,72,Hypothetical Proteins
+YP_005228239.1,putative ABC-type transport protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95900.1 hypothetical protein B9G35_21655 [Klebsiella pneumoniae],Mutated,20,199,Hypothetical Proteins
+YP_005228822.1,hypothetical protein KPHS_45220 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96476.1 hypothetical protein B9G35_24750 [Klebsiella pneumoniae],Mutated,3,361,Hypothetical Proteins
+YP_005229552.1,hypothetical protein KPHS_52520 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC21986.1 hypothetical protein AM386_09185 [Klebsiella pneumoniae],Mutated,8,44,Hypothetical Proteins
+YP_005226761.1,hypothetical protein KPHS_24610 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94431.1 hypothetical protein B9G35_13685 [Klebsiella pneumoniae],Mutated,6,118,Hypothetical Proteins
+YP_005225639.1,hypothetical protein KPHS_13390 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002761315.1 ATU13160.1 hypothetical protein BMF28_21065 [Klebsiella pneumoniae],Mutated,3,45,Hypothetical Proteins
+YP_005228926.1,hypothetical protein KPHS_46260 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS97319.1 hypothetical protein B9G35_25280 [Klebsiella pneumoniae],Mutated,6,61,Hypothetical Proteins
+YP_005225461.1,hypothetical protein KPHS_11610 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93160.1 hypothetical protein B9G35_06745 [Klebsiella pneumoniae],Mutated,2,85,Hypothetical Proteins
+YP_005227578.1,hypothetical protein KPHS_32780 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95162.1 hypothetical protein B9G35_17640 [Klebsiella pneumoniae],Mutated,53,53,Hypothetical Proteins
+YP_005227658.1,putative outer membrane or exported [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95231.1 hypothetical protein B9G35_18010 [Klebsiella pneumoniae],Mutated,2,79,Hypothetical Proteins
+YP_005228975.1,hypothetical protein KPHS_46750 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC25915.1 hypothetical protein AM386_06185 [Klebsiella pneumoniae],Mutated,37,41,Hypothetical Proteins
+YP_005224912.1,DUF2164 domain-containing protein,GCA_002156725.1 ARS92655.1 hypothetical protein B9G35_03975 [Klebsiella pneumoniae],Mutated,4,79,Hypothetical Proteins
+YP_005226586.1,putative bacteriophage protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94268.1 hypothetical protein B9G35_12820 [Klebsiella pneumoniae],Mutated,10,117,Hypothetical Proteins
+YP_005227407.1,ABC transporter substrate-binding protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95010.1 hypothetical protein B9G35_16785 [Klebsiella pneumoniae],Mutated,14,352,Hypothetical Proteins
+YP_005226290.1,hypothetical protein KPHS_19900 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC24617.1 hypothetical protein AM386_23755 [Klebsiella pneumoniae],Mutated,3,40,Hypothetical Proteins
+YP_005226339.1,hypothetical protein KPHS_20390 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC24566.1 hypothetical protein AM386_23460 [Klebsiella pneumoniae],Mutated,11,54,Hypothetical Proteins
+YP_005226574.1,putative bacteriophage protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94256.1 hypothetical protein B9G35_12750 [Klebsiella pneumoniae],Mutated,33,381,Hypothetical Proteins
+YP_005225589.1,hypothetical protein KPHS_12890 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002903005.1 AUV39430.1 hypothetical protein C2U50_23155 [Klebsiella pneumoniae],Mutated,2,118,Hypothetical Proteins
+YP_005227668.1,YebV family protein,GCA_002156725.1 ARS95241.1 hypothetical protein B9G35_18060 [Klebsiella pneumoniae],Mutated,24,102,Hypothetical Proteins
+YP_005224859.1,hypothetical protein KPHS_05590 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92601.1 hypothetical protein B9G35_03685 [Klebsiella pneumoniae],Mutated,8,115,Hypothetical Proteins
+YP_005224909.1,DUF3343 domain-containing protein,GCA_002156725.1 ARS92652.1 hypothetical protein B9G35_03960 [Klebsiella pneumoniae],Mutated,3,84,Hypothetical Proteins
+YP_005225590.1,baseplate J/gp47 family protein,GCA_002903005.1 AUV39431.1 hypothetical protein C2U50_23160 [Klebsiella pneumoniae],Mutated,13,410,Hypothetical Proteins
+YP_005227555.1,hypothetical protein KPHS_32550 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS97258.1 hypothetical protein B9G35_17510 [Klebsiella pneumoniae],Mutated,104,44,Hypothetical Proteins
+YP_005229275.1,hypothetical protein KPHS_49750 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC21713.1 hypothetical protein AM386_07705 [Klebsiella pneumoniae],Mutated,1,78,Hypothetical Proteins
+YP_005225873.1,hypothetical protein KPHS_15730 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC25023.1 hypothetical protein AM386_26080 [Klebsiella pneumoniae],Mutated,11,47,Hypothetical Proteins
+YP_005229400.1,"auxiliary transport protein, membrane fusion protein (MFP) family [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156725.1 ARS97028.1 hypothetical protein B9G35_27730 [Klebsiella pneumoniae],Mutated,3,378,Hypothetical Proteins
+YP_005228777.1,hypothetical protein KPHS_44770 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96435.1 hypothetical protein B9G35_24535 [Klebsiella pneumoniae],Mutated,25,317,Hypothetical Proteins
+YP_005228799.1,hypothetical protein KPHS_44990 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96455.1 hypothetical protein B9G35_24640 [Klebsiella pneumoniae],Mutated,1,59,Hypothetical Proteins
+YP_005225637.1,RcnB family protein,GCA_002156725.1 ARS93330.1 hypothetical protein B9G35_07660 [Klebsiella pneumoniae],Mutated,5,151,Hypothetical Proteins
+YP_005225528.1,hypothetical protein KPHS_12280 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93219.1 hypothetical protein B9G35_07055 [Klebsiella pneumoniae],Mutated,11,112,Hypothetical Proteins
+YP_005225037.1,alanyl-tRNA synthetase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92770.1 hypothetical protein B9G35_04645 [Klebsiella pneumoniae],Mutated,9,209,Hypothetical Proteins
+YP_005224619.1,hypothetical protein KPHS_03190 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92380.1 hypothetical protein B9G35_02470 [Klebsiella pneumoniae],Mutated,4,66,Hypothetical Proteins
+YP_005226482.1,LapA family protein,GCA_002156725.1 ARS94101.1 hypothetical protein B9G35_11895 [Klebsiella pneumoniae],Mutated,2,102,Hypothetical Proteins
+YP_005228692.1,protein YgfX,GCA_002156725.1 ARS96352.1 hypothetical protein B9G35_24100 [Klebsiella pneumoniae],Mutated,3,136,Hypothetical Proteins
+YP_005228002.1,hypothetical protein KPHS_37020 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC25806.1 hypothetical protein AM386_30455 [Klebsiella pneumoniae],Mutated,12,43,Hypothetical Proteins
+YP_005226611.1,"hypothetical protein KPHS_23110, partial [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156725.1 ARS94290.1 hypothetical protein B9G35_12945 [Klebsiella pneumoniae],Mutated,456,432,Hypothetical Proteins
+YP_005225195.1,hypothetical protein KPHS_08950 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC22933.1 hypothetical protein AM386_14405 [Klebsiella pneumoniae],Mutated,7,44,Hypothetical Proteins
+YP_005228246.1,DoxX family protein,GCA_002156725.1 ARS97294.1 hypothetical protein B9G35_21690 [Klebsiella pneumoniae],Mutated,20,140,Hypothetical Proteins
+YP_005228189.1,beta-barrel assembly-enhancing protease,GCA_002156725.1 ARS95800.1 hypothetical protein B9G35_21140 [Klebsiella pneumoniae],Mutated,3,487,Hypothetical Proteins
+YP_005226540.1,hypothetical protein KPHS_22400 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94223.1 hypothetical protein B9G35_12585 [Klebsiella pneumoniae],Mutated,4,74,Hypothetical Proteins
+YP_005226328.1,hypothetical protein KPHS_20280 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_018128465.1 QUC43850.1 hypothetical protein JY394_17185 [Klebsiella pneumoniae],Mutated,3,50,Hypothetical Proteins
+YP_005226123.1,winged helix-turn-helix domain-containing protein,GCA_002156725.1 ARS93783.1 hypothetical protein B9G35_10170 [Klebsiella pneumoniae],Mutated,11,409,Hypothetical Proteins
+YP_005227522.1,hypothetical protein KPHS_32220 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC23372.1 hypothetical protein AM386_16895 [Klebsiella pneumoniae],Mutated,6,37,Hypothetical Proteins
+YP_005225942.1,putative transport protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93610.1 hypothetical protein B9G35_09245 [Klebsiella pneumoniae],Mutated,6,234,Hypothetical Proteins
+YP_005227810.1,hypothetical protein KPHS_35100 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95452.1 hypothetical protein B9G35_19245 [Klebsiella pneumoniae],Mutated,13,191,Hypothetical Proteins
+YP_005227493.1,YchE family NAAT transporter,GCA_002156725.1 ARS95085.1 hypothetical protein B9G35_17195 [Klebsiella pneumoniae],Mutated,3,215,Hypothetical Proteins
+YP_005228819.1,DUF3577 domain-containing protein,GCA_002156725.1 ARS96474.1 hypothetical protein B9G35_24740 [Klebsiella pneumoniae],Mutated,1,150,Hypothetical Proteins
+YP_005226513.1,YcjX family protein,GCA_002156725.1 ARS94197.1 hypothetical protein B9G35_12450 [Klebsiella pneumoniae],Mutated,5,465,Hypothetical Proteins
+YP_005227751.1,"putative outer membrane protein N precursor, partial [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156725.1 ARS95317.1 hypothetical protein B9G35_18480 [Klebsiella pneumoniae],Mutated,38,58,Hypothetical Proteins
+YP_005228373.1,YgaC family protein,GCA_002156725.1 ARS96046.1 hypothetical protein B9G35_22470 [Klebsiella pneumoniae],Mutated,1,120,Hypothetical Proteins
+YP_005228979.1,hypothetical protein KPHS_46790 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC21432.1 hypothetical protein AM386_06205 [Klebsiella pneumoniae],Mutated,2,40,Hypothetical Proteins
+YP_005225638.1,hypothetical protein KPHS_13380 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC26115.1 hypothetical protein AM386_27415 [Klebsiella pneumoniae],Mutated,26,41,Hypothetical Proteins
+YP_005228794.1,type I toxin-antitoxin system SymE family toxin,GCA_002156725.1 ARS97312.1 hypothetical protein B9G35_24620 [Klebsiella pneumoniae],Mutated,110,97,Hypothetical Proteins
+YP_005225975.1,hypothetical protein KPHS_16750 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC24927.1 hypothetical protein AM386_25515 [Klebsiella pneumoniae],Mutated,1,41,Hypothetical Proteins
+YP_005225196.1,hypothetical protein KPHS_08960 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC22934.1 hypothetical protein AM386_14410 [Klebsiella pneumoniae],Mutated,4,54,Hypothetical Proteins
+YP_005227416.1,hypothetical protein KPHS_31160 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95019.1 hypothetical protein B9G35_16830 [Klebsiella pneumoniae],Mutated,20,52,Hypothetical Proteins
+YP_005227651.1,manganese efflux pump MntP,GCA_002156725.1 ARS95224.1 hypothetical protein B9G35_17965 [Klebsiella pneumoniae],Mutated,4,188,Hypothetical Proteins
+YP_005224777.1,hypothetical protein KPHS_04770 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC25955.1 hypothetical protein AM386_12150 [Klebsiella pneumoniae],Mutated,3,43,Hypothetical Proteins
+YP_005226028.1,hypothetical protein KPHS_17280 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93701.1 hypothetical protein B9G35_09715 [Klebsiella pneumoniae],Mutated,17,127,Hypothetical Proteins
+YP_005225965.1,DUF1471 domain-containing protein,GCA_002156725.1 ARS93630.1 hypothetical protein B9G35_09345 [Klebsiella pneumoniae],Mutated,36,86,Hypothetical Proteins
+YP_005226873.1,hypothetical protein KPHS_25730 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94531.1 hypothetical protein B9G35_14230 [Klebsiella pneumoniae],Mutated,7,238,Hypothetical Proteins
+YP_005227290.1,hypothetical protein KPHS_29900 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC23588.1 hypothetical protein AM386_18120 [Klebsiella pneumoniae],Mutated,2,49,Hypothetical Proteins
+YP_005229191.1,YheU family protein,GCA_002156725.1 ARS96829.1 hypothetical protein B9G35_26655 [Klebsiella pneumoniae],Mutated,1,72,Hypothetical Proteins
+YP_005226546.1,hypothetical protein KPHS_22460 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002967795.2 QKE18111.1 hypothetical protein C5707_030130 (plasmid) [Klebsiella pneumoniae],Mutated,36,40,Hypothetical Proteins
+YP_005225572.1,hypothetical protein KPHS_12720 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002903005.1 AUV39412.1 hypothetical protein C2U50_23055 [Klebsiella pneumoniae],Mutated,544,107,Hypothetical Proteins
+YP_005225622.1,hypothetical protein KPHS_13220 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93318.1 hypothetical protein B9G35_07590 [Klebsiella pneumoniae],Mutated,25,202,Hypothetical Proteins
+YP_005225636.1,hypothetical protein KPHS_13360 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93329.1 hypothetical protein B9G35_07655 [Klebsiella pneumoniae],Mutated,4,129,Hypothetical Proteins
+YP_005227875.1,putative transmembrane protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95516.1 hypothetical protein B9G35_19595 [Klebsiella pneumoniae],Mutated,11,527,Hypothetical Proteins
+YP_005227608.1,GIY-YIG nuclease family protein,GCA_002761315.1 ATU09884.1 hypothetical protein BMF28_02990 [Klebsiella pneumoniae],Mutated,8,285,Hypothetical Proteins
+YP_005228188.1,hypothetical protein KPHS_38880 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC25890.1 hypothetical protein AM386_02360 [Klebsiella pneumoniae],Mutated,3,38,Hypothetical Proteins
+YP_005225577.1,"hypothetical protein KPHS_12770, partial [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002903005.1 AUV41278.1 hypothetical protein C2U50_23090 [Klebsiella pneumoniae],Mutated,52,77,Hypothetical Proteins
+YP_005228968.1,Spy/CpxP family protein refolding chaperone,GCA_002156725.1 ARS96615.1 hypothetical protein B9G35_25490 [Klebsiella pneumoniae],Mutated,5,136,Hypothetical Proteins
+YP_005224854.1,"IS3 family element, transposase orfA [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156745.1 ART01159.1 hypothetical protein B8O09_19210 [Klebsiella pneumoniae],Mutated,366,88,Hypothetical Proteins
+YP_005227368.1,hypothetical protein KPHS_30680 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94977.1 hypothetical protein B9G35_16605 [Klebsiella pneumoniae],Mutated,4,78,Hypothetical Proteins
+YP_005229128.1,membrane protein,GCA_002156725.1 ARS96768.1 hypothetical protein B9G35_26310 [Klebsiella pneumoniae],Mutated,3,73,Hypothetical Proteins
+YP_005227755.1,RidA family protein,GCA_002156725.1 ARS95320.1 hypothetical protein B9G35_18505 [Klebsiella pneumoniae],Mutated,2,129,Hypothetical Proteins
+YP_005226999.1,hypothetical protein KPHS_26990 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94644.1 hypothetical protein B9G35_14825 [Klebsiella pneumoniae],Mutated,5,62,Hypothetical Proteins
+YP_005227636.1,Slp family lipoprotein,GCA_002156725.1 ARS95209.1 hypothetical protein B9G35_17890 [Klebsiella pneumoniae],Mutated,4,193,Hypothetical Proteins

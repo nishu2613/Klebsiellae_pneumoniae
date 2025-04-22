@@ -1,0 +1,489 @@
+Protein_Id,Reference_Def,Hit Def,Status,Number of Mutations,Length
+YP_005224556.1,maltose transporter permease [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92321.1 maltose transporter permease [Klebsiella pneumoniae],Not Mutated found,0,296
+YP_005228985.1,galactitol-specific PTS system component IIA [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96629.1 PTS galactitol transporter subunit IIA [Klebsiella pneumoniae],Not Mutated found,0,155
+YP_005228722.1,D-erythrose 4-phosphate dehydrogenase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96380.1 D-erythrose 4-phosphate dehydrogenase [Klebsiella pneumoniae],Not Mutated found,0,342
+YP_005226392.1,DeoR/GlpR transcriptional regulator,GCA_002156725.1 ARS94020.1 DeoR family transcriptional regulator [Klebsiella pneumoniae],Not Mutated found,0,252
+YP_005228741.1,agmatinase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96400.1 agmatinase [Klebsiella pneumoniae],Not Mutated found,0,306
+YP_005226364.1,putative reverse transcriptase/maturase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_010450855.1 QIA13647.1 group II intron reverse transcriptase/maturase [Klebsiella pneumoniae],Not Mutated found,0,495
+YP_005228358.1,outer membrane protein assembly factor BamE,GCA_002156725.1 ARS95963.1 outer membrane protein assembly factor BamE [Klebsiella pneumoniae],Not Mutated found,0,113
+YP_005228042.1,NADH dehydrogenase subunit E [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95669.1 NADH-quinone oxidoreductase subunit E [Klebsiella pneumoniae],Not Mutated found,0,166
+YP_005228852.1,biopolymer transport protein ExbD [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96503.1 biopolymer transport protein ExbD [Klebsiella pneumoniae],Not Mutated found,0,141
+YP_005229102.1,DNA-binding protein Fis [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96742.1 Fis family transcriptional regulator [Klebsiella pneumoniae],Not Mutated found,0,98
+YP_005228511.1,tRNA pseudouridine synthase C [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96177.1 tRNA pseudouridine(65) synthase TruC [Klebsiella pneumoniae],Not Mutated found,0,264
+YP_005226203.1,hypothetical protein KPHS_19030 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93857.1 hypothetical protein B9G35_10575 [Klebsiella pneumoniae],Not Mutated found,0,75
+YP_005227659.1,IclR family transcriptional regulator [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95232.1 IclR family transcriptional regulator [Klebsiella pneumoniae],Not Mutated found,0,263
+YP_005226488.1,hypothetical protein KPHS_21880 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC24301.1 hypothetical protein AM386_21985 [Klebsiella pneumoniae],Not Mutated found,0,39
+YP_005224879.1,lipoprotein Blc [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92622.1 hypothetical protein B9G35_03790 [Klebsiella pneumoniae],Not Mutated found,0,177
+YP_005228989.1,putative DEOR-type transcriptional regulator [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96633.1 transcriptional regulator [Klebsiella pneumoniae],Not Mutated found,0,257
+YP_005229331.1,antibiotic biosynthesis monooxygenase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96964.1 antibiotic biosynthesis monooxygenase [Klebsiella pneumoniae],Not Mutated found,0,61
+YP_005224546.1,aspartate kinase III [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92312.1 lysine-sensitive aspartokinase 3 [Klebsiella pneumoniae],Not Mutated found,0,449
+YP_005228849.1,TIGR00645 family protein,GCA_002156725.1 ARS96500.1 TIGR00645 family protein [Klebsiella pneumoniae],Not Mutated found,0,164
+YP_005225125.1,hypothetical protein KPHS_08250 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC22875.1 hypothetical protein AM386_14090 [Klebsiella pneumoniae],Not Mutated found,0,43
+YP_005228798.1,hypothetical protein KPHS_44980 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002967795.2 QKE14601.1 hypothetical protein C5707_012230 [Klebsiella pneumoniae],Not Mutated found,0,51
+YP_005228311.1,putative reverse transcriptase/maturase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_010450855.1 QIA13647.1 group II intron reverse transcriptase/maturase [Klebsiella pneumoniae],Not Mutated found,0,495
+YP_005225884.1,tol-pal system protein YbgF [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93558.1 cell division protein CpoB [Klebsiella pneumoniae],Not Mutated found,0,264
+YP_005226548.1,hypothetical protein KPHS_22480 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94231.1 hypothetical protein B9G35_12625 [Klebsiella pneumoniae],Not Mutated found,0,62
+YP_005228161.1,detox protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95774.1 ethanolamine utilization protein EutM [Klebsiella pneumoniae],Not Mutated found,0,96
+YP_005225136.1,hypothetical protein KPHS_08360 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC25968.1 hypothetical protein AM386_14145 [Klebsiella pneumoniae],Not Mutated found,0,37
+YP_005226641.1,regulator for leucine (or lrp) regulon and high-affinity branched-chain amino acid transport system [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94318.1 AsnC family transcriptional regulator [Klebsiella pneumoniae],Not Mutated found,0,159
+YP_005227470.1,50S ribosomal protein L35 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95065.1 50S ribosomal protein L35 [Klebsiella pneumoniae],Not Mutated found,0,65
+YP_005224755.1,DUF1107 domain-containing protein,GCA_002156725.1 ARS92506.1 hypothetical protein B9G35_03160 [Klebsiella pneumoniae],Not Mutated found,0,68
+YP_005228994.1,putative phosphoheptose isomerase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96638.1 phosphoheptose isomerase [Klebsiella pneumoniae],Not Mutated found,0,196
+YP_005229150.1,50S ribosomal protein L30 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96791.1 50S ribosomal protein L30 [Klebsiella pneumoniae],Not Mutated found,0,59
+YP_005224857.1,phospholipase D [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC22622.1 phospholipase [Klebsiella pneumoniae],Not Mutated found,0,75
+YP_005225557.1,hypothetical protein KPHS_12570 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002967795.2 QKE16525.1 hypothetical protein C5707_022790 [Klebsiella pneumoniae],Not Mutated found,0,40
+YP_005227485.1,dsDNA-mimic protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95078.1 dsDNA-mimic protein [Klebsiella pneumoniae],Not Mutated found,0,109
+YP_005229161.1,50S ribosomal protein L16 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96802.1 50S ribosomal protein L16 [Klebsiella pneumoniae],Not Mutated found,0,136
+YP_005228605.1,"putative transmembrane protein, transport [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156725.1 ARS96267.1 hypothetical protein B9G35_23645 [Klebsiella pneumoniae],Not Mutated found,0,237
+YP_005225868.1,succinate dehydrogenase iron-sulfur subunit [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93542.1 succinate dehydrogenase iron-sulfur subunit [Klebsiella pneumoniae],Not Mutated found,0,238
+YP_005229079.1,barstar family protein,GCA_002156725.1 ARS96719.1 hypothetical protein B9G35_26045 [Klebsiella pneumoniae],Not Mutated found,0,91
+YP_005228805.1,TIGR03750 family conjugal transfer protein,GCA_002156725.1 ARS96461.1 hypothetical protein B9G35_24670 [Klebsiella pneumoniae],Not Mutated found,0,123
+YP_005225028.1,hypothetical protein KPHS_07280 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC22786.1 hypothetical protein AM386_13635 [Klebsiella pneumoniae],Not Mutated found,0,37
+YP_005224385.1,transcriptional repressor for methionine biosynthesis [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92150.1 met repressor [Klebsiella pneumoniae],Not Mutated found,0,105
+YP_005226099.1,hypothetical protein KPHS_17990 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC26091.1 hypothetical protein AM386_25080 [Klebsiella pneumoniae],Not Mutated found,0,43
+YP_005225407.1,"6,7-dimethyl-8-ribityllumazine synthase [Klebsiella pneumoniae subsp. pneumoniae HS11286]","GCA_002156725.1 ARS93107.1 6,7-dimethyl-8-ribityllumazine synthase [Klebsiella pneumoniae]",Not Mutated found,0,156
+YP_005228545.1,murein transglycosylase A [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96209.1 murein transglycosylase A [Klebsiella pneumoniae],Not Mutated found,0,365
+YP_005226196.1,putative glutamine synthetase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93849.1 glutamine synthetase [Klebsiella pneumoniae],Not Mutated found,0,473
+YP_005228118.1,putative negative regulator [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95736.1 hypothetical protein B9G35_20790 [Klebsiella pneumoniae],Not Mutated found,0,117
+YP_005229174.1,elongation factor Tu [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92260.1 elongation factor Tu [Klebsiella pneumoniae],Not Mutated found,0,394
+YP_005229297.1,4-amino-4-deoxy-L-arabinose-phosphoundecaprenol flippase subunit ArnE,GCA_002156725.1 ARS96932.1 4-amino-4-deoxy-L-arabinose-phosphoundecaprenol flippase subunit ArnE [Klebsiella pneumoniae],Not Mutated found,0,112
+YP_005225691.1,aldo/keto reductase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93377.1 aldo/keto reductase [Klebsiella pneumoniae],Not Mutated found,0,44
+YP_005226052.1,hypothetical protein KPHS_17520 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC24890.1 hypothetical protein AM386_25320 [Klebsiella pneumoniae],Not Mutated found,0,40
+YP_005228126.1,hypothetical protein KPHS_38260 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC20668.1 hypothetical protein AM386_02055 [Klebsiella pneumoniae],Not Mutated found,0,47
+YP_005228132.1,glucose-specific PTS system component [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95747.1 glucose-specific phosphotransferase enzyme IIA component [Klebsiella pneumoniae],Not Mutated found,0,169
+YP_005225628.1,hypothetical protein KPHS_13280 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC25273.1 hypothetical protein AM386_27470 [Klebsiella pneumoniae],Not Mutated found,0,39
+YP_005224675.1,proline-specific peptidase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS97125.1 peptidase [Klebsiella pneumoniae],Not Mutated found,0,52
+YP_005224327.1,glutamine synthetase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92094.1 glutamine synthetase [Klebsiella pneumoniae],Not Mutated found,0,469
+YP_005224659.1,hypothetical protein KPHS_03590 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS97122.1 hypothetical protein B9G35_02655 [Klebsiella pneumoniae],Not Mutated found,0,76
+YP_005229081.1,putative membrane located multidrug resistance protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96721.1 efflux transporter periplasmic adaptor subunit [Klebsiella pneumoniae],Not Mutated found,0,310
+YP_005228435.1,formate hydrogenlyase regulatory protein HycA [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96105.1 transcriptional regulator [Klebsiella pneumoniae],Not Mutated found,0,149
+YP_005229189.1,hypothetical protein KPHS_48890 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS97327.1 hypothetical protein B9G35_26645 [Klebsiella pneumoniae],Not Mutated found,0,66
+YP_005227688.1,hypothetical protein KPHS_33880 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95256.1 formate--tetrahydrofolate ligase [Klebsiella pneumoniae],Not Mutated found,0,49
+YP_005228084.1,YfcL family protein,GCA_002156725.1 ARS97288.1 hypothetical protein B9G35_20620 [Klebsiella pneumoniae],Not Mutated found,0,93
+YP_005229413.1,preprotein translocase subunit SecB [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS97041.1 protein-export protein SecB [Klebsiella pneumoniae],Not Mutated found,0,155
+YP_005225567.1,hypothetical protein KPHS_12670 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_023913575.1 USO46597.1 hypothetical protein NE846_22035 [Klebsiella pneumoniae],Not Mutated found,0,51
+YP_005227448.1,"1,4-dihydroxy-2-naphthoyl-CoA hydrolase",GCA_002156725.1 ARS95048.1 thioesterase [Klebsiella pneumoniae],Not Mutated found,0,136
+YP_005226270.1,3-ketoacyl-ACP reductase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93915.1 beta-ketoacyl-ACP reductase [Klebsiella pneumoniae],Not Mutated found,0,244
+YP_005229086.1,ribonuclease G [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96726.1 ribonuclease E/G [Klebsiella pneumoniae],Not Mutated found,0,489
+YP_005227195.1,GhoT/OrtT family toxin,GCA_002156725.1 ARS94817.1 DUF2566 domain-containing protein [Klebsiella pneumoniae],Not Mutated found,0,57
+YP_005228631.1,2-deoxy-D-gluconate 3-dehydrogenase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96292.1 2-deoxy-D-gluconate 3-dehydrogenase [Klebsiella pneumoniae],Not Mutated found,0,253
+YP_005227683.1,keto-hydroxyglutarate-aldolase/keto-deoxy-phosphogluconate aldolase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95253.1 keto-deoxy-phosphogluconate aldolase [Klebsiella pneumoniae],Not Mutated found,0,213
+YP_005228826.1,hypothetical protein KPHS_45260 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96480.1 hypothetical protein B9G35_24770 [Klebsiella pneumoniae],Not Mutated found,0,291
+YP_005224589.1,hypothetical protein KPHS_02890 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC22341.1 hypothetical protein AM386_11170 [Klebsiella pneumoniae],Not Mutated found,0,39
+YP_005226473.1,YciN family protein,GCA_002156725.1 ARS94091.1 hypothetical protein B9G35_11845 [Klebsiella pneumoniae],Not Mutated found,0,83
+YP_005226359.1,DUF441 domain-containing protein,GCA_002156725.1 ARS93989.1 DUF441 family protein [Klebsiella pneumoniae],Not Mutated found,0,148
+YP_005228130.1,phosphocarrier protein ptsH [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95745.1 phosphocarrier protein HPr [Klebsiella pneumoniae],Not Mutated found,0,85
+YP_005229118.1,hypothetical protein KPHS_48180 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002967795.2 QKE14894.1 hypothetical protein C5707_013855 [Klebsiella pneumoniae],Not Mutated found,0,42
+YP_005229437.1,phosphopantetheine adenylyltransferase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS97061.1 phosphopantetheine adenylyltransferase [Klebsiella pneumoniae],Not Mutated found,0,159
+YP_005229072.1,cytochrome d ubiquinol oxidase subunit III [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS97321.1 hypothetical protein B9G35_26010 [Klebsiella pneumoniae],Not Mutated found,0,132
+YP_005225384.1,putative cysteine hydrolase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93086.1 hydrolase [Klebsiella pneumoniae],Not Mutated found,0,213
+YP_005226511.1,DNA-binding transcriptional activator PspC [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94195.1 envelope stress response membrane protein PspC [Klebsiella pneumoniae],Not Mutated found,0,119
+YP_005229049.1,lipopolysaccharide ABC transporter substrate-binding protein LptA,GCA_002156725.1 ARS96690.1 lipopolysaccharide ABC transporter substrate-binding protein LptA [Klebsiella pneumoniae],Not Mutated found,0,181
+YP_005229043.1,ABC transporter membrane protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96683.1 ABC transporter permease [Klebsiella pneumoniae],Not Mutated found,0,260
+YP_005225499.1,YbaB/EbfC family nucleoid-associated protein,GCA_002156725.1 ARS93193.1 YbaB/EbfC family nucleoid-associated protein [Klebsiella pneumoniae],Not Mutated found,0,110
+YP_005226346.1,hypothetical protein KPHS_20460 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC24547.1 hypothetical protein AM386_23350 [Klebsiella pneumoniae],Not Mutated found,0,51
+YP_005225820.1,glutamate/aspartate ABC transporter permease [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93496.1 glutamate/aspartate ABC transporter permease [Klebsiella pneumoniae],Not Mutated found,0,246
+YP_005226821.1,DeoR family transcriptional regulator [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94488.1 DeoR family transcriptional regulator [Klebsiella pneumoniae],Not Mutated found,0,253
+YP_005224610.1,hypothetical protein KPHS_03100 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC22363.1 hypothetical protein AM386_11285 [Klebsiella pneumoniae],Not Mutated found,0,41
+YP_005229233.1,DUF1471 domain-containing protein,GCA_002156725.1 ARS96870.1 hypothetical protein B9G35_26870 [Klebsiella pneumoniae],Not Mutated found,0,89
+YP_005225896.1,hypothetical protein KPHS_15960 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002967795.2 QKE17693.1 hypothetical protein C5707_024535 [Klebsiella pneumoniae],Not Mutated found,0,41
+YP_005228448.1,PTS system lactose/cellobiose specific transporter subunit IIB [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96117.1 PTS sugar transporter subunit IIB [Klebsiella pneumoniae],Not Mutated found,0,104
+YP_005228357.1,hypothetical protein KPHS_40570 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC25894.1 hypothetical protein AM386_03090 [Klebsiella pneumoniae],Not Mutated found,0,46
+YP_005229119.1,hypothetical protein KPHS_48190 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96759.1 hypothetical protein B9G35_26260 [Klebsiella pneumoniae],Not Mutated found,0,62
+YP_005226285.1,respiratory NADH dehydrogenase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93929.1 FAD-dependent oxidoreductase [Klebsiella pneumoniae],Not Mutated found,0,434
+YP_005227444.1,5-methyltetrahydropteroyltriglutamate/homocysteine S-methyltransferase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95042.1 5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase [Klebsiella pneumoniae],Not Mutated found,0,343
+YP_005228344.1,50S ribosomal protein L19 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95954.1 50S ribosomal protein L19 [Klebsiella pneumoniae],Not Mutated found,0,115
+YP_005229011.1,30S ribosomal protein S15 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96654.1 30S ribosomal protein S15 [Klebsiella pneumoniae],Not Mutated found,0,89
+YP_005228249.1,nitrogen regulatory protein P-II [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95909.1 transcriptional regulator [Klebsiella pneumoniae],Not Mutated found,0,112
+YP_005225788.1,alkyl hydroperoxide reductase subunit C [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93466.1 peroxiredoxin [Klebsiella pneumoniae],Not Mutated found,0,187
+YP_005225507.1,hypothetical protein KPHS_12070 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC23233.1 hypothetical protein AM386_16045 [Klebsiella pneumoniae],Not Mutated found,0,37
+YP_005228147.1,putative acetyltransferase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95760.1 GNAT family acetyltransferase [Klebsiella pneumoniae],Not Mutated found,0,141
+YP_005224867.1,hypothetical protein KPHS_05670 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002967795.2 QKE15884.1 hypothetical protein C5707_019295 [Klebsiella pneumoniae],Not Mutated found,0,37
+YP_005228854.1,hypothetical protein KPHS_45540 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96505.1 hypothetical protein B9G35_24915 [Klebsiella pneumoniae],Not Mutated found,0,71
+YP_005229130.1,DUF1488 domain-containing protein,GCA_002156725.1 ARS96769.1 hypothetical protein B9G35_26345 [Klebsiella pneumoniae],Not Mutated found,0,85
+YP_005229274.1,hypothetical protein KPHS_49740 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC21712.1 hypothetical protein AM386_07700 [Klebsiella pneumoniae],Not Mutated found,0,47
+YP_005229010.1,hypothetical protein KPHS_47100 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96653.1 hypothetical protein B9G35_25690 [Klebsiella pneumoniae],Not Mutated found,0,70
+YP_005229368.1,putative outer membrane lipoprotein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96995.1 OmpA family lipoprotein [Klebsiella pneumoniae],Not Mutated found,0,220
+YP_005226245.1,hypothetical protein KPHS_19450 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC24658.1 hypothetical protein AM386_23975 [Klebsiella pneumoniae],Not Mutated found,0,38
+YP_005228690.1,site-specific tyrosine recombinase XerD [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96350.1 site-specific tyrosine recombinase XerD [Klebsiella pneumoniae],Not Mutated found,0,298
+YP_005226739.1,hypothetical protein KPHS_24390 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94408.1 phosphatidate cytidylyltransferase [Klebsiella pneumoniae],Not Mutated found,0,52
+YP_005226289.1,hypothetical protein KPHS_19890 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC24425.1 hypothetical protein AM386_22655 [Klebsiella pneumoniae],Not Mutated found,0,40
+YP_005224497.1,50S ribosomal protein L11 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92264.1 50S ribosomal protein L11 [Klebsiella pneumoniae],Not Mutated found,0,142
+YP_005225213.1,"2,3,4,5-tetrahydropyridine-2,6-carboxylate N-succinyltransferase [Klebsiella pneumoniae subsp. pneumoniae HS11286]","GCA_002156725.1 ARS92927.1 2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase [Klebsiella pneumoniae]",Not Mutated found,0,274
+YP_005228888.1,putative signal transduction protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96537.1 hypothetical protein B9G35_25080 [Klebsiella pneumoniae],Not Mutated found,0,206
+YP_005224482.1,hypothetical protein KPHS_01820 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC22241.1 hypothetical protein AM386_10575 [Klebsiella pneumoniae],Not Mutated found,0,39
+YP_005226390.1,putative sugar kinase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94018.1 sugar kinase [Klebsiella pneumoniae],Not Mutated found,0,315
+YP_005224693.1,entericidin A [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92444.1 entericidin A [Klebsiella pneumoniae],Not Mutated found,0,43
+YP_005226380.1,glyceraldehyde-3-phosphate dehydrogenase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94009.1 aldehyde dehydrogenase [Klebsiella pneumoniae],Not Mutated found,0,331
+YP_005227123.1,alcohol dehydrogenase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94751.1 zinc-dependent alcohol dehydrogenase [Klebsiella pneumoniae],Not Mutated found,0,336
+YP_005229088.1,rod shape-determining protein MreD [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96728.1 rod shape-determining protein MreD [Klebsiella pneumoniae],Not Mutated found,0,162
+YP_005225595.1,hypothetical protein KPHS_12950 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93293.1 ATP-NAD kinase [Klebsiella pneumoniae],Not Mutated found,0,56
+YP_005224802.1,2-iminobutanoate/2-iminopropanoate deaminase,GCA_002156725.1 ARS92548.1 reactive intermediate/imine deaminase [Klebsiella pneumoniae],Not Mutated found,0,128
+YP_005226198.1,small membrane protein,GCA_002156725.1 ARS93852.1 hypothetical protein B9G35_10550 [Klebsiella pneumoniae],Not Mutated found,0,40
+YP_005225880.1,colicin uptake protein TolR [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93554.1 protein TolR [Klebsiella pneumoniae],Not Mutated found,0,142
+YP_005228713.1,hypothetical protein KPHS_44130 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC21236.1 hypothetical protein AM386_05135 [Klebsiella pneumoniae],Not Mutated found,0,45
+YP_005225799.1,lipoyl synthase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93477.1 lipoyl synthase [Klebsiella pneumoniae],Not Mutated found,0,321
+YP_005228835.1,putative CopG family helix-turn-helix protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96489.1 CopG family transcriptional regulator [Klebsiella pneumoniae],Not Mutated found,0,97
+YP_005226119.1,integration host factor subunit beta [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93779.1 integration host factor subunit beta [Klebsiella pneumoniae],Not Mutated found,0,95
+YP_005225441.1,ATP-dependent protease ATP-binding subunit [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93141.1 ATP-dependent Clp protease ATP-binding subunit ClpX [Klebsiella pneumoniae],Not Mutated found,0,424
+YP_005229028.1,23S rRNA methyltransferase J [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96668.1 23S rRNA (uridine(2552)-2'-O)-methyltransferase [Klebsiella pneumoniae],Not Mutated found,0,209
+YP_005229034.1,50S ribosomal protein L27 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96674.1 50S ribosomal protein L27 [Klebsiella pneumoniae],Not Mutated found,0,85
+YP_005224489.1,potassium transport protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92255.1 potassium transporter [Klebsiella pneumoniae],Not Mutated found,0,483
+YP_005228397.1,lipoprotein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96068.1 lipoprotein [Klebsiella pneumoniae],Not Mutated found,0,104
+YP_005226094.1,translation initiation factor IF-1 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93756.1 translation initiation factor IF-1 [Klebsiella pneumoniae],Not Mutated found,0,72
+YP_005229291.1,7-cyano-7-deazaguanine/7-aminomethyl-7-deazaguanine transporter,GCA_002156725.1 ARS96927.1 hypothetical protein B9G35_27165 [Klebsiella pneumoniae],Not Mutated found,0,221
+YP_005224495.1,preprotein translocase subunit SecE [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92262.1 preprotein translocase subunit SecE [Klebsiella pneumoniae],Not Mutated found,0,127
+YP_005226921.1,hypothetical protein KPHS_26210 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC23940.1 hypothetical protein AM386_20035 [Klebsiella pneumoniae],Not Mutated found,0,37
+YP_005229439.1,50S ribosomal protein L33 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS97063.1 50S ribosomal protein L33 [Klebsiella pneumoniae],Not Mutated found,0,55
+YP_005228302.1,hypothetical protein KPHS_40020 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_029541645.1 WFB16987.1 hypothetical protein LVO51_02535 [Klebsiella pneumoniae],Not Mutated found,0,43
+YP_005229024.1,preprotein translocase subunit SecG [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96664.1 preprotein translocase subunit SecG [Klebsiella pneumoniae],Not Mutated found,0,109
+YP_005225973.1,DNA starvation/stationary phase protection protein Dps [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93637.1 DNA starvation/stationary phase protection protein [Klebsiella pneumoniae],Not Mutated found,0,167
+YP_005227927.1,protein YohO,GCA_002156725.1 ARS95558.1 hypothetical protein B9G35_19835 [Klebsiella pneumoniae],Not Mutated found,0,37
+YP_005229470.1,YiiQ family protein,GCA_002156725.1 ARS97087.1 hypothetical protein B9G35_28050 [Klebsiella pneumoniae],Not Mutated found,0,200
+YP_005224851.1,hypothetical protein KPHS_05510 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92597.1 hypothetical protein B9G35_03655 [Klebsiella pneumoniae],Not Mutated found,0,75
+YP_005224379.1,ATP-dependent protease peptidase subunit [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92145.1 HslU--HslV peptidase proteolytic subunit [Klebsiella pneumoniae],Not Mutated found,0,176
+YP_005226493.1,hypothetical protein KPHS_21930 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC24296.1 hypothetical protein AM386_21960 [Klebsiella pneumoniae],Not Mutated found,0,37
+YP_005224820.1,"putative transmembrane protein, transport [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156725.1 ARS92566.1 LPS export ABC transporter permease LptG [Klebsiella pneumoniae],Not Mutated found,0,360
+YP_005224592.1,anti-adapter protein IraM,GCA_002156725.1 ARS92354.1 anti-adapter protein iraM [Klebsiella pneumoniae],Not Mutated found,0,117
+YP_005224569.1,putative stress-response protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92334.1 CsbD family protein [Klebsiella pneumoniae],Not Mutated found,0,69
+YP_005228753.1,hypothetical protein KPHS_44530 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC21276.1 hypothetical protein AM386_05340 [Klebsiella pneumoniae],Not Mutated found,0,47
+YP_005228182.1,phosphoribosylaminoimidazole succinocarboxamide synthase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95794.1 phosphoribosylaminoimidazolesuccinocarboxamide synthase [Klebsiella pneumoniae],Not Mutated found,0,237
+YP_005227922.1,hypothetical protein KPHS_36220 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_003574255.1 BBE60428.1 hypothetical protein TRKP064_1334 [Klebsiella pneumoniae],Not Mutated found,0,78
+YP_005224406.1,YijD family membrane protein,GCA_002156725.1 ARS92171.1 hypothetical protein B9G35_01250 [Klebsiella pneumoniae],Not Mutated found,0,119
+YP_005226590.1,hypothetical protein KPHS_22900 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002967795.2 QKE17453.1 hypothetical protein C5707_000150 [Klebsiella pneumoniae],Not Mutated found,0,43
+YP_005229175.1,elongation factor G [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96814.1 elongation factor G [Klebsiella pneumoniae],Not Mutated found,0,704
+YP_005224724.1,transcriptional repressor NsrR [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92474.1 transcriptional regulator [Klebsiella pneumoniae],Not Mutated found,0,141
+YP_005227482.1,hypothetical protein KPHS_31820 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC23407.1 hypothetical protein AM386_17120 [Klebsiella pneumoniae],Not Mutated found,0,41
+YP_005227030.1,hypothetical protein KPHS_27300 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC23831.1 hypothetical protein AM386_19425 [Klebsiella pneumoniae],Not Mutated found,0,47
+YP_005229055.1,phosphohistidinoprotein-hexose phosphotransferase component of N-regulated PTS system (Npr) [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96696.1 HPr family phosphocarrier protein [Klebsiella pneumoniae],Not Mutated found,0,90
+YP_005229030.1,transcription elongation factor GreA [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96670.1 transcription elongation factor GreA [Klebsiella pneumoniae],Not Mutated found,0,158
+YP_005224500.1,50S ribosomal protein L7/L12 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92268.1 50S ribosomal protein L7/L12 [Klebsiella pneumoniae],Not Mutated found,0,121
+YP_005228194.1,uracil phosphoribosyltransferase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95805.1 uracil phosphoribosyltransferase [Klebsiella pneumoniae],Not Mutated found,0,208
+YP_005224477.1,twin arginine translocase protein A [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92244.1 twin-arginine translocase subunit TatA [Klebsiella pneumoniae],Not Mutated found,0,83
+YP_005224474.1,ubiquinone/menaquinone biosynthesis methyltransferase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92241.1 ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE [Klebsiella pneumoniae],Not Mutated found,0,251
+YP_005224415.1,acetolactate synthase 2 regulatory subunit [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92180.1 acetolactate synthase 2 small subunit [Klebsiella pneumoniae],Not Mutated found,0,85
+YP_005229557.1,DUF202 domain-containing protein,GCA_002156725.1 ARS92012.1 hypothetical protein B9G35_00390 [Klebsiella pneumoniae],Not Mutated found,0,115
+YP_005226847.1,DNA-binding transcriptional activator MarA [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS97228.1 MDR efflux pump AcrAB transcriptional activator MarA [Klebsiella pneumoniae],Not Mutated found,0,124
+YP_005224995.1,YtjB family periplasmic protein,GCA_002156725.1 ARS92731.1 hypothetical protein B9G35_04410 [Klebsiella pneumoniae],Not Mutated found,0,215
+YP_005226046.1,GpE family phage tail protein,GCA_002156725.1 ARS93716.1 GpE family phage tail protein [Klebsiella pneumoniae],Not Mutated found,0,39
+YP_005224888.1,DUF1778 domain-containing protein,"GCA_002156725.1 ARS92631.1 toxin-antitoxin system, antitoxin component [Klebsiella pneumoniae]",Not Mutated found,0,88
+YP_005227346.1,response regulator [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94955.1 DNA-binding response regulator [Klebsiella pneumoniae],Not Mutated found,0,234
+YP_005229148.1,preprotein translocase subunit SecY [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96789.1 preprotein translocase subunit SecY [Klebsiella pneumoniae],Not Mutated found,0,443
+YP_005228960.1,phage holin family protein,GCA_002156725.1 ARS96608.1 hypothetical protein B9G35_25455 [Klebsiella pneumoniae],Not Mutated found,0,132
+YP_005229163.1,50S ribosomal protein L22 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96804.1 50S ribosomal protein L22 [Klebsiella pneumoniae],Not Mutated found,0,110
+YP_005224555.1,phosphate-starvation-inducible protein PsiE [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92320.1 phosphate-starvation-inducible protein PsiE [Klebsiella pneumoniae],Not Mutated found,0,136
+YP_005228119.1,putative negative regulator [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95737.1 hypothetical protein B9G35_20795 [Klebsiella pneumoniae],Not Mutated found,0,130
+YP_005224655.1,chaperone-modulator protein CbpM [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92411.1 chaperone-modulator protein CbpM [Klebsiella pneumoniae],Not Mutated found,0,101
+YP_005229151.1,30S ribosomal protein S5 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96792.1 30S ribosomal protein S5 [Klebsiella pneumoniae],Not Mutated found,0,167
+YP_005227249.1,endonuclease III [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94868.1 endonuclease III [Klebsiella pneumoniae],Not Mutated found,0,211
+YP_005226494.1,enoyl-ACP reductase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94110.1 enoyl-[acyl-carrier-protein] reductase [Klebsiella pneumoniae],Not Mutated found,0,262
+YP_005229162.1,30S ribosomal protein S3 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96803.1 30S ribosomal protein S3 [Klebsiella pneumoniae],Not Mutated found,0,232
+YP_005229607.1,F0F1 ATP synthase subunit beta [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92057.1 ATP synthase subunit beta [Klebsiella pneumoniae],Not Mutated found,0,460
+YP_005225865.1,succinate dehydrogenase cytochrome b556 small membrane subunit [Klebsiella pneumoniae subsp. pneumoniae HS11286],"GCA_002156725.1 ARS93540.1 succinate dehydrogenase, hydrophobic membrane anchor protein [Klebsiella pneumoniae]",Not Mutated found,0,115
+YP_005225408.1,transcription antitermination protein NusB [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93108.1 N utilization substance protein B [Klebsiella pneumoniae],Not Mutated found,0,139
+YP_005227273.1,Grx4 family monothiol glutaredoxin,GCA_002156725.1 ARS94888.1 glutaredoxin [Klebsiella pneumoniae],Not Mutated found,0,115
+YP_005226965.1,phosphoglycerate transporter protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_003367555.1 AXK97051.1 MFS transporter [Klebsiella pneumoniae],Not Mutated found,0,240
+YP_005229070.1,50S ribosomal protein L13 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96711.1 50S ribosomal protein L13 [Klebsiella pneumoniae],Not Mutated found,0,142
+YP_005227649.1,mannose-specific PTS system protein IID [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95221.1 PTS mannose transporter subunit IID [Klebsiella pneumoniae],Not Mutated found,0,283
+YP_005224907.1,HlyD family secretion protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92650.1 hemolysin secretion protein D [Klebsiella pneumoniae],Not Mutated found,0,355
+YP_005224974.1,YbaK/EbsC family protein,GCA_002156725.1 ARS92713.1 cys-tRNA(pro)/cys-tRNA(cys) deacylase [Klebsiella pneumoniae],Not Mutated found,0,152
+YP_005228951.1,YgjV family protein,GCA_002156725.1 ARS96599.1 hypothetical protein B9G35_25410 [Klebsiella pneumoniae],Not Mutated found,0,184
+YP_005224479.1,TatABCE protein translocation system subunit [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92246.1 twin-arginine translocase subunit TatC [Klebsiella pneumoniae],Not Mutated found,0,259
+YP_005227687.1,glucose-6-phosphate 1-dehydrogenase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95255.1 glucose-6-phosphate dehydrogenase [Klebsiella pneumoniae],Not Mutated found,0,491
+YP_005227258.1,putative outer membrane lipoprotein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94876.1 hypothetical protein B9G35_16065 [Klebsiella pneumoniae],Not Mutated found,0,155
+YP_005226966.1,hypothetical protein KPHS_26660 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC24425.1 hypothetical protein AM386_22655 [Klebsiella pneumoniae],Not Mutated found,0,40
+YP_005227722.1,DUF2766 domain-containing protein,GCA_002156725.1 ARS95289.1 hypothetical protein B9G35_18320 [Klebsiella pneumoniae],Not Mutated found,0,83
+YP_005225912.1,hypothetical protein KPHS_16120 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93580.1 hypothetical protein B9G35_09080 [Klebsiella pneumoniae],Not Mutated found,0,70
+YP_005224345.1,PTS family protein II component [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92112.1 PTS lactose transporter subunit IIB [Klebsiella pneumoniae],Not Mutated found,0,104
+YP_005229042.1,ABC transporter substrate-binding protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96682.1 outer membrane lipid asymmetry maintenance protein MlaD [Klebsiella pneumoniae],Not Mutated found,0,183
+YP_005229090.1,"regulator of ftsI, penicillin binding protein 3, septation function [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156725.1 ARS96730.1 rod shape-determining protein [Klebsiella pneumoniae],Not Mutated found,0,347
+YP_005228352.1,hypothetical protein KPHS_40520 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC24425.1 hypothetical protein AM386_22655 [Klebsiella pneumoniae],Not Mutated found,0,40
+YP_005228606.1,YgdI/YgdR family lipoprotein,GCA_002156725.1 ARS96268.1 YgdI/YgdR family lipoprotein [Klebsiella pneumoniae],Not Mutated found,0,72
+YP_005229167.1,50S ribosomal protein L4 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96808.1 50S ribosomal protein L4 [Klebsiella pneumoniae],Not Mutated found,0,201
+YP_005225941.1,molybdopterin synthase large subunit [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93609.1 molybdenum cofactor biosynthesis protein MoaE [Klebsiella pneumoniae],Not Mutated found,0,150
+YP_005224825.1,putative helix-turn-helix protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92575.1 MurR/RpiR family transcriptional regulator [Klebsiella pneumoniae],Not Mutated found,0,285
+YP_005224344.1,putative 6-phosphofructokinase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92111.1 permease [Klebsiella pneumoniae],Not Mutated found,0,326
+YP_005229170.1,30S ribosomal protein S10 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96810.1 30S ribosomal protein S10 [Klebsiella pneumoniae],Not Mutated found,0,103
+YP_005228993.1,YraN family protein,GCA_002156725.1 ARS96637.1 YraN family protein [Klebsiella pneumoniae],Not Mutated found,0,128
+YP_005226055.1,membrane protein,GCA_002156725.1 ARS93721.1 hypothetical protein B9G35_09825 [Klebsiella pneumoniae],Not Mutated found,0,127
+YP_005228048.1,aminotransferase AlaT [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95675.1 aminotransferase [Klebsiella pneumoniae],Not Mutated found,0,405
+YP_005229241.1,DNA-binding transcriptional repressor GlpR [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96879.1 DeoR/GlpR family transcriptional regulator [Klebsiella pneumoniae],Not Mutated found,0,252
+YP_005224306.1,potassium transport protein Kup [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92072.1 low affinity potassium transport system protein kup [Klebsiella pneumoniae],Not Mutated found,0,622
+YP_005226878.1,hypothetical protein KPHS_25780 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94537.1 hypothetical protein B9G35_14260 [Klebsiella pneumoniae],Not Mutated found,0,96
+YP_005229038.1,UDP-N-acetylglucosamine 1-carboxyvinyltransferase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96678.1 UDP-N-acetylglucosamine 1-carboxyvinyltransferase [Klebsiella pneumoniae],Not Mutated found,0,419
+YP_005225802.1,YbeD family protein,GCA_002156725.1 ARS93480.1 hypothetical protein B9G35_08460 [Klebsiella pneumoniae],Not Mutated found,0,87
+YP_005227234.1,hypothetical protein KPHS_29340 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94855.1 hypothetical protein B9G35_15945 [Klebsiella pneumoniae],Not Mutated found,0,61
+YP_005224716.1,RNA-binding protein Hfq [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92467.1 RNA-binding protein Hfq [Klebsiella pneumoniae],Not Mutated found,0,102
+YP_005224570.1,zinc uptake transcriptional repressor [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92335.1 transcriptional regulator Zur [Klebsiella pneumoniae],Not Mutated found,0,171
+YP_005229479.1,hypothetical protein KPHS_51790 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002761315.1 ATU14411.1 hypothetical protein BMF28_13565 [Klebsiella pneumoniae],Not Mutated found,0,37
+YP_005228022.1,hypothetical protein KPHS_37220 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC25827.1 hypothetical protein AM386_30560 [Klebsiella pneumoniae],Not Mutated found,0,44
+YP_005226537.1,hypothetical protein KPHS_22370 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002967795.2 QKE18063.1 hypothetical protein C5707_029835 (plasmid) [Klebsiella pneumoniae],Not Mutated found,0,48
+YP_005226284.1,alpha/beta hydrolase,GCA_002156725.1 ARS93928.1 hypothetical protein B9G35_10980 [Klebsiella pneumoniae],Not Mutated found,0,180
+YP_005226442.1,putative transmembrane protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94061.1 hypothetical protein B9G35_11690 [Klebsiella pneumoniae],Not Mutated found,0,178
+YP_005224566.1,LexA repressor [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92332.1 repressor LexA [Klebsiella pneumoniae],Not Mutated found,0,202
+YP_005226162.1,3-hydroxydecanoyl-ACP dehydratase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93816.1 beta-hydroxydecanoyl-ACP dehydratase [Klebsiella pneumoniae],Not Mutated found,0,172
+YP_005225795.1,cold-shock protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93473.1 cold-shock protein CspE [Klebsiella pneumoniae],Not Mutated found,0,69
+YP_005228069.1,hypothetical protein KPHS_37690 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC25873.1 hypothetical protein AM386_30795 [Klebsiella pneumoniae],Not Mutated found,0,53
+YP_005228186.1,thioredoxin-dependent thiol peroxidase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95798.1 peroxiredoxin [Klebsiella pneumoniae],Not Mutated found,0,156
+YP_005227878.1,uridine kinase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95519.1 uridine kinase [Klebsiella pneumoniae],Not Mutated found,0,213
+YP_005224780.1,putative cytoplasmic protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92529.1 cytoplasmic protein [Klebsiella pneumoniae],Not Mutated found,0,99
+YP_005229014.1,translation initiation factor IF-2 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96657.1 translation initiation factor IF-2 [Klebsiella pneumoniae],Not Mutated found,0,896
+YP_005229610.1,F0F1 ATP synthase subunit delta [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92060.1 ATP synthase subunit delta [Klebsiella pneumoniae],Not Mutated found,0,177
+YP_005229336.1,hypothetical protein KPHS_50360 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC21784.1 hypothetical protein AM386_08070 [Klebsiella pneumoniae],Not Mutated found,0,38
+YP_005226589.1,hypothetical protein KPHS_22890 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002967795.2 QKE12405.1 hypothetical protein C5707_000145 [Klebsiella pneumoniae],Not Mutated found,0,54
+YP_005225011.1,hypothetical protein KPHS_07110 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC22768.1 hypothetical protein AM386_13530 [Klebsiella pneumoniae],Not Mutated found,0,38
+YP_005227112.1,30S ribosomal subunit S22 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94745.1 30S ribosomal protein S22 [Klebsiella pneumoniae],Not Mutated found,0,46
+YP_005229076.1,arginine repressor [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96716.1 arginine repressor [Klebsiella pneumoniae],Not Mutated found,0,156
+YP_005229116.1,hypothetical protein KPHS_48160 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96756.1 hypothetical protein B9G35_26245 [Klebsiella pneumoniae],Not Mutated found,0,121
+YP_005225506.1,hypothetical protein KPHS_12060 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC23232.1 hypothetical protein AM386_16040 [Klebsiella pneumoniae],Not Mutated found,0,40
+YP_005226173.1,putative inner membrane protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93828.1 heat-shock protein HspQ [Klebsiella pneumoniae],Not Mutated found,0,105
+YP_005228220.1,nucleoside diphosphate kinase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95881.1 nucleoside-diphosphate kinase [Klebsiella pneumoniae],Not Mutated found,0,143
+YP_005225398.1,preprotein translocase auxillary subunit [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93098.1 preprotein translocase subunit YajC [Klebsiella pneumoniae],Not Mutated found,0,110
+YP_005229243.1,thiosulfate sulfurtransferase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96881.1 thiosulfate sulfurtransferase [Klebsiella pneumoniae],Not Mutated found,0,109
+YP_005228986.1,galactitol-specific PTS system component IIB [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96630.1 PTS galactitol transporter subunit IIB [Klebsiella pneumoniae],Not Mutated found,0,94
+YP_005229041.1,toluene tolerance protein Ttg2D [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96681.1 phospholipid-binding protein MlaC [Klebsiella pneumoniae],Not Mutated found,0,211
+YP_005228388.1,hypothetical protein KPHS_40880 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC25898.1 hypothetical protein AM386_03425 [Klebsiella pneumoniae],Not Mutated found,0,41
+YP_005229548.1,putative acyltransferase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92004.1 N-acetyltransferase [Klebsiella pneumoniae],Not Mutated found,0,148
+YP_005226911.1,ParD-like family protein,GCA_002156725.1 ARS94568.1 hypothetical protein B9G35_14425 [Klebsiella pneumoniae],Not Mutated found,0,72
+YP_005228602.1,dinucleoside polyphosphate hydrolase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96265.1 RNA pyrophosphohydrolase [Klebsiella pneumoniae],Not Mutated found,0,176
+YP_005229232.1,Putative Ferrous Iron Transport Protein C (Feoc) [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96869.1 ferrous iron transporter C [Klebsiella pneumoniae],Not Mutated found,0,79
+YP_005227759.1,nitrogen assimilation transcriptional regulator [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95325.1 nitrogen assimilation regulatory protein nac [Klebsiella pneumoniae],Not Mutated found,0,305
+YP_005225217.1,elongation factor Ts [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92931.1 elongation factor Ts [Klebsiella pneumoniae],Not Mutated found,0,283
+YP_005229597.1,phosphate transporter subunit [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92050.1 phosphate ABC transporter ATP-binding protein [Klebsiella pneumoniae],Not Mutated found,0,257
+YP_005226835.1,hypothetical protein KPHS_25350 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC24425.1 hypothetical protein AM386_22655 [Klebsiella pneumoniae],Not Mutated found,0,40
+YP_005229177.1,30S ribosomal protein S12 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96816.1 30S ribosomal protein S12 [Klebsiella pneumoniae],Not Mutated found,0,124
+YP_005228386.1,hypothetical protein KPHS_40860 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC25897.1 hypothetical protein AM386_03415 [Klebsiella pneumoniae],Not Mutated found,0,38
+YP_005228487.1,adenylylsulfate kinase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96156.1 adenylyl-sulfate kinase [Klebsiella pneumoniae],Not Mutated found,0,201
+YP_005228797.1,hypothetical protein KPHS_44970 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002967795.2 QKE14599.1 hypothetical protein C5707_012220 [Klebsiella pneumoniae],Not Mutated found,0,44
+YP_005229154.1,30S ribosomal protein S8 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96795.1 30S ribosomal protein S8 [Klebsiella pneumoniae],Not Mutated found,0,130
+YP_005224583.1,single-strand DNA-binding protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92347.1 ssDNA-binding protein [Klebsiella pneumoniae],Not Mutated found,0,174
+YP_005224449.1,hypothetical protein KPHS_01490 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC22207.1 hypothetical protein AM386_10405 [Klebsiella pneumoniae],Not Mutated found,0,39
+YP_005227540.1,stress-induced protein YchH,GCA_002156725.1 ARS95126.1 hypothetical protein B9G35_17440 [Klebsiella pneumoniae],Not Mutated found,0,91
+YP_005227037.1,hypothetical protein KPHS_27370 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC23824.1 hypothetical protein AM386_19390 [Klebsiella pneumoniae],Not Mutated found,0,47
+YP_005228847.1,DUF2623 domain-containing protein,GCA_002156725.1 ARS96498.1 hypothetical protein B9G35_24880 [Klebsiella pneumoniae],Not Mutated found,0,95
+YP_005225160.1,hypoxanthine-guanine phosphoribosyltransferase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92883.1 hypoxanthine phosphoribosyltransferase [Klebsiella pneumoniae],Not Mutated found,0,178
+YP_005226497.1,peptide ABC transporter ATP-binding protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94112.1 ABC transporter ATP-binding protein [Klebsiella pneumoniae],Not Mutated found,0,269
+YP_005224803.1,aspartate carbamoyltransferase regulatory subunit [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92549.1 aspartate carbamoyltransferase regulatory subunit [Klebsiella pneumoniae],Not Mutated found,0,153
+YP_005225790.1,universal stress protein UspG,GCA_002156725.1 ARS93468.1 universal stress protein UspG [Klebsiella pneumoniae],Not Mutated found,0,142
+YP_005226147.1,hypothetical protein KPHS_18470 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC24806.1 hypothetical protein AM386_24825 [Klebsiella pneumoniae],Not Mutated found,0,37
+YP_005228039.1,NADH dehydrogenase subunit H [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95666.1 NADH-quinone oxidoreductase subunit H [Klebsiella pneumoniae],Not Mutated found,0,325
+YP_005225414.1,exodeoxyribonuclease VII small subunit [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93114.1 exodeoxyribonuclease 7 small subunit [Klebsiella pneumoniae],Not Mutated found,0,80
+YP_005225874.1,"cytochrome d terminal oxidase, polypeptide subunit I [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156725.1 ARS93548.1 cytochrome bd-I ubiquinol oxidase subunit I [Klebsiella pneumoniae],Not Mutated found,0,522
+YP_005228714.1,ribose-5-phosphate isomerase A [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96373.1 ribose-5-phosphate isomerase [Klebsiella pneumoniae],Not Mutated found,0,219
+YP_005225911.1,LuxR transcriptional regulator [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93579.1 LuxR family transcriptional regulator [Klebsiella pneumoniae],Not Mutated found,0,184
+YP_005226477.1,YmiA family putative membrane protein,GCA_002156725.1 ARS94096.1 YmiA family putative membrane protein [Klebsiella pneumoniae],Not Mutated found,0,55
+YP_005228715.1,chromosome replication initiation inhibitor protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96374.1 chromosome initiation inhibitor [Klebsiella pneumoniae],Not Mutated found,0,297
+YP_005224490.1,protoporphyrinogen oxidase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92256.1 protoporphyrinogen oxidase [Klebsiella pneumoniae],Not Mutated found,0,177
+YP_005226478.1,hypothetical protein KPHS_21780 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC24310.1 hypothetical protein AM386_22035 [Klebsiella pneumoniae],Not Mutated found,0,38
+YP_005224411.1,DUF413 domain-containing protein,GCA_002156725.1 ARS92176.1 hypothetical protein B9G35_01310 [Klebsiella pneumoniae],Not Mutated found,0,112
+YP_005229144.1,DNA-directed RNA polymerase subunit alpha [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96784.1 DNA-directed RNA polymerase subunit alpha [Klebsiella pneumoniae],Not Mutated found,0,329
+YP_005229476.1,aquaglyceroporin [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS97092.1 aquaporin [Klebsiella pneumoniae],Not Mutated found,0,283
+YP_005225301.1,hypothetical protein KPHS_10000 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002967795.2 QKE16276.1 hypothetical protein C5707_021485 [Klebsiella pneumoniae],Not Mutated found,0,43
+YP_005224742.1,30S ribosomal protein S18 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92493.1 30S ribosomal protein S18 [Klebsiella pneumoniae],Not Mutated found,0,75
+YP_005227828.1,putative reverse transcriptase/maturase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_010450855.1 QIA13647.1 group II intron reverse transcriptase/maturase [Klebsiella pneumoniae],Not Mutated found,0,495
+YP_005229173.1,bacterioferritin-associated ferredoxin [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96812.1 bacterioferritin-associated ferredoxin [Klebsiella pneumoniae],Not Mutated found,0,64
+YP_005229133.1,putative DNA topoisomerase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96772.1 hypothetical protein B9G35_26360 [Klebsiella pneumoniae],Not Mutated found,0,180
+YP_005229463.1,DNA-directed RNA polymerase subunit omega [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS97080.1 DNA-directed RNA polymerase subunit omega [Klebsiella pneumoniae],Not Mutated found,0,91
+YP_005224430.1,transcription termination factor Rho [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92198.1 transcription termination factor Rho [Klebsiella pneumoniae],Not Mutated found,0,419
+YP_005228967.1,hypothetical protein KPHS_46670 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC21424.1 hypothetical protein AM386_06140 [Klebsiella pneumoniae],Not Mutated found,0,55
+YP_005228551.1,cobalt transport protein CbiN [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96215.1 cobalt transporter CbiN [Klebsiella pneumoniae],Not Mutated found,0,93
+YP_005229013.1,ribosome-binding factor A [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96656.1 ribosome-binding factor A [Klebsiella pneumoniae],Not Mutated found,0,133
+YP_005226220.1,hypothetical protein KPHS_19200 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC24684.1 hypothetical protein AM386_24155 [Klebsiella pneumoniae],Not Mutated found,0,80
+YP_005229176.1,30S ribosomal protein S7 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96815.1 30S ribosomal protein S7 [Klebsiella pneumoniae],Not Mutated found,0,156
+YP_005225198.1,hypothetical protein KPHS_08980 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC22936.1 hypothetical protein AM386_14420 [Klebsiella pneumoniae],Not Mutated found,0,47
+YP_005228959.1,DUF883 domain-containing protein,GCA_002156725.1 ARS96607.1 hypothetical protein B9G35_25450 [Klebsiella pneumoniae],Not Mutated found,0,101
+YP_005228833.1,hypothetical protein KPHS_45330 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96487.1 hypothetical protein B9G35_24815 [Klebsiella pneumoniae],Not Mutated found,0,197
+YP_005226307.1,spermidine/putrescine ABC transporter membrane protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93943.1 spermidine/putrescine ABC transporter permease PotC [Klebsiella pneumoniae],Not Mutated found,0,261
+YP_005228347.1,30S ribosomal protein S16 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95957.1 30S ribosomal protein S16 [Klebsiella pneumoniae],Not Mutated found,0,82
+YP_005227429.1,hypothetical protein KPHS_31300 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95029.1 hypothetical protein B9G35_16880 [Klebsiella pneumoniae],Not Mutated found,0,65
+YP_005227329.1,hypothetical protein KPHS_30290 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94938.1 hypothetical protein B9G35_16400 [Klebsiella pneumoniae],Not Mutated found,0,46
+YP_005226091.1,DNA replication inhibitor [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93753.1 cold shock domain protein CspD [Klebsiella pneumoniae],Not Mutated found,0,73
+YP_005226469.1,"cob(I)yrinic acid a,c-diamide adenosyltransferase [Klebsiella pneumoniae subsp. pneumoniae HS11286]","GCA_002156725.1 ARS94087.1 cob(I)yrinic acid a,c-diamide adenosyltransferase [Klebsiella pneumoniae]",Not Mutated found,0,196
+YP_005227964.1,1-phosphofructokinase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95594.1 1-phosphofructokinase [Klebsiella pneumoniae],Not Mutated found,0,312
+YP_005226594.1,putative reverse transcriptase/maturase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_010450855.1 QIA13647.1 group II intron reverse transcriptase/maturase [Klebsiella pneumoniae],Not Mutated found,0,495
+YP_005229082.1,AaeX family protein,GCA_002156725.1 ARS96722.1 protein AaeX [Klebsiella pneumoniae],Not Mutated found,0,67
+YP_005228779.1,hypothetical protein KPHS_44790 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002967795.2 QKE14585.1 hypothetical protein C5707_012135 [Klebsiella pneumoniae],Not Mutated found,0,396
+YP_005225373.1,pyrimidine/purine nucleoside phosphorylase,GCA_002156725.1 ARS93075.1 hypothetical protein B9G35_06315 [Klebsiella pneumoniae],Not Mutated found,0,94
+YP_005229069.1,30S ribosomal protein S9 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96710.1 30S ribosomal protein S9 [Klebsiella pneumoniae],Not Mutated found,0,130
+YP_005227458.1,lipoprotein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95053.1 lipoprotein [Klebsiella pneumoniae],Not Mutated found,0,154
+YP_005228349.1,inner membrane protein YpjD,GCA_002156725.1 ARS95959.1 inner membrane protein YpjD [Klebsiella pneumoniae],Not Mutated found,0,263
+YP_005229224.1,hypothetical protein KPHS_49240 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC21661.1 hypothetical protein AM386_07435 [Klebsiella pneumoniae],Not Mutated found,0,53
+YP_005225236.1,rof protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92949.1 Rho-binding antiterminator [Klebsiella pneumoniae],Not Mutated found,0,86
+YP_005224494.1,elongation factor Tu [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92260.1 elongation factor Tu [Klebsiella pneumoniae],Not Mutated found,0,394
+YP_005229152.1,50S ribosomal protein L18 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96793.1 50S ribosomal protein L18 [Klebsiella pneumoniae],Not Mutated found,0,117
+YP_005224993.1,purine nucleoside phosphorylase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92729.1 purine-nucleoside phosphorylase [Klebsiella pneumoniae],Not Mutated found,0,239
+YP_005227278.1,DNA-binding transcriptional repressor PurR [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94893.1 PurR family transcriptional regulator [Klebsiella pneumoniae],Not Mutated found,0,341
+YP_005226278.1,glucose-specific PTS system IIBC components [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93922.1 PTS glucose transporter subunit IIBC [Klebsiella pneumoniae],Not Mutated found,0,477
+YP_005226066.1,DUF2593 family protein,GCA_002156725.1 ARS93729.1 hypothetical protein B9G35_09875 [Klebsiella pneumoniae],Not Mutated found,0,162
+YP_005228046.1,hypothetical protein KPHS_37460 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95673.1 hypothetical protein B9G35_20440 [Klebsiella pneumoniae],Not Mutated found,0,69
+YP_005225460.1,putative dTDP-glucose pyrophosphorylase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93159.1 dTDP-glucose pyrophosphorylase [Klebsiella pneumoniae],Not Mutated found,0,135
+YP_005225438.1,hypothetical protein KPHS_11380 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC23164.1 hypothetical protein AM386_15670 [Klebsiella pneumoniae],Not Mutated found,0,59
+YP_005226975.1,hypothetical protein KPHS_26750 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC23880.1 hypothetical protein AM386_19690 [Klebsiella pneumoniae],Not Mutated found,0,44
+YP_005228863.1,1-acyl-sn-glycerol-3-phosphate acyltransferase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96514.1 1-acyl-sn-glycerol-3-phosphate acyltransferase [Klebsiella pneumoniae],Not Mutated found,0,245
+YP_005229114.1,hypothetical protein KPHS_48140 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96754.1 hypothetical protein B9G35_26235 [Klebsiella pneumoniae],Not Mutated found,0,111
+YP_005229008.1,lipoprotein NlpI [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96651.1 lipoprotein NlpI [Klebsiella pneumoniae],Not Mutated found,0,294
+YP_005225400.1,preprotein translocase subunit SecF [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93100.1 protein translocase subunit SecF [Klebsiella pneumoniae],Not Mutated found,0,323
+YP_005226015.1,hypothetical protein KPHS_17150 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93688.1 hypothetical protein B9G35_09650 [Klebsiella pneumoniae],Not Mutated found,0,62
+YP_005228378.1,ribonucleotide reductase stimulatory protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96051.1 class Ib ribonucleoside-diphosphate reductase assembly flavoprotein NrdI [Klebsiella pneumoniae],Not Mutated found,0,136
+YP_005224528.1,homoserine O-succinyltransferase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92295.1 homoserine O-succinyltransferase [Klebsiella pneumoniae],Not Mutated found,0,309
+YP_005225316.1,hypothetical protein KPHS_10160 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC23049.1 hypothetical protein AM386_15055 [Klebsiella pneumoniae],Not Mutated found,0,40
+YP_005229203.1,hypothetical protein KPHS_49030 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002761315.1 ATU11549.1 hypothetical protein BMF28_12215 [Klebsiella pneumoniae],Not Mutated found,0,56
+YP_005228841.1,hypothetical protein KPHS_45410 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96493.1 hypothetical protein B9G35_24855 [Klebsiella pneumoniae],Not Mutated found,0,62
+YP_005226591.1,hypothetical protein KPHS_22910 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94272.1 hypothetical protein B9G35_12840 [Klebsiella pneumoniae],Not Mutated found,0,65
+YP_005225107.1,phospho-N-acetylmuramoyl-pentapeptide-transferase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92840.1 phospho-N-acetylmuramoyl-pentapeptide-transferase [Klebsiella pneumoniae],Not Mutated found,0,360
+YP_005226391.1,putative oxidoreductase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94019.1 aldo/keto reductase [Klebsiella pneumoniae],Not Mutated found,0,327
+YP_005228485.1,cell division protein FtsB [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96154.1 cell division protein FtsB [Klebsiella pneumoniae],Not Mutated found,0,105
+YP_005228743.1,hypothetical protein KPHS_44430 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002761315.1 ATU11184.1 hypothetical protein BMF28_10250 [Klebsiella pneumoniae],Not Mutated found,0,56
+YP_005228227.1,Fe-S cluster assembly protein IscX,GCA_002156725.1 ARS95888.1 Fe-S assembly protein IscX [Klebsiella pneumoniae],Not Mutated found,0,66
+YP_005226038.1,tail protein I [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS97182.1 phage tail protein I [Klebsiella pneumoniae],Not Mutated found,0,199
+YP_005226555.1,hypothetical protein KPHS_22550 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002967795.2 QKE18092.1 hypothetical protein C5707_030075 (plasmid) [Klebsiella pneumoniae],Not Mutated found,0,51
+YP_005224741.1,30S ribosomal protein S6 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92491.1 30S ribosomal protein S6 [Klebsiella pneumoniae],Not Mutated found,0,131
+YP_005228072.1,colicin V production protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95697.1 colicin V production protein [Klebsiella pneumoniae],Not Mutated found,0,162
+YP_005226802.1,NADP-dependent L-serine/L-allo-threonine dehydrogenase YdfG [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94469.1 NAD(P)-dependent oxidoreductase [Klebsiella pneumoniae],Not Mutated found,0,249
+YP_005226124.1,protein YcaR,GCA_002156725.1 ARS93784.1 hypothetical protein B9G35_10175 [Klebsiella pneumoniae],Not Mutated found,0,60
+YP_005229143.1,50S ribosomal protein L17 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96783.1 50S ribosomal protein L17 [Klebsiella pneumoniae],Not Mutated found,0,128
+YP_005229103.1,hypothetical protein KPHS_48030 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96743.1 hypothetical protein B9G35_26180 [Klebsiella pneumoniae],Not Mutated found,0,63
+YP_005226427.1,DNA-binding transcriptional activator OsmE [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94048.1 transcriptional regulator [Klebsiella pneumoniae],Not Mutated found,0,112
+YP_005225462.1,hypothetical protein KPHS_11620 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93161.1 hypothetical protein B9G35_06750 [Klebsiella pneumoniae],Not Mutated found,0,71
+YP_005225671.1,NUDIX hydrolase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93359.1 NUDIX hydrolase [Klebsiella pneumoniae],Not Mutated found,0,132
+YP_005229378.1,major cold shock protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS97004.1 cold-shock protein [Klebsiella pneumoniae],Not Mutated found,0,70
+YP_005225315.1,gamma-glutamyl kinase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93025.1 glutamate 5-kinase [Klebsiella pneumoniae],Not Mutated found,0,367
+YP_005225587.1,Arc family DNA-binding protein,GCA_018604345.1 QWA86223.1 Arc family DNA-binding protein [Klebsiella pneumoniae],Not Mutated found,0,58
+YP_005225718.1,choline transport protein BetT [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93402.1 high-affinity choline transporter BetT [Klebsiella pneumoniae],Not Mutated found,0,677
+YP_005224382.1,hypothetical protein KPHS_00820 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC25942.1 hypothetical protein AM386_09990 [Klebsiella pneumoniae],Not Mutated found,0,43
+YP_005226729.1,DUF1471 domain-containing protein,GCA_002156725.1 ARS94401.1 hypothetical protein B9G35_13520 [Klebsiella pneumoniae],Not Mutated found,0,316
+YP_005225870.1,dihydrolipoamide acetyltransferase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93544.1 dihydrolipoamide succinyltransferase [Klebsiella pneumoniae],Not Mutated found,0,408
+YP_005224735.1,L-ascorbate-specific enzyme IIA component of PTS [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92485.1 PTS ascorbate-specific transporter subunit IIA [Klebsiella pneumoniae],Not Mutated found,0,155
+YP_005229160.1,50S ribosomal protein L29 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96801.1 50S ribosomal protein L29 [Klebsiella pneumoniae],Not Mutated found,0,63
+YP_005229411.1,serine acetyltransferase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS97039.1 serine O-acetyltransferase [Klebsiella pneumoniae],Not Mutated found,0,273
+YP_005228796.1,hypothetical protein KPHS_44960 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96453.1 glycosaminoglycan attachment protein [Klebsiella pneumoniae],Not Mutated found,0,455
+YP_005228932.1,hypothetical protein KPHS_46320 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC21389.1 hypothetical protein AM386_05960 [Klebsiella pneumoniae],Not Mutated found,0,38
+YP_005229506.1,hypothetical protein KPHS_52060 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC21943.1 hypothetical protein AM386_08945 [Klebsiella pneumoniae],Not Mutated found,0,38
+YP_005227654.1,cold-shock protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95226.1 cold-shock protein CspC [Klebsiella pneumoniae],Not Mutated found,0,69
+YP_005225405.1,transcriptional regulator NrdR [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93105.1 transcriptional regulator NrdR [Klebsiella pneumoniae],Not Mutated found,0,149
+YP_005224429.1,thioredoxin [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92196.1 thiol reductase thioredoxin [Klebsiella pneumoniae],Not Mutated found,0,109
+YP_005225138.1,pyruvate dehydrogenase subunit E1 [Klebsiella pneumoniae subsp. pneumoniae HS11286],"GCA_002156725.1 ARS92867.1 pyruvate dehydrogenase (acetyl-transferring), homodimeric type [Klebsiella pneumoniae]",Not Mutated found,0,887
+YP_005228744.1,S-adenosylmethionine synthetase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96403.1 S-adenosylmethionine synthase [Klebsiella pneumoniae],Not Mutated found,0,384
+YP_005227648.1,"PTS enzyme IIC, mannose-specific [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156725.1 ARS95220.1 PTS mannose/fructose/sorbose transporter subunit IIC [Klebsiella pneumoniae],Not Mutated found,0,266
+YP_005226490.1,hypothetical protein KPHS_21900 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC24299.1 hypothetical protein AM386_21975 [Klebsiella pneumoniae],Not Mutated found,0,85
+YP_005225129.1,putative major pilin subunit [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92859.1 prepilin peptidase-dependent pilin [Klebsiella pneumoniae],Not Mutated found,0,143
+YP_005228086.1,TSUP family transporter,GCA_002156725.1 ARS95709.1 hypothetical protein B9G35_20630 [Klebsiella pneumoniae],Not Mutated found,0,269
+YP_005225364.1,anti-adapter protein IraP,GCA_002156725.1 ARS93068.1 anti-adapter protein IraP [Klebsiella pneumoniae],Not Mutated found,0,86
+YP_005224522.1,hypothetical protein KPHS_02220 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC22282.1 hypothetical protein AM386_10840 [Klebsiella pneumoniae],Not Mutated found,0,39
+YP_005229565.1,putative lipoprotein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92020.1 YceK/YidQ family lipoprotein [Klebsiella pneumoniae],Not Mutated found,0,110
+YP_005225510.1,Cys-tRNA(Pro)/Cys-tRNA(Cys) deacylase YbaK,GCA_002156725.1 ARS93202.1 aminoacyl-tRNA deacylase [Klebsiella pneumoniae],Not Mutated found,0,159
+YP_005227639.1,endoribonuclease L-PSP [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95212.1 hypothetical protein B9G35_17905 [Klebsiella pneumoniae],Not Mutated found,0,114
+YP_005226737.1,fumarate and nitrate reduction regulatory protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94406.1 transcriptional regulator FNR [Klebsiella pneumoniae],Not Mutated found,0,250
+YP_005227533.1,peptide chain release factor 1 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95119.1 peptide chain release factor 1 [Klebsiella pneumoniae],Not Mutated found,0,360
+YP_005229556.1,DUF202 domain-containing protein,GCA_002156725.1 ARS92011.1 hypothetical protein B9G35_00385 [Klebsiella pneumoniae],Not Mutated found,0,120
+YP_005227657.1,hypothetical protein KPHS_33570 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002761315.1 ATU14329.1 hypothetical protein BMF28_03230 [Klebsiella pneumoniae],Not Mutated found,0,78
+YP_005224668.1,hypothetical protein KPHS_03680 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002967795.2 QKE15702.1 hypothetical protein C5707_018285 [Klebsiella pneumoniae],Not Mutated found,0,45
+YP_005224484.1,FMN reductase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92250.1 NAD(P)H-flavin reductase [Klebsiella pneumoniae],Not Mutated found,0,233
+YP_005229405.1,hypothetical protein KPHS_51050 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS97033.1 hypothetical protein B9G35_27755 [Klebsiella pneumoniae],Not Mutated found,0,74
+YP_005226265.1,23S rRNA accumulation protein YceD,GCA_002156725.1 ARS93910.1 hypothetical protein B9G35_10885 [Klebsiella pneumoniae],Not Mutated found,0,173
+YP_005227467.1,integration host factor subunit alpha [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95062.1 integration host factor subunit alpha [Klebsiella pneumoniae],Not Mutated found,0,99
+YP_005224348.1,hypothetical protein KPHS_00480 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92115.1 hypothetical protein B9G35_00950 [Klebsiella pneumoniae],Not Mutated found,0,89
+YP_005224756.1,putative hemolysin-related membrane protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92508.1 hypothetical protein B9G35_03170 [Klebsiella pneumoniae],Not Mutated found,0,445
+YP_005224519.1,transcriptional regulator HU subunit alpha [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92286.1 DNA-binding protein [Klebsiella pneumoniae],Not Mutated found,0,90
+YP_005224743.1,50S ribosomal protein L9 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92494.1 50S ribosomal protein L9 [Klebsiella pneumoniae],Not Mutated found,0,149
+YP_005225162.1,ATPase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92885.1 ATPase [Klebsiella pneumoniae],Not Mutated found,0,308
+YP_005227968.1,hypothetical protein KPHS_36680 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC25773.1 hypothetical protein AM386_30275 [Klebsiella pneumoniae],Not Mutated found,0,44
+YP_005225723.1,hypothetical protein KPHS_14230 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC25178.1 hypothetical protein AM386_26940 [Klebsiella pneumoniae],Not Mutated found,0,37
+YP_005224841.1,hypothetical protein KPHS_05410 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92589.1 hypothetical protein B9G35_03615 [Klebsiella pneumoniae],Not Mutated found,0,336
+YP_005228261.1,DNA repair protein RecO [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95919.1 DNA repair protein RecO [Klebsiella pneumoniae],Not Mutated found,0,245
+YP_005225292.1,transcriptional antiterminator of glycerol uptake operon [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93004.1 transcriptional antiterminator [Klebsiella pneumoniae],Not Mutated found,0,183
+YP_005224322.1,GTP-binding protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92088.1 GTP-binding protein [Klebsiella pneumoniae],Not Mutated found,0,210
+YP_005227272.1,ribonuclease T [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94887.1 ribonuclease T [Klebsiella pneumoniae],Not Mutated found,0,215
+YP_005225569.1,hypothetical protein KPHS_12690 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC24425.1 hypothetical protein AM386_22655 [Klebsiella pneumoniae],Not Mutated found,0,40
+YP_005228807.1,TIGR03758 family integrating conjugative element protein,GCA_002156725.1 ARS96463.1 integrating conjugative element protein [Klebsiella pneumoniae],Not Mutated found,0,78
+YP_005229420.1,L-threonine 3-dehydrogenase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS97048.1 L-threonine 3-dehydrogenase [Klebsiella pneumoniae],Not Mutated found,0,341
+YP_005229363.1,MFS superfamily oxalate/formate antiporter [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96991.1 oxalate/formate antiport family MFS transporter [Klebsiella pneumoniae],Not Mutated found,0,401
+YP_005229122.1,phage transcriptional regulator AlpA [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96762.1 transcriptional regulator [Klebsiella pneumoniae],Not Mutated found,0,94
+YP_005228832.1,transposase,GCA_002156745.1 ARS99858.1 hypothetical protein B8O09_12080 [Klebsiella pneumoniae],Not Mutated found,0,50
+YP_005225307.1,hypothetical protein KPHS_10070 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002967795.2 QKE16281.1 hypothetical protein C5707_021515 [Klebsiella pneumoniae],Not Mutated found,0,45
+YP_005229612.1,F0F1 ATP synthase subunit C [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92062.1 ATP synthase subunit C [Klebsiella pneumoniae],Not Mutated found,0,79
+YP_005226377.1,scaffolding protein for murein-synthesising holoenzyme [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94006.1 MltA-interacting protein MipA [Klebsiella pneumoniae],Not Mutated found,0,248
+YP_005229098.1,YhdT family protein,GCA_002156725.1 ARS96737.1 hypothetical protein B9G35_26150 [Klebsiella pneumoniae],Not Mutated found,0,80
+YP_005229121.1,Roi protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96761.1 hypothetical protein B9G35_26275 [Klebsiella pneumoniae],Not Mutated found,0,259
+YP_005227418.1,pyruvate kinase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95020.1 pyruvate kinase [Klebsiella pneumoniae],Not Mutated found,0,470
+YP_005227918.1,RcnB family protein,GCA_002156725.1 ARS95553.1 nickel/cobalt homeostasis protein RcnB [Klebsiella pneumoniae],Not Mutated found,0,105
+YP_005228299.1,hypothetical protein KPHS_39990 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC20851.1 hypothetical protein AM386_03030 [Klebsiella pneumoniae],Not Mutated found,0,45
+YP_005229149.1,50S ribosomal protein L15 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96790.1 50S ribosomal protein L15 [Klebsiella pneumoniae],Not Mutated found,0,144
+YP_005225552.1,hypothetical protein KPHS_12520 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002967795.2 QKE17676.1 hypothetical protein C5707_022750 [Klebsiella pneumoniae],Not Mutated found,0,43
+YP_005229155.1,30S ribosomal protein S14 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96796.1 30S ribosomal protein S14 [Klebsiella pneumoniae],Not Mutated found,0,101
+YP_005227506.1,"nitrate reductase 1, cytochrome b(NR), gamma subunit [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156725.1 ARS95097.1 respiratory nitrate reductase subunit gamma [Klebsiella pneumoniae],Not Mutated found,0,225
+YP_005228705.1,glycine cleavage system protein H [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96365.1 glycine cleavage system protein H [Klebsiella pneumoniae],Not Mutated found,0,129
+YP_005226056.1,glutaredoxin [Klebsiella pneumoniae subsp. pneumoniae HS11286],"GCA_002156725.1 ARS93722.1 glutaredoxin, GrxA family [Klebsiella pneumoniae]",Not Mutated found,0,87
+YP_005228044.1,NADH dehydrogenase subunit B [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95671.1 NADH-quinone oxidoreductase subunit B [Klebsiella pneumoniae],Not Mutated found,0,224
+YP_005228856.1,DedA family protein,GCA_002156725.1 ARS96507.1 DedA family protein [Klebsiella pneumoniae],Not Mutated found,0,219
+YP_005226034.1,hypothetical protein KPHS_17330 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002967795.2 QKE16960.1 hypothetical protein C5707_025215 [Klebsiella pneumoniae],Not Mutated found,0,54
+YP_005224576.1,replicative DNA helicase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92340.1 replicative DNA helicase [Klebsiella pneumoniae],Not Mutated found,0,471
+YP_005229156.1,50S ribosomal protein L5 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96797.1 50S ribosomal protein L5 [Klebsiella pneumoniae],Not Mutated found,0,179
+YP_005226522.1,hypothetical protein KPHS_22220 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC24270.1 hypothetical protein AM386_21820 [Klebsiella pneumoniae],Not Mutated found,0,38
+YP_005229462.1,guanylate kinase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS97079.1 guanylate kinase [Klebsiella pneumoniae],Not Mutated found,0,207
+YP_005229344.1,cellulose biosynthesis protein BcsF,GCA_002156725.1 ARS96974.1 cellulose biosynthesis protein BcsF [Klebsiella pneumoniae],Not Mutated found,0,65
+YP_005229611.1,ATP synthase F0 subunit B [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92061.1 ATP synthase subunit B [Klebsiella pneumoniae],Not Mutated found,0,156
+YP_005228650.1,putative regulatory protein MarR [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96313.1 MarR family transcriptional regulator [Klebsiella pneumoniae],Not Mutated found,0,168
+YP_005226731.1,hypothetical protein KPHS_24310 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC24118.1 hypothetical protein AM386_21000 [Klebsiella pneumoniae],Not Mutated found,0,38
+YP_005229106.1,hypothetical protein KPHS_48060 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002967795.2 QKE14882.1 hypothetical protein C5707_013795 [Klebsiella pneumoniae],Not Mutated found,0,50
+YP_005227106.1,hypothetical protein KPHS_28060 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94738.1 hypothetical protein B9G35_15335 [Klebsiella pneumoniae],Not Mutated found,0,71
+YP_005229194.1,cAMP-regulatory protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96832.1 cAMP-activated global transcriptional regulator CRP [Klebsiella pneumoniae],Not Mutated found,0,210
+YP_005225635.1,hypothetical protein KPHS_13350 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC25266.1 hypothetical protein AM386_27430 [Klebsiella pneumoniae],Not Mutated found,0,39
+YP_005224819.1,"putative transmembrane protein, transport [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156725.1 ARS92565.1 LPS export ABC transporter permease LptF [Klebsiella pneumoniae],Not Mutated found,0,365
+YP_005225900.1,"multidrug efflux pump-associated protein, AcrZ family","GCA_002156725.1 ARS93570.1 multidrug efflux pump-associated protein, AcrZ family [Klebsiella pneumoniae]",Not Mutated found,0,49
+YP_005227479.1,YciI domain protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95074.1 hypothetical protein B9G35_17140 [Klebsiella pneumoniae],Not Mutated found,0,98
+YP_005226512.1,phage shock protein PspD,GCA_002156725.1 ARS94196.1 phage shock protein D [Klebsiella pneumoniae],Not Mutated found,0,72
+YP_005229159.1,30S ribosomal protein S17 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96800.1 30S ribosomal protein S17 [Klebsiella pneumoniae],Not Mutated found,0,84
+YP_005226549.1,hypothetical protein KPHS_22490 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94232.1 hypothetical protein B9G35_12630 [Klebsiella pneumoniae],Not Mutated found,0,104
+YP_005229108.1,"phage QLRG family, putative DNA packaging [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156725.1 ARS96748.1 hypothetical protein B9G35_26205 [Klebsiella pneumoniae],Not Mutated found,0,99
+YP_005226271.1,acyl carrier protein,GCA_002156725.1 ARS93916.1 acyl carrier protein [Klebsiella pneumoniae],Not Mutated found,0,78
+YP_005226014.1,putative reverse transcriptase/maturase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_010450855.1 QIA13647.1 group II intron reverse transcriptase/maturase [Klebsiella pneumoniae],Not Mutated found,0,495
+YP_005224403.1,DNA-binding transcriptional regulator OxyR [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92168.1 DNA-binding transcriptional regulator OxyR [Klebsiella pneumoniae],Not Mutated found,0,305
+YP_005224624.1,hypothetical protein KPHS_03240 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC22378.1 hypothetical protein AM386_11360 [Klebsiella pneumoniae],Not Mutated found,0,46
+YP_005226365.1,DNA polymerase V subunit UmuD [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93995.1 DNA polymerase V subunit UmuD [Klebsiella pneumoniae],Not Mutated found,0,139
+YP_005226406.1,hypothetical protein KPHS_21060 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC24502.1 hypothetical protein AM386_23095 [Klebsiella pneumoniae],Not Mutated found,0,41
+YP_005224721.1,hypothetical protein KPHS_04220 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC22461.1 hypothetical protein AM386_11835 [Klebsiella pneumoniae],Not Mutated found,0,46
+YP_005224620.1,glutamate/aspartate:proton symporter [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92381.1 glutamate/aspartate:proton symporter GltP [Klebsiella pneumoniae],Not Mutated found,0,437
+YP_005229164.1,30S ribosomal protein S19 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96805.1 30S ribosomal protein S19 [Klebsiella pneumoniae],Not Mutated found,0,92
+YP_005226361.1,hypothetical protein KPHS_20610 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_017916195.1 QTT64180.1 hypothetical protein J9262_26010 [Klebsiella pneumoniae],Not Mutated found,0,51
+YP_005226061.1,putative sensory transduction regulator [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93725.1 YbjN domain-containing protein [Klebsiella pneumoniae],Not Mutated found,0,159
+YP_005229444.1,nucleoid occlusion protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS97067.1 nucleoid occlusion factor SlmA [Klebsiella pneumoniae],Not Mutated found,0,198
+YP_005224496.1,transcription antitermination protein NusG [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92263.1 transcription termination/antitermination protein NusG [Klebsiella pneumoniae],Not Mutated found,0,181
+YP_005227633.1,cell division topological specificity factor MinE [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95207.1 cell division topological specificity factor [Klebsiella pneumoniae],Not Mutated found,0,89
+YP_005225311.1,hypothetical protein KPHS_10110 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93021.1 hypothetical protein B9G35_06010 [Klebsiella pneumoniae],Not Mutated found,0,141
+YP_005228289.1,sigma-54 modulation protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95944.1 ribosomal subunit interface protein [Klebsiella pneumoniae],Not Mutated found,0,111
+YP_005225172.1,DnaK suppressor protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92895.1 RNA polymerase-binding protein DksA [Klebsiella pneumoniae],Not Mutated found,0,151
+YP_005229596.1,transcriptional regulator PhoU [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92049.1 phosphate transport system regulator PhoU [Klebsiella pneumoniae],Not Mutated found,0,241
+YP_005229460.1,trimeric intracellular cation channel family protein,GCA_002156725.1 ARS97077.1 hypothetical protein B9G35_28000 [Klebsiella pneumoniae],Not Mutated found,0,205
+YP_005226556.1,hypothetical protein KPHS_22560 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002967795.2 QKE18091.1 hypothetical protein C5707_030070 (plasmid) [Klebsiella pneumoniae],Not Mutated found,0,42
+YP_005229564.1,heat shock protein IbpA [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92019.1 heat-shock protein IbpA [Klebsiella pneumoniae],Not Mutated found,0,137
+YP_005225891.1,phosphoglyceromutase [Klebsiella pneumoniae subsp. pneumoniae HS11286],"GCA_002156725.1 ARS93563.1 2,3-bisphosphoglycerate-dependent phosphoglycerate mutase [Klebsiella pneumoniae]",Not Mutated found,0,250
+YP_005228471.1,putative cytoplasmic protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96140.1 hypothetical protein B9G35_22980 [Klebsiella pneumoniae],Not Mutated found,0,78
+YP_005228896.1,urease subunit gamma [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96544.1 urease subunit gamma [Klebsiella pneumoniae],Not Mutated found,0,100
+YP_005227630.1,hypothetical protein KPHS_33300 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC25446.1 hypothetical protein AM386_28450 [Klebsiella pneumoniae],Not Mutated found,0,38
+YP_005224510.1,sulfur carrier protein ThiS [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92277.1 sulfur carrier protein ThiS [Klebsiella pneumoniae],Not Mutated found,0,66
+YP_005229579.1,50S ribosomal protein L34 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92034.1 50S ribosomal protein L34 [Klebsiella pneumoniae],Not Mutated found,0,46
+YP_005224372.1,DNA-binding transcriptional regulator CpxR [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92139.1 DNA-binding response regulator [Klebsiella pneumoniae],Not Mutated found,0,232
+YP_005227419.1,murein lipoprotein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95021.1 murein lipoprotein [Klebsiella pneumoniae],Not Mutated found,0,78
+YP_005228693.1,FAD assembly factor SdhE,GCA_002156725.1 ARS96353.1 hypothetical protein B9G35_24105 [Klebsiella pneumoniae],Not Mutated found,0,88
+YP_005224806.1,hypothetical protein KPHS_05060 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC22550.1 hypothetical protein AM386_12305 [Klebsiella pneumoniae],Not Mutated found,0,43
+YP_005228264.1,hypothetical protein KPHS_39640 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC20817.1 hypothetical protein AM386_02840 [Klebsiella pneumoniae],Not Mutated found,0,42
+YP_005229456.1,hypothetical protein KPHS_51560 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC21896.1 hypothetical protein AM386_08695 [Klebsiella pneumoniae],Not Mutated found,0,39
+YP_005225662.1,hypothetical protein KPHS_13620 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC25228.1 hypothetical protein AM386_27210 [Klebsiella pneumoniae],Not Mutated found,0,55
+YP_005227428.1,hypothetical protein KPHS_31280 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC24425.1 hypothetical protein AM386_22655 [Klebsiella pneumoniae],Not Mutated found,0,40
+YP_005224317.1,YihD family protein,GCA_002156725.1 ARS92083.1 hypothetical protein B9G35_00785 [Klebsiella pneumoniae],Not Mutated found,0,89
+YP_005225667.1,hypothetical protein KPHS_13670 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93356.1 hypothetical protein B9G35_07800 [Klebsiella pneumoniae],Not Mutated found,0,225
+YP_005225054.1,YgdI/YgdR family lipoprotein,GCA_002156725.1 ARS92785.1 YgdI/YgdR family lipoprotein [Klebsiella pneumoniae],Not Mutated found,0,77
+YP_005228234.1,DNA-binding transcriptional regulator IscR [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95895.1 Fe-S cluster assembly transcriptional regulator IscR [Klebsiella pneumoniae],Not Mutated found,0,163
+YP_005225227.1,(3R)-hydroxymyristoyl-ACP dehydratase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92942.1 beta-hydroxyacyl-ACP dehydratase [Klebsiella pneumoniae],Not Mutated found,0,151
+YP_005228539.1,DUF423 domain-containing protein,GCA_002156725.1 ARS96204.1 hypothetical protein B9G35_23305 [Klebsiella pneumoniae],Not Mutated found,0,131
+YP_005229068.1,stringent starvation protein A [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96708.1 stringent starvation protein A [Klebsiella pneumoniae],Not Mutated found,0,212
+YP_005225543.1,hypothetical protein KPHS_12430 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_046764195.1 XMR13699.1 hypothetical protein ACLAI6_13365 [Klebsiella pneumoniae],Not Mutated found,0,40
+YP_005225122.1,zinc-binding protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92853.1 DNA gyrase inhibitor YacG [Klebsiella pneumoniae],Not Mutated found,0,64
+YP_005227623.1,fatty acid metabolism regulator [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95198.1 fatty acid metabolism transcriptional regulator FadR [Klebsiella pneumoniae],Not Mutated found,0,239
+YP_005224921.1,YbdD/YjiX family protein,GCA_002156725.1 ARS92664.1 hypothetical protein B9G35_04025 [Klebsiella pneumoniae],Not Mutated found,0,67
+YP_005225808.1,ribosome silencing factor,GCA_002156725.1 ARS93486.1 ribosome silencing factor RsfS [Klebsiella pneumoniae],Not Mutated found,0,105
+YP_005225842.1,hypothetical protein KPHS_15410 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC25054.1 hypothetical protein AM386_26245 [Klebsiella pneumoniae],Not Mutated found,0,38
+YP_005229037.1,maltose metabolism regulator [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96677.1 transcriptional regulator [Klebsiella pneumoniae],Not Mutated found,0,90
+YP_005229166.1,50S ribosomal protein L23 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96807.1 50S ribosomal protein L23 [Klebsiella pneumoniae],Not Mutated found,0,100
+YP_005225690.1,putative inner membrane protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93376.1 hypothetical protein B9G35_07910 [Klebsiella pneumoniae],Not Mutated found,0,82

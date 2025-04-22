@@ -1,0 +1,43 @@
+Protein_Id,Reference_Def,Hit Def,Status,Number of Mutations,Length,Enzyme_Type
+YP_005224934.1,"4-hydroxyphenylacetate degradation bifunctional isomerase/decarboxylase C-terminal subunit, partial [Klebsiella pneumoniae subsp. pneumoniae HS11286]","GCA_002156725.1 ARS92677.1 2-hydroxyhepta-2,4-diene-1,7-dioate isomerase [Klebsiella pneumoniae]",Mutated,8,254,isomerase
+YP_005224807.1,sugar isomerase (SIS) [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92553.1 phosphosugar isomerase [Klebsiella pneumoniae],Mutated,2,324,isomerase
+YP_005224822.1,TIM barrel protein,GCA_002156725.1 ARS92568.1 inosose isomerase [Klebsiella pneumoniae],Mutated,12,273,isomerase
+YP_005225149.1,FKBP-type peptidyl-prolyl cis-trans isomerase,GCA_002156725.1 ARS92877.1 peptidylprolyl isomerase [Klebsiella pneumoniae],Mutated,322,405,isomerase
+YP_005225262.1,phosphoheptose isomerase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92974.1 phosphoheptose isomerase [Klebsiella pneumoniae],Mutated,2,193,isomerase
+YP_005226817.1,putative epimerase/isomerase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94484.1 hydroxypyruvate isomerase [Klebsiella pneumoniae],Mutated,10,260,isomerase
+YP_005228414.1,D-arabinose 5-phosphate isomerase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96085.1 arabinose 5-phosphate isomerase GutQ [Klebsiella pneumoniae],Mutated,5,321,isomerase
+YP_005224824.1,5-deoxy-glucuronate isomerase,GCA_002156725.1 ARS92570.1 5-deoxy-glucuronate isomerase [Klebsiella pneumoniae],Mutated,4,269,isomerase
+YP_005227144.1,putative muconolactone delta-isomerase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94773.1 muconolactone delta-isomerase [Klebsiella pneumoniae],Mutated,28,96,isomerase
+YP_005225530.1,peptidyl-prolyl cis-trans isomerase B [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93221.1 peptidylprolyl isomerase [Klebsiella pneumoniae],Mutated,3,164,isomerase
+YP_005224866.1,xylose isomerase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92610.1 xylose isomerase [Klebsiella pneumoniae],Mutated,16,439,isomerase
+YP_005227841.1,1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95483.1 1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide isomerase [Klebsiella pneumoniae],Mutated,18,245,isomerase
+YP_005224422.1,peptidyl-prolyl cis-trans isomerase C [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92187.1 peptidyl-prolyl cis-trans isomerase [Klebsiella pneumoniae],Mutated,1,93,isomerase
+YP_005225033.1,FKBP-type peptidyl-prolyl cis-trans isomerase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92765.1 peptidylprolyl isomerase [Klebsiella pneumoniae],Mutated,1,149,isomerase
+YP_005224547.1,glucose-6-phosphate isomerase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92313.1 glucose-6-phosphate isomerase [Klebsiella pneumoniae],Mutated,3,549,isomerase
+YP_005224421.1,peptidyl-prolyl cis-trans isomerase C [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92186.1 peptidyl-prolyl cis-trans isomerase [Klebsiella pneumoniae],Mutated,2,93,isomerase
+YP_005229182.1,FKBP-type peptidyl-prolyl cis-trans isomerase FkpA [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96821.1 FKBP-type peptidyl-prolyl cis-trans isomerase [Klebsiella pneumoniae],Mutated,5,276,isomerase
+YP_005226719.1,mannose-6-phosphate isomerase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94390.1 mannose-6-phosphate isomerase [Klebsiella pneumoniae],Mutated,7,392,isomerase
+YP_005229388.1,xylose isomerase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS97014.1 xylose isomerase [Klebsiella pneumoniae],Mutated,3,440,isomerase
+YP_005229200.1,peptidylprolyl isomerase A [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96838.1 peptidylprolyl isomerase A [Klebsiella pneumoniae],Mutated,1,189,isomerase
+YP_005224364.1,L-rhamnose isomerase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92130.1 L-rhamnose isomerase [Klebsiella pneumoniae],Mutated,3,419,isomerase
+YP_005225445.1,peptidyl-prolyl cis-trans isomerase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93144.1 peptidylprolyl isomerase [Klebsiella pneumoniae],Mutated,12,624,isomerase
+YP_005224931.1,4-hydroxyphenylacetate catabolism [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92674.1 5-carboxymethyl-2-hydroxymuconate delta-isomerase [Klebsiella pneumoniae],Mutated,5,126,isomerase
+YP_005228953.1,uronate isomerase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96601.1 uronate isomerase [Klebsiella pneumoniae],Mutated,3,470,isomerase
+YP_005229371.1,putative sugar phosphate isomerase/epimerase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96997.1 xylose isomerase [Klebsiella pneumoniae],Mutated,3,249,isomerase
+YP_005229471.1,triosephosphate isomerase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS97088.1 triose-phosphate isomerase [Klebsiella pneumoniae],Mutated,1,255,isomerase
+YP_005224745.1,peptidyl-prolyl cis-trans isomerase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92496.1 peptidylprolyl isomerase [Klebsiella pneumoniae],Mutated,17,206,isomerase
+YP_005225764.1,S-methyl-5-thioribose-1-phosphate isomerase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93443.1 S-methyl-5-thioribose-1-phosphate isomerase [Klebsiella pneumoniae],Mutated,9,342,isomerase
+YP_005225152.1,hypothetical protein KPHS_08520 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92878.1 peptidylprolyl isomerase [Klebsiella pneumoniae],Mutated,629,85,isomerase
+YP_005229484.1,MurR/RpiR family transcriptional regulator,GCA_002156725.1 ARS91944.1 sugar isomerase [Klebsiella pneumoniae],Mutated,5,240,isomerase
+YP_005225679.1,putative phosphosugar isomerase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93365.1 phosphosugar isomerase [Klebsiella pneumoniae],Mutated,8,328,isomerase
+YP_005228534.1,L-fucose isomerase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96199.1 L-fucose isomerase [Klebsiella pneumoniae],Mutated,16,591,isomerase
+YP_005225062.1,peptidyl-prolyl cis-trans isomerase SurA [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92795.1 peptidyl-prolyl cis-trans isomerase [Klebsiella pneumoniae],Mutated,3,428,isomerase
+YP_005225154.1,hypothetical protein KPHS_08540 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92878.1 peptidylprolyl isomerase [Klebsiella pneumoniae],Mutated,526,195,isomerase
+YP_005228536.1,fucose operon protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96201.1 fucose isomerase [Klebsiella pneumoniae],Mutated,5,140,isomerase
+YP_005229184.1,FKBP-type peptidyl-prolyl cis-trans isomerase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96823.1 peptidylprolyl isomerase [Klebsiella pneumoniae],Mutated,1,195,isomerase
+YP_005229046.1,D-arabinose 5-phosphate isomerase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96687.1 D-arabinose 5-phosphate isomerase [Klebsiella pneumoniae],Mutated,10,334,isomerase
+YP_005225074.1,L-arabinose isomerase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92807.1 L-arabinose isomerase [Klebsiella pneumoniae],Mutated,12,500,isomerase
+YP_005228685.1,isopentenyl-diphosphate delta-isomerase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96345.1 isopentenyl-diphosphate Delta-isomerase [Klebsiella pneumoniae],Mutated,6,184,isomerase
+YP_005226852.1,putative oxidoreductase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94511.1 isomerase [Klebsiella pneumoniae],Mutated,16,263,isomerase
+YP_005224935.1,4-hydroxyphenylacetate catabolism [Klebsiella pneumoniae subsp. pneumoniae HS11286],"GCA_002156725.1 ARS92678.1 2-hydroxyhepta-2,4-diene-1,7-dioate isomerase [Klebsiella pneumoniae]",Mutated,5,210,isomerase
+YP_005226675.1,enoyl-CoA hydratase [Klebsiella pneumoniae subsp. pneumoniae HS11286],"GCA_002156725.1 ARS94351.1 2-(1,2-epoxy-1,2-dihydrophenyl)acetyl-CoA isomerase [Klebsiella pneumoniae]",Mutated,5,262,isomerase

@@ -1,0 +1,15 @@
+Protein_Id,Reference_Def,Hit Def,Status,Number of Mutations,Length,Enzyme_Type
+YP_005229580.1,"ribonuclease P protein component, partial [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156725.1 ARS92035.1 ribonuclease P protein component [Klebsiella pneumoniae],Mutated,83,37,ribonuclease
+YP_005229446.1,tRNA nucleotidyltransferase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS97340.1 ribonuclease PH [Klebsiella pneumoniae],Mutated,13,251,ribonuclease
+YP_005224813.1,ribonuclease E inhibitor RraB,GCA_002156725.1 ARS92558.1 ribonuclease E inhibitor B [Klebsiella pneumoniae],Mutated,2,140,ribonuclease
+YP_005225230.1,ribonuclease HII [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92945.1 ribonuclease HII [Klebsiella pneumoniae],Mutated,2,199,ribonuclease
+YP_005225256.1,RNase HI [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92968.1 ribonuclease HI [Klebsiella pneumoniae],Mutated,3,155,ribonuclease
+YP_005224376.1,ribonuclease activity regulator protein RraA [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92143.1 ribonuclease E activity regulator RraA [Klebsiella pneumoniae],Mutated,47,115,ribonuclease
+YP_005226261.1,"ribonuclease E, partial [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156725.1 ARS93908.1 ribonuclease E [Klebsiella pneumoniae],Mutated,1020,83,ribonuclease
+YP_005225792.1,ribonuclease T2 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93470.1 ribonuclease T(2) [Klebsiella pneumoniae],Mutated,6,265,ribonuclease
+YP_005227634.1,ribonuclease D [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95208.1 ribonuclease D [Klebsiella pneumoniae],Mutated,12,371,ribonuclease
+YP_005226262.1,RNase E [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93908.1 ribonuclease E [Klebsiella pneumoniae],Mutated,148,994,ribonuclease
+YP_005228032.1,ribonuclease Z [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95659.1 ribonuclease Z [Klebsiella pneumoniae],Mutated,14,306,ribonuclease
+YP_005228263.1,ribonuclease III [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95921.1 ribonuclease 3 [Klebsiella pneumoniae],Mutated,23,204,ribonuclease
+YP_005224725.1,ribonuclease R [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92475.1 ribonuclease R [Klebsiella pneumoniae],Mutated,6,810,ribonuclease
+YP_005224595.1,ribonuclease Z [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92357.1 ribonuclease Z [Klebsiella pneumoniae],Mutated,14,252,ribonuclease

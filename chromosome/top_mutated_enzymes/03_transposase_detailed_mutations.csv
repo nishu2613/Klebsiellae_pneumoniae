@@ -1,0 +1,33 @@
+Protein_Id,Reference_Def,Hit Def,Status,Number of Mutations,Length,Enzyme_Type
+YP_005224856.1,"IS3 family element, transposase orfB [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002202195.1 ASC22621.1 transposase [Klebsiella pneumoniae],Mutated,235,159,transposase
+YP_005224653.1,IS3 family transposase,GCA_002202195.1 ASC22409.1 transposase [Klebsiella pneumoniae],Mutated,208,261,transposase
+YP_005227561.1,transposase InsC for insertion sequence IS903 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94634.1 IS5/IS1182 family transposase [Klebsiella pneumoniae],Mutated,156,322,transposase
+YP_005228782.1,transposase InsC for insertion sequence IS903 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94634.1 IS5/IS1182 family transposase [Klebsiella pneumoniae],Mutated,156,322,transposase
+YP_005227872.1,putative transposase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156745.1 ARS98858.1 IS5/IS1182 family transposase [Klebsiella pneumoniae],Mutated,34,326,transposase
+YP_005226559.1,IS66 family insertion sequence element accessory protein TnpB,GCA_002156725.1 ARS97379.1 transposase (plasmid) [Klebsiella pneumoniae],Mutated,53,115,transposase
+YP_005226558.1,IS66-like element ISKpn24 family transposase,GCA_002752775.1 ATQ92484.1 IS66 family transposase [Klebsiella pneumoniae],Mutated,87,512,transposase
+YP_005227427.1,transposase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156745.1 ART01212.1 IS1380 family transposase [Klebsiella pneumoniae],Mutated,23,420,transposase
+YP_005224844.1,transposase InsC for insertion sequence IS903 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94634.1 IS5/IS1182 family transposase [Klebsiella pneumoniae],Mutated,156,322,transposase
+YP_005225696.1,IS3 family transposase,GCA_002202195.1 ASC22409.1 transposase [Klebsiella pneumoniae],Mutated,208,261,transposase
+YP_005224917.1,putative transposase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92660.1 ISNCY family transposase [Klebsiella pneumoniae],Mutated,25,308,transposase
+YP_005226967.1,transposase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156745.1 ART01212.1 IS1380 family transposase [Klebsiella pneumoniae],Mutated,23,420,transposase
+YP_005225153.1,transposase InsC for insertion sequence IS903 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94634.1 IS5/IS1182 family transposase [Klebsiella pneumoniae],Mutated,156,322,transposase
+YP_005228351.1,transposase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156745.1 ART01212.1 IS1380 family transposase [Klebsiella pneumoniae],Mutated,23,420,transposase
+YP_005228565.1,transposase InsC for insertion sequence IS903 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94634.1 IS5/IS1182 family transposase [Klebsiella pneumoniae],Mutated,156,322,transposase
+YP_005226836.1,transposase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156745.1 ART01212.1 IS1380 family transposase [Klebsiella pneumoniae],Mutated,23,420,transposase
+YP_005225492.1,Rpn family recombination-promoting nuclease/putative transposase,GCA_002156725.1 ARS93187.1 transposase [Klebsiella pneumoniae],Mutated,12,299,transposase
+YP_005226399.1,IS3 family transposase,GCA_002202195.1 ASC22409.1 transposase [Klebsiella pneumoniae],Mutated,208,261,transposase
+YP_005225151.1,transposase IS3/IS911 family protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002812665.1 AUA51562.1 IS3-like ISKpn18 family transposase [Klebsiella pneumoniae],Mutated,329,80,transposase
+YP_005225762.1,IS3 family transposase,GCA_002202195.1 ASC22409.1 transposase [Klebsiella pneumoniae],Mutated,208,261,transposase
+YP_005225571.1,transposase InsC for insertion sequence IS903 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94634.1 IS5/IS1182 family transposase [Klebsiella pneumoniae],Mutated,156,322,transposase
+YP_005229359.1,IS3 family transposase,GCA_002202195.1 ASC22409.1 transposase [Klebsiella pneumoniae],Mutated,208,261,transposase
+YP_005225570.1,transposase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156745.1 ART01212.1 IS1380 family transposase [Klebsiella pneumoniae],Mutated,23,420,transposase
+YP_005228023.1,"putative transposase, YhgA-like protein [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156725.1 ARS95650.1 ISNCY family transposase [Klebsiella pneumoniae],Mutated,19,317,transposase
+YP_005229449.1,putative transposase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC20411.1 transposase (plasmid) [Klebsiella pneumoniae],Mutated,248,167,transposase
+YP_005225150.1,integrase catalytic subunit [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002812665.1 AUA51562.1 IS3-like ISKpn18 family transposase [Klebsiella pneumoniae],Mutated,109,292,transposase
+YP_005226288.1,transposase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156745.1 ART01212.1 IS1380 family transposase [Klebsiella pneumoniae],Mutated,23,420,transposase
+YP_005225191.1,IS3 family transposase,GCA_002202195.1 ASC22409.1 transposase [Klebsiella pneumoniae],Mutated,208,261,transposase
+YP_005224962.1,putative cytoplasmic protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS97132.1 ISNCY family transposase [Klebsiella pneumoniae],Mutated,28,314,transposase
+YP_005229428.1,transposase InsC for insertion sequence IS903 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94634.1 IS5/IS1182 family transposase [Klebsiella pneumoniae],Mutated,156,322,transposase
+YP_005224465.1,ISNCY family transposase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92231.1 ISNCY family transposase [Klebsiella pneumoniae],Mutated,17,302,transposase
+YP_005228191.1,"putative transposase, YhgA-like protein [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156725.1 ARS95802.1 ISNCY family transposase [Klebsiella pneumoniae],Mutated,8,303,transposase

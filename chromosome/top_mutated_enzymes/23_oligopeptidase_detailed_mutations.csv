@@ -1,0 +1,4 @@
+Protein_Id,Reference_Def,Hit Def,Status,Number of Mutations,Length,Enzyme_Type
+YP_005229318.1,oligopeptidase A [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96952.1 oligopeptidase A [Klebsiella pneumoniae],Mutated,11,680,oligopeptidase
+YP_005227679.1,protease 2 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95249.1 oligopeptidase B [Klebsiella pneumoniae],Mutated,200,525,oligopeptidase
+YP_005227678.1,"protease 2, partial [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156725.1 ARS95249.1 oligopeptidase B [Klebsiella pneumoniae],Mutated,545,149,oligopeptidase

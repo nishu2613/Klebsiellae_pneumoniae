@@ -1,0 +1,11 @@
+Protein_Id,Reference_Def,Hit Def,Status,Number of Mutations,Length,Category
+YP_005229654.1,transcriptional repressor protein KorC (plasmid) [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_003367555.1 AXK99984.1 transcriptional repressor protein KorC (plasmid) [Klebsiella pneumoniae],Mutated,7,98,Regulators
+YP_005220826.1,hypothetical protein (plasmid) [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC26349.1 transcriptional regulator (plasmid) [Klebsiella pneumoniae],Mutated,1,126,Regulators
+YP_005229747.1,hypothetical protein (plasmid) [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS97467.1 transcriptional regulator (plasmid) [Klebsiella pneumoniae],Mutated,21,82,Regulators
+YP_005220999.1,ArsR family transcriptional regulator (plasmid) [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156745.1 ART02607.1 transcriptional regulator [Klebsiella pneumoniae],Mutated,48,65,Regulators
+YP_005229638.1,putative transcriptional regulator MerR (plasmid) [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156745.1 ART02727.1 mercuric resistance operon regulatory protein [Klebsiella pneumoniae],Mutated,46,144,Regulators
+YP_005229728.1,XRE-like antitoxin protein (plasmid) [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS97452.1 transcriptional regulator (plasmid) [Klebsiella pneumoniae],Mutated,3,92,Regulators
+YP_005220901.1,putative transcriptional regulator (plasmid) [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC26284.1 transcriptional regulator (plasmid) [Klebsiella pneumoniae],Mutated,8,176,Regulators
+YP_005220973.1,transcriptional regulator (plasmid) [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002967795.2 QKE17848.1 transcriptional regulator (plasmid) [Klebsiella pneumoniae],Mutated,7,182,Regulators
+YP_005229676.1,replication regulatory protein RepA2 (plasmid) [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_021535105.1 UJH89633.1 replication regulatory protein RepA (plasmid) [Klebsiella pneumoniae],Mutated,7,89,Regulators
+YP_005220815.1,putative regulator (plasmid) [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002202195.1 ASC26357.1 regulator (plasmid) [Klebsiella pneumoniae],Mutated,10,335,Regulators

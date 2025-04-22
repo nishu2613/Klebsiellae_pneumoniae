@@ -1,0 +1,7 @@
+Protein_Id,Reference_Def,Hit Def,Status,Number of Mutations,Length,Enzyme_Type
+YP_005224355.1,putative glycoprotein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92122.1 alpha-galactosidase [Klebsiella pneumoniae],Mutated,14,707,galactosidase
+YP_005226828.1,beta-D-galactosidase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94493.1 beta-D-galactosidase [Klebsiella pneumoniae],Mutated,601,540,galactosidase
+YP_005225474.1,beta-galactosidase 1 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93171.1 beta-galactosidase [Klebsiella pneumoniae],Mutated,12,685,galactosidase
+YP_005225473.1,putative galactosidase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93170.1 galactosidase [Klebsiella pneumoniae],Mutated,15,400,galactosidase
+YP_005226827.1,"beta-D-galactosidase, partial [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156725.1 ARS94493.1 beta-D-galactosidase [Klebsiella pneumoniae],Mutated,582,486,galactosidase
+YP_005226980.1,hypothetical protein KPHS_26800 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94624.1 beta-galactosidase [Klebsiella pneumoniae],Mutated,6,251,galactosidase

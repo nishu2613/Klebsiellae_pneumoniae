@@ -1,0 +1,20 @@
+Protein_Id,Reference_Def,Hit Def,Status,Number of Mutations,Length,Enzyme_Type
+YP_005226338.1,EAL domain-containing protein,GCA_002156725.1 ARS93971.1 diguanylate phosphodiesterase [Klebsiella pneumoniae],Mutated,3,228,phosphodiesterase
+YP_005225467.1,EAL domain-containing protein,GCA_002156725.1 ARS93165.1 cyclic diguanylate phosphodiesterase [Klebsiella pneumoniae],Mutated,23,513,phosphodiesterase
+YP_005224834.1,putative phosphohydrolase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92583.1 phosphodiesterase [Klebsiella pneumoniae],Mutated,10,274,phosphodiesterase
+YP_005225272.1,glycerophosphoryl diester phosphodiesterase,GCA_002156725.1 ARS92985.1 glycerophosphodiester phosphodiesterase [Klebsiella pneumoniae],Mutated,16,286,phosphodiesterase
+YP_005228057.1,phosphodiesterase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95684.1 phosphodiesterase [Klebsiella pneumoniae],Mutated,5,183,phosphodiesterase
+YP_005224601.1,EAL domain-containing protein,GCA_002156725.1 ARS92363.1 cyclic diguanylate phosphodiesterase [Klebsiella pneumoniae],Mutated,10,534,phosphodiesterase
+YP_005228011.1,glycerophosphoryl diester phosphodiesterase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95640.1 glycerophosphoryl diester phosphodiesterase [Klebsiella pneumoniae],Mutated,11,356,phosphodiesterase
+YP_005225909.1,diguanylate phosphodiesterase,GCA_002156725.1 ARS93577.1 diguanylate phosphodiesterase [Klebsiella pneumoniae],Mutated,3,403,phosphodiesterase
+YP_005226813.1,diguanylate phosphodiesterase,GCA_002156725.1 ARS94476.1 diguanylate phosphodiesterase [Klebsiella pneumoniae],Mutated,8,405,phosphodiesterase
+YP_005228201.1,putative cytochrome C-type biogenesis protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95812.1 sensor domain-containing phosphodiesterase [Klebsiella pneumoniae],Mutated,16,742,phosphodiesterase
+YP_005226343.1,"putativ metal-dependent phosphohydrolase, HD subdomai [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156725.1 ARS93975.1 phosphodiesterase [Klebsiella pneumoniae],Mutated,19,402,phosphodiesterase
+YP_005228873.1,"cyclic 3',5'-adenosine monophosphate phosphodiesterase [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156725.1 ARS96524.1 phosphodiesterase [Klebsiella pneumoniae],Mutated,1,275,phosphodiesterase
+YP_005227645.1,EAL domain-containing protein,GCA_002156725.1 ARS95217.1 cyclic diguanylate phosphodiesterase [Klebsiella pneumoniae],Mutated,37,525,phosphodiesterase
+YP_005225394.1,phosphodiesterase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93095.1 ACP phosphodiesterase [Klebsiella pneumoniae],Mutated,7,193,phosphodiesterase
+YP_005228642.1,EAL domain-containing protein,GCA_002156725.1 ARS96305.1 diguanylate phosphodiesterase [Klebsiella pneumoniae],Mutated,6,238,phosphodiesterase
+YP_005226181.1,diguanylate phosphodiesterase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93836.1 diguanylate phosphodiesterase [Klebsiella pneumoniae],Mutated,380,206,phosphodiesterase
+YP_005229262.1,glycerophosphodiester phosphodiesterase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96901.1 glycerophosphoryl diester phosphodiesterase [Klebsiella pneumoniae],Mutated,11,246,phosphodiesterase
+YP_005224752.1,"2',3'-cyclic-nucleotide 2'-phosphodiesterase [Klebsiella pneumoniae subsp. pneumoniae HS11286]","GCA_002156725.1 ARS92503.1 2',3'-cyclic-nucleotide 2'-phosphodiesterase [Klebsiella pneumoniae]",Mutated,15,647,phosphodiesterase
+YP_005228117.1,EAL domain-containing protein,GCA_002156725.1 ARS95735.1 sensor domain-containing phosphodiesterase [Klebsiella pneumoniae],Mutated,46,723,phosphodiesterase

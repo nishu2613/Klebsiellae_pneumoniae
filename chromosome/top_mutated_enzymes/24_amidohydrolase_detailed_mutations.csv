@@ -1,0 +1,14 @@
+Protein_Id,Reference_Def,Hit Def,Status,Number of Mutations,Length,Enzyme_Type
+YP_005227321.1,putative creatininase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94932.1 creatinine amidohydrolase [Klebsiella pneumoniae],Mutated,10,293,amidohydrolase
+YP_005225386.1,amidohydrolase,GCA_002156725.1 ARS93088.1 amidohydrolase [Klebsiella pneumoniae],Mutated,18,622,amidohydrolase
+YP_005224425.1,putative amidohydrolase 2 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92190.1 amidohydrolase [Klebsiella pneumoniae],Mutated,7,332,amidohydrolase
+YP_005227019.1,"putative amidase, partial [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156725.1 ARS94663.1 AtzE family amidohydrolase [Klebsiella pneumoniae],Mutated,275,228,amidohydrolase
+YP_005225260.1,carbon-nitrogen hydrolase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS97150.1 amidohydrolase [Klebsiella pneumoniae],Mutated,11,261,amidohydrolase
+YP_005225640.1,aminobenzoyl-glutamate utilization protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93331.1 amidohydrolase [Klebsiella pneumoniae],Mutated,7,392,amidohydrolase
+YP_005226741.1,aminobenzoyl-glutamate utilization protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156745.1 ARS97931.1 amidohydrolase [Klebsiella pneumoniae],Mutated,11,481,amidohydrolase
+YP_005227020.1,"amidohydrolase, AtzE family, partial [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156725.1 ARS94663.1 AtzE family amidohydrolase [Klebsiella pneumoniae],Mutated,245,252,amidohydrolase
+YP_005226145.1,putative peptidase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93799.1 amidohydrolase [Klebsiella pneumoniae],Mutated,6,388,amidohydrolase
+YP_005227181.1,amidohydrolase,GCA_002156725.1 ARS94806.1 amidohydrolase [Klebsiella pneumoniae],Mutated,35,568,amidohydrolase
+YP_005227315.1,amidohydrolase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94925.1 amidohydrolase [Klebsiella pneumoniae],Mutated,98,472,amidohydrolase
+YP_005226506.1,putative amino acid amidohydrolase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94191.1 amidohydrolase [Klebsiella pneumoniae],Mutated,4,389,amidohydrolase
+YP_005226229.1,putative cysteine hydrolase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93879.1 amidohydrolase [Klebsiella pneumoniae],Mutated,3,225,amidohydrolase

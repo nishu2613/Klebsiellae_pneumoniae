@@ -1,0 +1,95 @@
+Protein_Id,Reference_Def,Hit Def,Status,Number of Mutations,Length,Enzyme_Type
+YP_005225933.1,sensor protein for basR [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93600.1 two-component sensor histidine kinase [Klebsiella pneumoniae],Mutated,37,342,kinase
+YP_005227060.1,HAMP domain-containing protein,GCA_002156725.1 ARS94702.1 two-component sensor histidine kinase [Klebsiella pneumoniae],Mutated,26,447,kinase
+YP_005228971.1,glycerate kinase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96617.1 glycerate 2-kinase [Klebsiella pneumoniae],Mutated,12,381,kinase
+YP_005225502.1,adenylate kinase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93196.1 adenylate kinase [Klebsiella pneumoniae],Mutated,2,214,kinase
+YP_005229226.1,osmolarity sensor protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96863.1 two-component sensor histidine kinase [Klebsiella pneumoniae],Mutated,7,451,kinase
+YP_005225066.1,two-component sensor kinase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92799.1 histidine kinase [Klebsiella pneumoniae],Mutated,5,541,kinase
+YP_005228108.1,putative sensor protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95728.1 sensor histidine kinase [Klebsiella pneumoniae],Mutated,10,559,kinase
+YP_005227893.1,lipid kinase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS97278.1 lipid kinase YegS [Klebsiella pneumoniae],Mutated,5,298,kinase
+YP_005226275.1,thymidylate kinase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93919.1 thymidylate kinase [Klebsiella pneumoniae],Mutated,1,213,kinase
+YP_005224632.1,putative histidine protein kinase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92391.1 hybrid sensor histidine kinase/response regulator [Klebsiella pneumoniae],Mutated,21,761,kinase
+YP_005226458.1,putative hydroxypyruvate reductase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94076.1 glycerate kinase [Klebsiella pneumoniae],Mutated,8,419,kinase
+YP_005225791.1,nucleoside diphosphate kinase regulator [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93469.1 nucleoside diphosphate kinase regulator [Klebsiella pneumoniae],Mutated,2,136,kinase
+YP_005227477.1,protein kinase-like protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95072.1 fructosamine kinase family protein [Klebsiella pneumoniae],Mutated,2,290,kinase
+YP_005225732.1,"Carbohydrate kinase, FGGY-like protein [Klebsiella pneumoniae subsp. pneumoniae HS11286]",GCA_002156725.1 ARS93413.1 carbohydrate kinase [Klebsiella pneumoniae],Mutated,12,506,kinase
+YP_005228199.1,polyphosphate kinase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95810.1 RNA degradosome polyphosphate kinase [Klebsiella pneumoniae],Mutated,4,686,kinase
+YP_005226300.1,N-acetyl-D-glucosamine kinase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93937.1 N-acetylglucosamine kinase [Klebsiella pneumoniae],Mutated,10,303,kinase
+YP_005225409.1,thiamine monophosphate kinase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93109.1 thiamine-monophosphate kinase [Klebsiella pneumoniae],Mutated,7,323,kinase
+YP_005224887.1,sensor kinase CusS [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92630.1 two-component sensor histidine kinase [Klebsiella pneumoniae],Mutated,23,477,kinase
+YP_005226723.1,sensor protein RstB [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94394.1 two-component sensor histidine kinase [Klebsiella pneumoniae],Mutated,3,433,kinase
+YP_005225504.1,inosine-guanosine kinase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93198.1 inosine/guanosine kinase [Klebsiella pneumoniae],Mutated,1,434,kinase
+YP_005226122.1,tetraacyldisaccharide 4'-kinase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93782.1 tetraacyldisaccharide 4'-kinase [Klebsiella pneumoniae],Mutated,9,326,kinase
+YP_005225124.1,dephospho-CoA kinase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92855.1 dephospho-CoA kinase [Klebsiella pneumoniae],Mutated,36,235,kinase
+YP_005227911.1,hydroxyethylthiazole kinase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95548.1 hydroxyethylthiazole kinase [Klebsiella pneumoniae],Mutated,14,257,kinase
+YP_005227253.1,pyridoxamine kinase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94872.1 pyridoxal kinase [Klebsiella pneumoniae],Mutated,4,286,kinase
+YP_005228929.1,dihydroxyacetone kinase subunit DhaM [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96577.1 dihydroxyacetone kinase subunit DhaM [Klebsiella pneumoniae],Mutated,6,473,kinase
+YP_005227257.1,anhydro-N-acetylmuramic acid kinase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94875.1 anhydro-N-acetylmuramic acid kinase [Klebsiella pneumoniae],Mutated,5,374,kinase
+YP_005225218.1,uridylate kinase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92932.1 UMP kinase [Klebsiella pneumoniae],Mutated,1,241,kinase
+YP_005227536.1,4-diphosphocytidyl-2-C-methyl-D-erythritol kinase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95122.1 4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase [Klebsiella pneumoniae],Mutated,9,282,kinase
+YP_005228355.1,inorganic polyphosphate/ATP-NAD kinase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95961.1 NAD(+) kinase [Klebsiella pneumoniae],Mutated,2,292,kinase
+YP_005226929.1,glycerate kinase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94582.1 glycerate kinase [Klebsiella pneumoniae],Mutated,25,391,kinase
+YP_005224628.1,putative carbohydrate kinase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92387.1 sugar kinase [Klebsiella pneumoniae],Mutated,14,335,kinase
+YP_005224946.1,2-oxo-3-deoxygalactonate kinase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92688.1 2-oxo-3-deoxygalactonate kinase [Klebsiella pneumoniae],Mutated,16,290,kinase
+YP_005224318.1,serine/threonine protein kinase RdoA [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92084.1 stress response kinase A [Klebsiella pneumoniae],Mutated,3,328,kinase
+YP_005228196.1,putative beta-glucoside kinase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95807.1 beta-glucoside kinase [Klebsiella pneumoniae],Mutated,5,297,kinase
+YP_005228927.1,dihydroxyacetone kinase subunit DhaK [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96575.1 dihydroxyacetone kinase subunit DhaK [Klebsiella pneumoniae],Mutated,4,356,kinase
+YP_005228586.1,propanediol utilization [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96251.1 GHMP kinase [Klebsiella pneumoniae],Mutated,22,300,kinase
+YP_005225847.1,sensor histidine kinase KdpD [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93523.1 two-component sensor histidine kinase [Klebsiella pneumoniae],Mutated,249,895,kinase
+YP_005227881.1,putative signal transduction histidine kinase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95522.1 histidine kinase [Klebsiella pneumoniae],Mutated,46,618,kinase
+YP_005228928.1,dihydroxyacetone kinase ADP-binding subunit [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96576.1 dihydroxyacetone kinase subunit L [Klebsiella pneumoniae],Mutated,3,210,kinase
+YP_005228585.1,propionate kinase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96250.1 propionate kinase [Klebsiella pneumoniae],Mutated,10,404,kinase
+YP_005226760.1,sensory histidine kinase DcuS [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94430.1 two-component system sensor histidine kinase DcuS [Klebsiella pneumoniae],Mutated,33,513,kinase
+YP_005227132.1,polyphosphate kinase 2,GCA_002156725.1 ARS94760.1 polyphosphate kinase 2 [Klebsiella pneumoniae],Mutated,6,272,kinase
+YP_005228911.1,putative sensor protein EvgS1 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96559.1 histidine kinase [Klebsiella pneumoniae],Mutated,26,1080,kinase
+YP_005228054.1,acetate kinase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95681.1 acetate kinase [Klebsiella pneumoniae],Mutated,4,400,kinase
+YP_005228930.1,putative dihydroxyacetone kinase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96578.1 dihydroxyacetone kinase [Klebsiella pneumoniae],Mutated,14,549,kinase
+YP_005228977.1,putative kinase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96622.1 sugar kinase [Klebsiella pneumoniae],Mutated,3,316,kinase
+YP_005229542.1,two-component regulatory system sensor histidine kinase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS91998.1 two-component system sensor histidine kinase UhpB [Klebsiella pneumoniae],Mutated,19,491,kinase
+YP_005228134.1,pyridoxal kinase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95749.1 bifunctional pyridoxal kinase/hydroxymethylpyrimidine kinase [Klebsiella pneumoniae],Mutated,6,288,kinase
+YP_005224401.1,acetylglutamate kinase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92166.1 acetylglutamate kinase [Klebsiella pneumoniae],Mutated,6,257,kinase
+YP_005227512.1,two-component nitrate/nitrite sensory histidine protein kinase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95102.1 nitrate/nitrite two-component system sensor histidine kinase NarX [Klebsiella pneumoniae],Mutated,8,592,kinase
+YP_005227174.1,hypothetical protein KPHS_28740 [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94801.1 adenylate kinase [Klebsiella pneumoniae],Mutated,11,183,kinase
+YP_005226963.1,phosphoglycerate transporter [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94611.1 sensor histidine kinase [Klebsiella pneumoniae],Mutated,19,664,kinase
+YP_005228505.1,hybrid sensory histidine kinase BarA [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96171.1 hybrid sensor histidine kinase/response regulator [Klebsiella pneumoniae],Mutated,11,916,kinase
+YP_005227803.1,polymyxin resistance protein B [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95419.1 histidine kinase [Klebsiella pneumoniae],Mutated,5,81,kinase
+YP_005227690.1,pyruvate kinase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95257.1 pyruvate kinase [Klebsiella pneumoniae],Mutated,2,480,kinase
+YP_005225007.1,catabolite repression sensor kinase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92742.1 two-component sensor histidine kinase [Klebsiella pneumoniae],Mutated,8,474,kinase
+YP_005226282.1,putative beta-glucosidase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93926.1 thiamine kinase [Klebsiella pneumoniae],Mutated,16,275,kinase
+YP_005227890.1,two-component regulatory system sensor protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95530.1 two-component sensor histidine kinase [Klebsiella pneumoniae],Mutated,11,492,kinase
+YP_005226376.1,protein kinase YeaG,GCA_002156725.1 ARS94005.1 serine protein kinase PrkA [Klebsiella pneumoniae],Mutated,3,644,kinase
+YP_005225775.1,putative kinase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93453.1 kinase [Klebsiella pneumoniae],Mutated,9,313,kinase
+YP_005229213.1,shikimate kinase I [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96850.1 shikimate kinase I [Klebsiella pneumoniae],Mutated,12,161,kinase
+YP_005226902.1,HipA family toxin-antitoxin system [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94560.1 serine/threonine protein kinase [Klebsiella pneumoniae],Mutated,16,440,kinase
+YP_005225370.1,shikimate kinase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93072.1 shikimate kinase II [Klebsiella pneumoniae],Mutated,1,177,kinase
+YP_005227600.1,propionate kinase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95178.1 propionate/acetate kinase [Klebsiella pneumoniae],Mutated,16,402,kinase
+YP_005225013.1,homoserine kinase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92747.1 homoserine kinase [Klebsiella pneumoniae],Mutated,3,309,kinase
+YP_005224493.1,pantothenate kinase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92259.1 type I pantothenate kinase [Klebsiella pneumoniae],Mutated,31,288,kinase
+YP_005226175.1,putative outer membrane protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93830.1 kinase inhibitor [Klebsiella pneumoniae],Mutated,22,184,kinase
+YP_005225388.1,putative kinase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93090.1 kinase [Klebsiella pneumoniae],Mutated,2,320,kinase
+YP_005227926.1,sensor histidine kinase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS97283.1 sensor histidine kinase [Klebsiella pneumoniae],Mutated,17,562,kinase
+YP_005229058.1,aerobic respiration control sensor protein ArcB [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96699.1 hybrid sensor histidine kinase/response regulator [Klebsiella pneumoniae],Mutated,3,779,kinase
+YP_005228942.1,putative kinase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96590.1 autoinducer-2 kinase [Klebsiella pneumoniae],Mutated,11,532,kinase
+YP_005224326.1,nitrogen regulation protein NR(II) [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92093.1 two-component system sensor histidine kinase NtrB [Klebsiella pneumoniae],Mutated,1,349,kinase
+YP_005227347.1,sensor histidine protein kinase (RstA regulator) [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94956.1 sensor histidine kinase [Klebsiella pneumoniae],Mutated,12,353,kinase
+YP_005228868.1,integral membrane sensor signal transduction histidine kinase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96519.1 two-component sensor histidine kinase [Klebsiella pneumoniae],Mutated,17,449,kinase
+YP_005228252.1,sensor histidine kinase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS97295.1 two-component sensor histidine kinase [Klebsiella pneumoniae],Mutated,19,473,kinase
+YP_005225291.1,putative L-xylulose kinase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93003.1 carbohydrate kinase [Klebsiella pneumoniae],Mutated,11,512,kinase
+YP_005226069.1,putative signal transduction histidine kinase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93732.1 two-component sensor histidine kinase [Klebsiella pneumoniae],Mutated,12,490,kinase
+YP_005227910.1,phosphomethylpyrimidine kinase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95547.1 bifunctional hydroxymethylpyrimidine kinase/phosphomethylpyrimidine kinase [Klebsiella pneumoniae],Mutated,10,266,kinase
+YP_005225925.1,putative kinase inhibitor protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93591.1 kinase inhibitor [Klebsiella pneumoniae],Mutated,4,158,kinase
+YP_005229570.1,2-oxo-3-deoxygalactonate kinase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92025.1 2-oxo-3-deoxygalactonate kinase [Klebsiella pneumoniae],Mutated,16,292,kinase
+YP_005225763.1,methylthioribose kinase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93442.1 methylthioribose kinase [Klebsiella pneumoniae],Mutated,8,399,kinase
+YP_005226117.1,cytidylate kinase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93777.1 cytidylate kinase [Klebsiella pneumoniae],Mutated,17,242,kinase
+YP_005226945.1,putative pentose kinase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS94596.1 pentose kinase [Klebsiella pneumoniae],Mutated,29,501,kinase
+YP_005225039.1,signal transduction histidine kinase regulating citrate/malate metabolism [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS97141.1 histidine kinase [Klebsiella pneumoniae],Mutated,31,571,kinase
+YP_005224565.1,diacylglycerol kinase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92331.1 diacylglycerol kinase [Klebsiella pneumoniae],Mutated,2,122,kinase
+YP_005229477.1,glycerol kinase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS97093.1 glycerol kinase [Klebsiella pneumoniae],Mutated,2,503,kinase
+YP_005227094.1,DUF2236 domain-containing protein,GCA_002156725.1 ARS94727.1 histidine kinase [Klebsiella pneumoniae],Mutated,9,289,kinase
+YP_005227496.1,thymidine kinase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95088.1 thymidine kinase [Klebsiella pneumoniae],Mutated,34,175,kinase
+YP_005228721.1,phosphoglycerate kinase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96379.1 phosphoglycerate kinase [Klebsiella pneumoniae],Mutated,1,387,kinase
+YP_005225773.1,putative carbohydrate kinase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93451.1 carbohydrate kinase [Klebsiella pneumoniae],Mutated,10,498,kinase
+YP_005225379.1,positive and negative sensor protein for pho regulon [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS93081.1 PAS domain-containing sensor histidine kinase [Klebsiella pneumoniae],Mutated,3,431,kinase
+YP_005224371.1,two-component sensor protein [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS92138.1 two-component system sensor histidine kinase CpxA [Klebsiella pneumoniae],Mutated,9,453,kinase
+YP_005228506.1,glycerate kinase [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS96172.1 glycerate kinase [Klebsiella pneumoniae],Mutated,6,379,kinase
+YP_005228005.1,hybrid sensory kinase in two-component regulatory system with RcsB and YojN [Klebsiella pneumoniae subsp. pneumoniae HS11286],GCA_002156725.1 ARS95632.1 hybrid sensor histidine kinase/response regulator [Klebsiella pneumoniae],Mutated,7,946,kinase
